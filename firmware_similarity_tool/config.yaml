@@ -1,0 +1,113 @@
+# 结果目录
+result_dir: "comparison_results"
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "firmware_similarity.log"
+
+# 启用的比较模块
+modules:
+  binwalk: true
+  interface_exposure: true
+  param: true
+  ghidra: true
+  filesystem_profile: true  # 文件系统语义画像模块
+
+# 模块权重配置（用于计算总体相似度）
+module_weights:
+  binwalk: 0.1   # 二进制结构相似度
+  interface_exposure: 0.3 # 通信接口暴露画像相似度
+  param: 0.3     # 参数调用链相似度
+  ghidra: 0.1    # Ghidra函数相似度
+  filesystem_profile: 0.2 # 文件系统语义画像相似度
+
+# 各模块的具体配置
+module_configs:
+  binwalk:
+    # binwalk结果文件名（文件格式为.json而不是_output.json）
+    binwalk_file1: "binwalk_docker_result/binwalk_log/{firmware_dir}.json"
+    binwalk_file2: "binwalk_docker_result/binwalk_log/{firmware_dir}.json"
+    ngram_size: [3]  # n-gram大小
+  
+  interface_exposure:
+    # API和参数文件路径
+    api_file1: "output_json/{firmware_dir}/keyword_extract_result/simple/API_simple.result"
+    api_file2: "output_json/{firmware_dir}/keyword_extract_result/simple/API_simple.result"
+    param_file1: "output_json/{firmware_dir}/keyword_extract_result/simple/Prar_simple.result"
+    param_file2: "output_json/{firmware_dir}/keyword_extract_result/simple/Prar_simple.result"
+    api_weight: 0.3                
+    param_weight: 0.3              
+    structural_summary_weight: 0.4 
+  
+  param:
+    # 参数调用链文件路径
+    param_link_file1: "output_json/{firmware_dir}/param_link.json"
+    param_link_file2: "output_json/{firmware_dir}/param_link.json"
+  
+  ghidra:
+    # Ghidra分析结果路径
+    ghidra_folder1: "output_json/{firmware_dir}"
+    ghidra_folder2: "output_json/{firmware_dir}"
+    exports_weight: 0.25  # 导出权重
+    imports_weight: 0.25  # 导入权重
+    symbols_weight: 0.25  # 符号权重
+    funcs_weight: 0.25  # 函数权重
+    
+  # 文件系统语义画像模块配置
+  filesystem_profile:
+    # 文件路径配置
+    output_json_file1: "output_json/{firmware_dir}/output.json"
+    output_json_file2: "output_json/{firmware_dir}/output.json"
+    string_file1: "output_json/{firmware_dir}/string_name.txt"
+    string_folder2: "output_json/{firmware_dir}"
+    strings_folder1: "output_json/{firmware_dir}/{firmware_dir}_all_strings"
+    strings_folder2: "output_json/{firmware_dir}/{firmware_dir}_all_strings"
+    
+    # 三个主要维度的权重
+    structure_weight: 0.3  # 结构布局建模相似度权重
+    sensitive_weight: 0.3  # 敏感资源相似度权重
+    binary_weight: 0.4     # 二进制资源签名相似度权重
+    
+    # 结构布局建模内部权重
+    directory_weight: 0.5  # 目录结构相似度权重
+    file_set_weight: 0.4   # 文件集合相似度权重
+    basic_info_weight: 0.1 # 基本信息相似度权重
+    
+    # 敏感资源标注内部权重
+    ip_weight: 0.1         # IP地址相似度权重
+    url_weight: 0.1        # URL相似度权重
+    email_weight: 0.1      # Email相似度权重
+    config_file_weight: 0.15  # 配置文件相似度权重
+    key_weight: 0.15       # 密钥相似度权重
+    hash_weight: 0.1       # 哈希相似度权重
+    file_hash_weight: 0.1  # 文件哈希相似度权重
+    file_info_weight: 0.2  # 详细文件信息相似度权重
+    
+    # 二进制资源分析内部权重
+    binary_hash_weight: 0.3  # 二进制哈希相似度权重
+    string_weight: 0.2      # 字符串相似度权重
+    allstrings_weight: 0.3  # 全部字符串相似度权重
+    bin_file_weight: 0.2    # 二进制文件信息相似度权重
+    
+    # 其他重用的配置参数
+    num_perm: 128          # MinHash排列数
+    similarity_threshold: 50  # 模糊哈希相似度阈值
+    match_weight: 0.5      # 完全匹配权重
+    sim_weight: 0.5        # 相似度权重
+    min_string_length: 4   # 最小字符串长度
+    
+    # 字符串文件组权重，用于二进制资源分析的全部字符串相似度部分
+    group_weights:
+      bin: 1.2              # 二进制文件字符串权重
+      etc_events: 1.5       # 事件脚本字符串权重
+      etc_scripts: 1.5      # 其他脚本字符串权重
+      etc_services: 1.5     # 服务配置字符串权重
+      etc_ath: 1.2          # ath相关配置字符串权重
+      etc_other: 1.0        # 其他etc文件字符串权重
+      lib_iptables: 1.0     # iptables库字符串权重
+      lib_other: 1.0        # 其他库字符串权重
+      web: 0.8              # 网页文件字符串权重
+      usr: 1.0              # usr目录字符串权重
+      sbin: 1.2             # sbin目录字符串权重
+      other: 0.8            # 其他字符串权重

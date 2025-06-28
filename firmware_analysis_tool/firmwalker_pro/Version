@@ -1,0 +1,20 @@
+***Firmware Directory***
+/home/IOT/Data_processing_code/firmware_analysis_tool/binwalk_docker_result/extract_result/_WNDR3700
+***Search for password files***
+##################################### passwd
+
+##################################### shadow
+
+##################################### *.psk
+
+***Search for Unix-MD5 hashes***
+***Firmware Directory***
+/home/IOT/Data_processing_code/firmware_analysis_tool/binwalk_docker_result/extract_result/_WNDR3700
+***Search for password files***
+##################################### passwd
+
+##################################### shadow
+
+##################################### *.psk
+
+***Search for Unix-MD5 hashes***

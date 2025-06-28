@@ -1,0 +1,37 @@
+# 工具基本配置
+tool:
+  ghidra:
+    path: "ghidra_11.0.1_PUBLIC" # Ghidra安装路径
+    headless_script: "support/analyzeHeadless" # Ghidra无头脚本相对路径
+    script_path: "ghidra_script/ExtractSymbols_one.py" # Ghidra分析脚本
+    headless_full_path: "${ghidra_path}/${headless_script}" # 完整的headless路径
+
+# 目录配置
+directories:
+  binwalk_log: "binwalk_docker_result/binwalk_log" # binwalk日志目录
+  output_json: "output_json" # 输出JSON路径
+  firmware_extracted: "binwalk_docker_result/extract_result" # binwalk解包路径
+  firmwalker: "firmwalker_pro" # firmwalker工具路径
+  firmwalker_output: "firmwalker_result" # firmwalker输出路径
+
+# SATC配置
+satc:
+  clustering_result: "keyword_extract_result/detail/Clustering_result_v2.result"
+  api_detail: "keyword_extract_result/detail/API_detail.result" 
+  param_detail: "keyword_extract_result/detail/Prar_detail.result"
+  output_dir: "ghidra_output"
+  ghidra_extract: "ghidra_extract_result"
+  param_link: "param_link.json"
+
+# Docker配置
+docker:
+  binwalk_image: "binwalk_by_yjy:v4"
+  satc_image: "satc-8gmem:v1"
+
+# 数据库配置
+database:
+  host: "localhost"
+  port: 3307
+  user: "root"
+  password: "StrongPassw0rd!"
+  db_name: "firmware_info" 
