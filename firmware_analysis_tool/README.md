@@ -11,6 +11,7 @@ This is a comprehensive feature extraction and analysis tool for embedded firmwa
 ### Required Tools
 - Docker
 - Python 3.8+
+- Git and Git LFS (for managing large files like Ghidra)
 - sdhash
 - MySQL Database
 - Ghidra (please compile in advance)
@@ -22,8 +23,14 @@ pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
 
 ### Required Submodule Cloning
 ```bash
+# Ensure Git LFS is installed
+git lfs install
+
 # Execute the following commands in the root directory to clone submodule contents (ensure GitHub connectivity)
 git submodule update --init --recursive
+
+# Pull LFS-managed large files
+git lfs pull
 
 sudo chmod +x firmwalker_pro/firmwalker.sh
 ```
@@ -45,7 +52,7 @@ chmod +x ./install_sdhash.sh
 
 ./install_sdhash.sh
 
-# 3. Install Ghidra
+# 3. Install Ghidra (file managed by Git LFS)
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 
 # 4. Configure and start MySQL database
@@ -56,6 +63,9 @@ cd mysql
 
 # Start MySQL container
 docker compose up -d
+
+# 5. Verify LFS files
+git lfs ls-files
 ```
 
 ### Provided One-click Installation Script

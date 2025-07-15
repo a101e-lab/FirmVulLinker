@@ -11,6 +11,7 @@
 ### 依赖工具
 - Docker
 - Python 3.8+
+- Git 与 Git LFS（用于管理大文件如Ghidra等）
 - sdhash
 - MySQL 数据库
 - Ghidra(请提前编译好)
@@ -22,8 +23,14 @@ pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
 
 ### 必要的子模块clone
 ```bash
+# 确保已安装Git LFS
+git lfs install
+
 # 在根目录下执行如下命令，将子模块内容也clone下来（确保可以连接到github）
 git submodule update --init --recursive
+
+# 获取LFS管理的大文件
+git lfs pull
 
 sudo chmod +x firmwalker_pro/firmwalker.sh
 ```
@@ -45,7 +52,7 @@ chmod +x ./install_sdhash.sh
 
 ./install_sdhash.sh
 
-# 3.安装ghidra
+# 3.安装ghidra（文件通过Git LFS管理）
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 
 # 4. 配置并启动MySQL数据库
@@ -56,6 +63,9 @@ cd mysql
 
 # 启动MySQL容器
 docker compose up -d
+
+# 5. 验证LFS文件
+git lfs ls-files
 ```
 
 ### 提供的一键式安装脚本

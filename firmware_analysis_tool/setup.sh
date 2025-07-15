@@ -83,9 +83,51 @@ check_prerequisites() {
         log_success "git已安装"
     fi
     
+    # 检查Git LFS
+    if ! check_command git-lfs; then
+        log_warning "Git LFS没安装，正在尝试安装..."
+        if ! install_git_lfs; then
+            log_error "Git LFS安装失败"
+            ((errors++))
+        fi
+    else
+        log_success "Git LFS已安装"
+    fi
+    
     if [ $errors -gt 0 ]; then
         log_error "系统依赖检查失败，请先安装缺失的组件"
         exit 1
+    fi
+}
+
+# 安装Git LFS
+install_git_lfs() {
+    log_info "安装Git LFS..."
+    
+    if command -v apt-get >/dev/null 2>&1; then
+        # Ubuntu/Debian 系统
+        sudo apt-get update && sudo apt-get install -y git-lfs
+    elif command -v yum >/dev/null 2>&1; then
+        # CentOS/RHEL 系统
+        sudo yum install -y git-lfs
+    elif command -v dnf >/dev/null 2>&1; then
+        # Fedora 系统
+        sudo dnf install -y git-lfs
+    elif command -v brew >/dev/null 2>&1; then
+        # macOS with Homebrew
+        brew install git-lfs
+    else
+        log_error "无法自动安装Git LFS，请手动安装"
+        return 1
+    fi
+    
+    if [ $? -eq 0 ]; then
+        # 初始化Git LFS
+        git lfs install
+        log_success "Git LFS安装并初始化完成"
+        return 0
+    else
+        return 1
     fi
 }
 
@@ -145,15 +187,38 @@ install_python_dependencies() {
 
 # 初始化Git子模块
 init_submodules() {
-    log_info "初始化Git子模块..."
+    log_info "初始化Git子模块和LFS文件..."
     
     if [ -d ".git" ]; then
+        # 确保Git LFS已初始化
+        git lfs install
+        
+        # 初始化子模块
         git submodule update --init --recursive
         if [ $? -eq 0 ]; then
             log_success "Git子模块初始化完成"
         else
             log_error "Git子模块初始化失败"
             return 1
+        fi
+        
+        # 拉取LFS文件
+        log_info "拉取Git LFS文件..."
+        git lfs pull
+        if [ $? -eq 0 ]; then
+            log_success "Git LFS文件拉取完成"
+        else
+            log_warning "Git LFS文件拉取失败，可能是因为仓库中没有LFS文件"
+        fi
+        
+        # 验证LFS文件
+        log_info "验证LFS文件..."
+        LFS_FILES=$(git lfs ls-files)
+        if [ -n "$LFS_FILES" ]; then
+            log_success "检测到以下LFS文件："
+            echo "$LFS_FILES"
+        else
+            log_info "当前仓库没有LFS管理的文件"
         fi
         
         # 设置firmwalker权限
@@ -164,7 +229,7 @@ init_submodules() {
             log_warning "未找到firmwalker_pro/firmwalker.sh文件"
         fi
     else
-        log_warning "当前目录不是Git仓库，跳过子模块初始化"
+        log_warning "当前目录不是Git仓库，跳过子模块和LFS初始化"
     fi
 }
 
@@ -327,7 +392,7 @@ main() {
     local steps=(
         "install_system_dependencies:安装系统依赖"
         "install_python_dependencies:安装Python依赖"
-        "init_submodules:初始化Git子模块"
+        "init_submodules:初始化Git子模块和LFS文件"
         "pull_docker_images:拉取Docker镜像"
         "install_sdhash:安装sdhash"
         "setup_ghidra:设置Ghidra"
@@ -374,6 +439,11 @@ main() {
     log_info "使用说明："
     echo "  基本用法: python main.py -f /path/to/firmware.bin"
     echo "  启用SATC: python main.py -f /path/to/firmware.bin --satc"
+    echo ""
+    log_info "Git LFS 说明："
+    echo "  查看LFS文件: git lfs ls-files"
+    echo "  拉取LFS文件: git lfs pull"
+    echo "  请确保Git LFS已正确安装和配置"
     echo ""
 }
 

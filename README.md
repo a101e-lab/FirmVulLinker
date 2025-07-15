@@ -15,6 +15,23 @@ This repository contains two core sub-projects:
 
 Both tools can run independently or be used in combination: first extract firmware features in batches, then perform similarity comparisons on the feature directories.
 
+## Related Dataset
+
+The experimental dataset for this project is stored in a separate repository:
+- **Dataset Repository**: [FirmVulLinker-dataset](https://github.com/a101e-lab/FirmVulLinker-dataset)
+- **Content Description**: Contains groundtruth data and firmware files involved in the experiments
+- **Data Structure**:
+  - `Known_Defective_Firmware/`: Contains firmware files with known vulnerabilities and corresponding ID mappings
+  - `detail_info.csv`: Detailed firmware information and ID mapping table
+  - `groundtruth.csv`: Basic experimental dataset
+- **Field Descriptions**:
+  - BM ID: Firmware ID corresponding to the emulatable base environment in FirmEmuHub
+  - KDF ID: Firmware IDs with known vulnerabilities and unknown vulnerability status involved in this experiment
+  - vendor: Firmware vendor
+  - device_type: Firmware device type
+  - hardware_version: Firmware version number
+  - file_name: Firmware name
+
 ---
 
 ## Directory Structure
@@ -51,21 +68,29 @@ Both tools can run independently or be used in combination: first extract firmwa
 - **Python**: 3.8 and above
 - **Containerization**: Docker and docker-compose
 - **Database**: MySQL
+- **Version Control**: Git and Git LFS (for managing large files)
 - **Additional Dependencies**: sdhash, Ghidra, ssdeep, pyOpenSSL, pycryptodome
 
 ---
 
 ## Complete Installation Steps
 
-> **Recommended: Use One-click Installation Script**: Skip to step 8 to use the `firmware_analysis_tool/setup.sh` script for automatic installation.
+> **Recommended: Use One-click Installation Script**: Skip to step 9 to use the `firmware_analysis_tool/setup.sh` script for automatic installation.
 
 ### 1. Clone Repository
 ```bash
+# Ensure Git LFS is installed
+git lfs install
+
+# Clone repository (including LFS files)
 git clone --recursive <repo_url>
 cd firmvullinker
 
 # Ensure submodules are correctly cloned
 git submodule update --init --recursive
+
+# Pull LFS files
+git lfs pull
 ```
 
 ### 2. Install Python Dependencies
@@ -91,7 +116,7 @@ chmod +x ./install_sdhash.sh
 
 ### 5. Configure Ghidra
 ```bash
-# Extract Ghidra
+# Extract Ghidra (file managed by Git LFS)
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 ```
 
@@ -107,7 +132,13 @@ docker compose up -d
 cd ..
 ```
 
-### 8. One-click Installation Script (Recommended)
+### 8. Verify LFS Files
+```bash
+# Check if LFS files are correctly downloaded
+git lfs ls-files
+```
+
+### 9. One-click Installation Script (Recommended)
 To simplify the installation process, we provide a one-click installation script:
 
 ```bash
@@ -117,9 +148,9 @@ chmod +x setup.sh
 ```
 
 The script will automatically perform the following operations:
-- Check system dependencies (Docker, Python 3.8+, pip3, git)
+- Check system dependencies (Docker, Python 3.8+, pip3, git, Git LFS)
 - Install Python dependency packages
-- Initialize Git submodules
+- Initialize Git submodules and LFS files
 - Pull required Docker images
 - Install sdhash
 - Set up Ghidra (if archive exists)
@@ -414,15 +445,4 @@ modules:
 
 ### Firmware Analysis Tool Database
 Firmware analysis results are stored in a MySQL database for subsequent queries and comparisons:
-- `firmware_info` table: stores basic firmware information
-- `fuzzy_hashes` table: stores fuzzy hash values of binary files
-
----
-
-## Troubleshooting
-
-### Common Issues
-1. **Docker image pull failure**: Try using different image sources or check network connection
-2. **MySQL connection failure**: Check database service status and configuration parameters
-3. **Ghidra analysis failure**: Ensure Ghidra is correctly installed and path is properly configured
-4. **Insufficient memory**: Adjust Docker container script memory limitations 
+- `firmware_info`
