@@ -1,129 +1,137 @@
-# 嵌入式固件特征提取分析工具
+# Embedded Firmware Feature Extraction and Analysis Tool
 
-## 工具简介
+[English](README.md) | [简体中文](README-zh.md)
 
-这是一个用于嵌入式固件的综合特征提取与分析工具，能够提取固件的架构信息、文件系统类型、操作系统信息，并识别敏感文件、证书和密钥。工具还支持二进制文件分析、模糊哈希计算以及通过SATC和Ghidra进行漏洞分析。
+## Tool Overview
 
-## 环境要求
+This is a comprehensive feature extraction and analysis tool for embedded firmware that can extract firmware architecture information, file system types, operating system information, and identify sensitive files, certificates, and keys. The tool also supports binary file analysis, fuzzy hash computation, and vulnerability analysis through SATC and Ghidra.
 
-### 依赖工具
+## Environment Requirements
+
+### Required Tools
 - Docker
 - Python 3.8+
 - sdhash
-- MySQL 数据库
-- Ghidra(请提前编译好)
+- MySQL Database
+- Ghidra (please compile in advance)
 
-### 必要的Python库
+### Required Python Libraries
 ```bash
 pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
 ```
 
-### 必要的子模块clone
+### Required Submodule Cloning
 ```bash
-# 在根目录下执行如下命令，将子模块内容也clone下来（确保可以连接到github）
+# Execute the following commands in the root directory to clone submodule contents (ensure GitHub connectivity)
 git submodule update --init --recursive
 
 sudo chmod +x firmwalker_pro/firmwalker.sh
 ```
 
-## 安装步骤
+## Installation Steps
 
 ```bash
-# 1. 拉取所需的Docker镜像
+# 1. Pull required Docker images
 
-# 拉取SATC镜像
+# Pull SATC image
 docker pull smile0304/satc:latest
 
-# 拉取Binwalk镜像（用于固件解包）
-docker pull harbor.a101e.lab/iot_base_image/binwalk_by_yjy@sha256:fc89d158c32f67e2a2324754ed00d193060f291d6fdd84d79f31c7216e7c1881 && docker tag harbor.a101e.lab/iot_base_image/binwalk_by_yjy@sha256:fc89d158c32f67e2a2324754ed00d193060f291d6fdd84d79f31c7216e7c1881 binwalk_by_yjy:v4
-# 如果遇到443访问的问题，使用如下命令拉取Binwalk镜像
-docker pull harbor.a101e.lab:80/iot_base_image/binwalk_by_yjy@sha256:fc89d158c32f67e2a2324754ed00d193060f291d6fdd84d79f31c7216e7c1881 && docker tag harbor.a101e.lab:80/iot_base_image/binwalk_by_yjy@sha256:fc89d158c32f67e2a2324754ed00d193060f291d6fdd84d79f31c7216e7c1881 binwalk_by_yjy:v4
+# Pull Binwalk image (for firmware unpacking)
+docker pull fitzbc/binwalk 
 
-# 2.安装sdhash
+# 2. Install sdhash
 
 chmod +x ./install_sdhash.sh
 
 ./install_sdhash.sh
 
-# 3.安装ghidra
+# 3. Install Ghidra
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 
-# 4. 配置并启动MySQL数据库
+# 4. Configure and start MySQL database
 
-# 进入mysql配置目录
+# Enter MySQL configuration directory
 
 cd mysql
 
-# 启动MySQL容器
+# Start MySQL container
 docker compose up -d
 ```
 
-## 使用方法
-
-### 基本用法
+### Provided One-click Installation Script
 
 ```bash
-python main.py -f /path/to/firmware.bin # 分析固件文件
+chmod +x setup.sh
+
+./setup.sh
 ```
 
-### 启用SATC分析（会批量分析`binwalk_docker_result`下的`extract_result`中所有固件经过binwalk提取后的内容）
+## Usage
+
+### Basic Usage
 
 ```bash
-python main.py -f /path/to/firmware.bin --satc # 使用--satc参数可以调用SATC
+python main.py -f /path/to/firmware.bin # Analyze firmware file
 ```
 
-### 参数说明
-- `-f, --firmware_path`：指定要分析的固件文件路径（必需）
-- `--satc`：启用SATC进行分析（可选）
+### Enable SATC Analysis (will batch analyze all firmware contents extracted by binwalk in `extract_result` under `binwalk_docker_result`)
 
-## 输出结果
+```bash
+python main.py -f /path/to/firmware.bin --satc # Use --satc parameter to invoke SATC for deep analysis (if encountering memory issues, modify memory limits inside the SATC container)
+```
+
+### Parameter Description
+- `-f, --firmware_path`: Specify the firmware file path to analyze (required)
+- `--satc`: Enable SATC for analysis (optional)
+
+## Output Results
 
 ```bash
 ├── binwalk_docker_result/
-│   ├── binwalk_log/                 # binwalk分析日志
-│   │   ├── 固件名_output.log        # binwalk输出日志
-│   │   └── 固件名.json              # binwalk JSON输出
-│   └── extract_result/              # 固件解包结果
-│       └── _固件名.extracted/       # 解包后的固件内容
-│           └── squashfs-root/       # 提取的文件系统
+│   ├── binwalk_log/                 # binwalk analysis logs
+│   │   ├── firmware_name_output.log # binwalk output log
+│   │   └── firmware_name.json       # binwalk JSON output
+│   └── extract_result/              # firmware unpacking results
+│       └── _firmware_name.extracted/ # unpacked firmware contents
+│           └── squashfs-root/       # extracted file system
 │
 ├── firmwalker_result/
-│   └── 固件名_firmwalker.txt        # firmwalker敏感文件分析结果
+│   └── firmware_name_firmwalker.txt # firmwalker sensitive file analysis results
 │
 ├── output_json/
-│   ├── 固件名/                      # 每个固件的专属输出目录
-│   │   └── 固件名_all_strings         # 从二进制文件中提取的所有字符串
+│   ├── firmware_name/               # dedicated output directory for each firmware
+│   │   └── firmware_name_all_strings # all strings extracted from binary files
 │   │   │   └──all_strings.txt 
-│   │   ├── output.json                  # 固件分析的主要结果
-│   │   ├── func_signature.txt           # 函数签名列表
-│   │   ├── func_name.txt                # 函数名列表
-│   │   ├── imports.txt                  # 导入函数列表
-│   │   ├── exports.txt                  # 导出函数列表
-│   │   ├── symbol_name.txt              # 符号名列表
-│   │   ├── string_name.txt              # 字符串名列表
-│   │   ├── param_link.json              # 参数调用链信息
+│   │   ├── output.json               # main firmware analysis results
+│   │   ├── func_signature.txt        # function signature list
+│   │   ├── func_name.txt             # function name list
+│   │   ├── imports.txt               # imported function list
+│   │   ├── exports.txt               # exported function list
+│   │   ├── symbol_name.txt           # symbol name list
+│   │   ├── string_name.txt           # string name list
+│   │   ├── param_link.json           # parameter call chain information
 │   │   │
-│   │   ├── keyword_extract_result/      # SATC关键词提取结果
+│   │   ├── keyword_extract_result/   # SATC keyword extraction results
 │   │   │   └── detail/
-│   │   │       ├── Clustering_result_v2.result  # 聚类结果
-│   │   │       ├── API_detail.result            # API详情
-│   │   │       ├── Prar_detail.result           # 参数详情
-│   │   │       ├── sorted_clustering.json       # 排序后的聚类结果
-│   │   │       ├── binname.list                 # 二进制文件名列表
-│   │   │       ├── api_triplets.txt             # API三元组(API名,文本文件,二进制文件)
-│   │   │       └── param_triplets.txt           # 参数三元组(参数名,文本文件,二进制文件)
+│   │   │       ├── Clustering_result_v2.result  # clustering results
+│   │   │       ├── API_detail.result            # API details
+│   │   │       ├── Prar_detail.result           # parameter details
+│   │   │       ├── sorted_clustering.json       # sorted clustering results
+│   │   │       ├── binname.list                 # binary file name list
+│   │   │       ├── api_triplets.txt             # API triplets (API name, text file, binary file)
+│   │   │       └── param_triplets.txt           # parameter triplets (parameter name, text file, binary file)
 │   │   │
-│   │   ├── ghidra_extract_result/       # Ghidra提取结果
-│   │   │   └── [各种子目录]/
-│   │   │       └── *.result             # Ghidra分析结果文件
+│   │   ├── ghidra_extract_result/    # Ghidra extraction results
+│   │   │   └── [various subdirectories]/
+│   │   │       └── *.result          # Ghidra analysis result files
 │   │   │
-│   │   └── ghidra_output/               # Ghidra输出
-│   │       ├── project/                 # Ghidra项目目录
-│   │       └── 二进制文件名_ghidra_output.json  # Ghidra分析输出
+│   │   └── ghidra_output/            # Ghidra output
+│   │       ├── project/              # Ghidra project directory
+│   │       └── binary_name_ghidra_output.json  # Ghidra analysis output
 ```
 
-## 数据库信息
+## Database Information
 
-固件分析结果会存储到MySQL数据库中以便后续查询和比对：
-- `firmware_info`表：存储固件的基本信息
-- `fuzzy_hashes`表：存储二进制文件的模糊哈希值
+Firmware analysis results are stored in a MySQL database for subsequent queries and comparisons:
+- `firmware_info` table: stores basic firmware information
+- `fuzzy_hashes` table: stores fuzzy hash values of binary files

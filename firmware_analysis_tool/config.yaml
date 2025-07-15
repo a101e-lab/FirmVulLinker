@@ -25,8 +25,8 @@ satc:
 
 # Docker配置
 docker:
-  binwalk_image: "binwalk_by_yjy:v4"
-  satc_image: "satc-8gmem:v1"
+  binwalk_image: "fitzbc/binwalk"
+  satc_image: "smile0304/satc:latest"
 
 # 数据库配置
 database:
