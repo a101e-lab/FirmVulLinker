@@ -89,6 +89,46 @@ check_prerequisites() {
     fi
 }
 
+# 安装系统依赖
+install_system_dependencies() {
+    log_info "安装系统依赖包..."
+    
+    # 检测系统类型并安装相应依赖
+    if command -v apt-get >/dev/null 2>&1; then
+        # Ubuntu/Debian 系统
+        log_info "检测到基于 apt 的系统，安装依赖..."
+        sudo apt-get update
+        sudo apt-get install -y libfuzzy-dev libssl-dev build-essential python3-dev
+    elif command -v yum >/dev/null 2>&1; then
+        # CentOS/RHEL 系统
+        log_info "检测到基于 yum 的系统，安装依赖..."
+        sudo yum install -y ssdeep-devel openssl-devel gcc python3-devel
+    elif command -v dnf >/dev/null 2>&1; then
+        # Fedora 系统
+        log_info "检测到基于 dnf 的系统，安装依赖..."
+        sudo dnf install -y ssdeep-devel openssl-devel gcc python3-devel
+    else
+        log_warning "未检测到支持的包管理器，请手动安装以下依赖："
+        echo "  - libfuzzy-dev (或 ssdeep-devel)"
+        echo "  - libssl-dev (或 openssl-devel)"
+        echo "  - build-essential (或 gcc)"
+        echo "  - python3-dev"
+        read -p "是否已手动安装所需依赖？(y/N): " -n 1 -r
+        echo
+        if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+            log_error "请先安装系统依赖"
+            return 1
+        fi
+    fi
+    
+    if [ $? -eq 0 ]; then
+        log_success "系统依赖安装完成"
+    else
+        log_error "系统依赖安装失败"
+        return 1
+    fi
+}
+
 # 安装Python依赖
 install_python_dependencies() {
     log_info "安装Python依赖包..."
@@ -285,6 +325,7 @@ main() {
     
     # 安装步骤
     local steps=(
+        "install_system_dependencies:安装系统依赖"
         "install_python_dependencies:安装Python依赖"
         "init_submodules:初始化Git子模块"
         "pull_docker_images:拉取Docker镜像"
