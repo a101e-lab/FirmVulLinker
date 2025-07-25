@@ -9,6 +9,7 @@ import extract_file
 import extract_bininfo
 from config_loader import load_config
 from operate_database import store_firmware_info, store_fuzzy_hashes
+from mapping_ids import apply_signature_mapping
 
 # 全局变量
 HEADLESS_GHIDRA = ""
@@ -863,6 +864,15 @@ def main():
         
         # 获取固件名称
         firmware_name = firmware_info_result['firmware_name']
+
+    # 应用签名映射到binwalk日志文件
+    mapping_file_name = config.get("mapping", {}).get("signature_mapping_file", "signatures_medium_grained.json")
+    mapping_file_path = os.path.join(os.path.dirname(__file__), mapping_file_name)
+    if os.path.exists(mapping_file_path):
+        print(f"\n开始对固件 {firmware_name} 的binwalk结果应用签名映射...")
+        processed_count, updated_count = apply_signature_mapping(binwalk_log_dir, mapping_file_path, firmware_name)
+    else:
+        print(f"警告: 映射文件 {mapping_file_path} 不存在，跳过签名映射步骤")
 
     if args.satc:
         # 运行SATC并将输出放在固件专属目录下

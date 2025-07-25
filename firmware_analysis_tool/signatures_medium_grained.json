@@ -1,0 +1,3290 @@
+[
+    {
+        "id": 0,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "ELF,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 1,
+        "medium_grained_category": "ELF_Executable"
+    },
+    {
+        "id": 1,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Microsoft executable,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 2,
+        "medium_grained_category": "Microsoft_General"
+    },
+    {
+        "id": 2,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Microsoft executable,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 2,
+        "medium_grained_category": "Microsoft_General"
+    },
+    {
+        "id": 3,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "BFLT executable",
+        "rough_grained_id": 1,
+        "medium_grained_id": 3,
+        "medium_grained_category": "BFLT_Executable"
+    },
+    {
+        "id": 4,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Microsoft WinCE installer",
+        "rough_grained_id": 1,
+        "medium_grained_id": 2,
+        "medium_grained_category": "Microsoft_General"
+    },
+    {
+        "id": 5,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Sony Playstation executable,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 4,
+        "medium_grained_category": "Sony_Playstation"
+    },
+    {
+        "id": 6,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Cisco IOS microcode,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 5,
+        "medium_grained_category": "Cisco_IOS"
+    },
+    {
+        "id": 7,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Cisco IOS experimental microcode,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 5,
+        "medium_grained_category": "Cisco_IOS"
+    },
+    {
+        "id": 8,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "EST flat binary",
+        "rough_grained_id": 1,
+        "medium_grained_id": 6,
+        "medium_grained_category": "FALLBACK_executables"
+    },
+    {
+        "id": 9,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 1 architecture",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 10,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 2 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 11,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 3 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 12,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 4 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 13,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 5 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 14,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 6 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 15,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 7 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 16,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 8 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 17,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 9 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 18,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 10 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 19,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 11 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 20,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 12 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 21,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 13 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 22,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 14 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 23,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 15 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 24,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 16 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 25,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 17 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 26,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Mach-O universal binary with 18 architectures",
+        "rough_grained_id": 1,
+        "medium_grained_id": 7,
+        "medium_grained_category": "Mach-O_Executable"
+    },
+    {
+        "id": 27,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Compiled Java class data,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 8,
+        "medium_grained_category": "Java_Class"
+    },
+    {
+        "id": 28,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 38 binary",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 29,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 39 binary",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 30,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 38 ASCII",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 31,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 39 ASCII",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 32,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 48 binary",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 33,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "HP 49 binary",
+        "rough_grained_id": 1,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 34,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Executable script,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 6,
+        "medium_grained_category": "FALLBACK_executables"
+    },
+    {
+        "id": 35,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/executables",
+        "title": "Executable script,",
+        "rough_grained_id": 1,
+        "medium_grained_id": 6,
+        "medium_grained_category": "FALLBACK_executables"
+    },
+    {
+        "id": 36,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "TIFF image data, big-endian,",
+        "rough_grained_id": 2,
+        "medium_grained_id": 10,
+        "medium_grained_category": "TIFF_Image"
+    },
+    {
+        "id": 37,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "TIFF image data, little-endian",
+        "rough_grained_id": 2,
+        "medium_grained_id": 10,
+        "medium_grained_category": "TIFF_Image"
+    },
+    {
+        "id": 38,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "PNG image",
+        "rough_grained_id": 2,
+        "medium_grained_id": 11,
+        "medium_grained_category": "PNG_Image"
+    },
+    {
+        "id": 39,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "GIF image data",
+        "rough_grained_id": 2,
+        "medium_grained_id": 12,
+        "medium_grained_category": "GIF_Image"
+    },
+    {
+        "id": 40,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "PC bitmap,",
+        "rough_grained_id": 2,
+        "medium_grained_id": 13,
+        "medium_grained_category": "bitmap_images"
+    },
+    {
+        "id": 41,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "JPEG image data, JFIF standard",
+        "rough_grained_id": 2,
+        "medium_grained_id": 14,
+        "medium_grained_category": "JPEG_Image"
+    },
+    {
+        "id": 42,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/images",
+        "title": "JPEG image data, EXIF standard",
+        "rough_grained_id": 2,
+        "medium_grained_id": 14,
+        "medium_grained_category": "JPEG_Image"
+    },
+    {
+        "id": 43,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/phones",
+        "title": "Samsung modem TOC index,",
+        "rough_grained_id": 3,
+        "medium_grained_id": 15,
+        "medium_grained_category": "Samsung_General"
+    },
+    {
+        "id": 44,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PEM certificate",
+        "rough_grained_id": 4,
+        "medium_grained_id": 16,
+        "medium_grained_category": "PEM_Certificate"
+    },
+    {
+        "id": 45,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PEM certificate request",
+        "rough_grained_id": 4,
+        "medium_grained_id": 16,
+        "medium_grained_category": "PEM_Certificate"
+    },
+    {
+        "id": 46,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PEM RSA private key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 47,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PEM DSA private key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 18,
+        "medium_grained_category": "DSA_Crypto"
+    },
+    {
+        "id": 48,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PEM EC private key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 22,
+        "medium_grained_category": "EC_Crypto"
+    },
+    {
+        "id": 49,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH RSA1 private key,",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 50,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH DSA public key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 51,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH RSA public key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 52,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH ECDSA (Curve P-256) public key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 53,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH ECDSA (Curve P-384) public key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 54,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSH ECDSA (Curve P-521) public key",
+        "rough_grained_id": 4,
+        "medium_grained_id": 20,
+        "medium_grained_category": "OpenSSH_KeyMaterial"
+    },
+    {
+        "id": 55,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "Private key in DER format (PKCS",
+        "rough_grained_id": 4,
+        "medium_grained_id": 21,
+        "medium_grained_category": "DER_Encoded"
+    },
+    {
+        "id": 56,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "Certificate in DER format (x509 v3),",
+        "rough_grained_id": 4,
+        "medium_grained_id": 21,
+        "medium_grained_category": "DER_Encoded"
+    },
+    {
+        "id": 57,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "Object signature in DER format (PKCS",
+        "rough_grained_id": 4,
+        "medium_grained_id": 21,
+        "medium_grained_category": "DER_Encoded"
+    },
+    {
+        "id": 58,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "GPG key trust database",
+        "rough_grained_id": 4,
+        "medium_grained_id": 23,
+        "medium_grained_category": "GPG_KeyMaterial"
+    },
+    {
+        "id": 59,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "mcrypt 2.5 encrypted data,",
+        "rough_grained_id": 4,
+        "medium_grained_id": 24,
+        "medium_grained_category": "mcrypt_Crypto"
+    },
+    {
+        "id": 60,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "mcrypt 2.2 encrypted data,",
+        "rough_grained_id": 4,
+        "medium_grained_id": 24,
+        "medium_grained_category": "mcrypt_Crypto"
+    },
+    {
+        "id": 61,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP armored data,",
+        "rough_grained_id": 4,
+        "medium_grained_id": 23,
+        "medium_grained_category": "GPG_KeyMaterial"
+    },
+    {
+        "id": 62,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "OpenSSL encryption, salted,",
+        "rough_grained_id": 4,
+        "medium_grained_id": 25,
+        "medium_grained_category": "SSL_TLS_Material"
+    },
+    {
+        "id": 63,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "LUKS_MAGIC",
+        "rough_grained_id": 4,
+        "medium_grained_id": 19,
+        "medium_grained_category": "FALLBACK_crypto"
+    },
+    {
+        "id": 64,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "Nagra PK",
+        "rough_grained_id": 4,
+        "medium_grained_id": 19,
+        "medium_grained_category": "Nagra_Crypto"
+    },
+    {
+        "id": 65,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "Nagra Constant_KEY",
+        "rough_grained_id": 4,
+        "medium_grained_id": 19,
+        "medium_grained_category": "Nagra_Crypto"
+    },
+    {
+        "id": 66,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "AES S-Box",
+        "rough_grained_id": 4,
+        "medium_grained_id": 26,
+        "medium_grained_category": "AES_Crypto"
+    },
+    {
+        "id": 67,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "AES Inverse S-Box",
+        "rough_grained_id": 4,
+        "medium_grained_id": 26,
+        "medium_grained_category": "AES_Crypto"
+    },
+    {
+        "id": 68,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP RSA encrypted session key -",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 69,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP RSA encrypted session key -",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 70,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP RSA encrypted session key -",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 71,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP RSA encrypted session key -",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 72,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "PGP RSA encrypted session key -",
+        "rough_grained_id": 4,
+        "medium_grained_id": 17,
+        "medium_grained_category": "RSA_Crypto"
+    },
+    {
+        "id": 73,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES PC1 table",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 74,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES PC2 table",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 75,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES SP1, big endian",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 76,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES SP1, little endian",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 77,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES SP2, big endian",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 78,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/crypto",
+        "title": "DES SP2, little endian",
+        "rough_grained_id": 4,
+        "medium_grained_id": 27,
+        "medium_grained_category": "DES_Crypto"
+    },
+    {
+        "id": 79,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Minix filesystem, V1, little endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 28,
+        "medium_grained_category": "Minix_Filesystem"
+    },
+    {
+        "id": 80,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Minix filesystem, V1, big endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 28,
+        "medium_grained_category": "Minix_Filesystem"
+    },
+    {
+        "id": 81,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Minix filesystem, V1, little endian, 30 char names,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 28,
+        "medium_grained_category": "Minix_Filesystem"
+    },
+    {
+        "id": 82,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Minix filesystem, V1, big endian, 30 char names,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 28,
+        "medium_grained_category": "Minix_Filesystem"
+    },
+    {
+        "id": 83,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "YAFFS filesystem, little endian",
+        "rough_grained_id": 5,
+        "medium_grained_id": 29,
+        "medium_grained_category": "YAFFS_Filesystem"
+    },
+    {
+        "id": 84,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "YAFFS filesystem, big endian",
+        "rough_grained_id": 5,
+        "medium_grained_id": 29,
+        "medium_grained_category": "YAFFS_Filesystem"
+    },
+    {
+        "id": 85,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "EFS2 Qualcomm filesystem super block, little endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 30,
+        "medium_grained_category": "Qualcomm_General"
+    },
+    {
+        "id": 86,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "EFS2 Qualcomm filesystem super block, big endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 30,
+        "medium_grained_category": "Qualcomm_General"
+    },
+    {
+        "id": 87,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "TROC filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 96,
+        "medium_grained_category": "TROC_Filesystem"
+    },
+    {
+        "id": 88,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "PFS filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 97,
+        "medium_grained_category": "PFS_Filesystem"
+    },
+    {
+        "id": 89,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "MPFS filesystem, Microchip,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 98,
+        "medium_grained_category": "MPFS_Filesystem"
+    },
+    {
+        "id": 90,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "CramFS filesystem, little endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 31,
+        "medium_grained_category": "CramFS_Filesystem"
+    },
+    {
+        "id": 91,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "CramFS filesystem, big endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 31,
+        "medium_grained_category": "CramFS_Filesystem"
+    },
+    {
+        "id": 92,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "UBI volume ID header,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 32,
+        "medium_grained_category": "UBI_Filesystem"
+    },
+    {
+        "id": 93,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "UBI erase count header,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 32,
+        "medium_grained_category": "UBI_Filesystem"
+    },
+    {
+        "id": 94,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "UBIFS filesystem",
+        "rough_grained_id": 5,
+        "medium_grained_id": 32,
+        "medium_grained_category": "UBI_Filesystem"
+    },
+    {
+        "id": 95,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "JFFS2 filesystem, little endian",
+        "rough_grained_id": 5,
+        "medium_grained_id": 33,
+        "medium_grained_category": "JFFS2_Filesystem"
+    },
+    {
+        "id": 96,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "JFFS2 filesystem, big endian",
+        "rough_grained_id": 5,
+        "medium_grained_id": 33,
+        "medium_grained_category": "JFFS2_Filesystem"
+    },
+    {
+        "id": 97,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, big endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 98,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, little endian,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 99,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, big endian, lzma compression,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 100,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, big endian, lzma signature,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 101,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, big endian, DD-WRT signature,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 102,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, little endian, DD-WRT signature,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 103,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Squashfs filesystem, little endian, non-standard signature,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 34,
+        "medium_grained_category": "SquashFS_Filesystem"
+    },
+    {
+        "id": 104,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Linux EXT filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 35,
+        "medium_grained_category": "Linux_General"
+    },
+    {
+        "id": 105,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "romfs filesystem, version 1",
+        "rough_grained_id": 5,
+        "medium_grained_id": 36,
+        "medium_grained_category": "RomFS_Filesystem"
+    },
+    {
+        "id": 106,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "D-Link ROMFS filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 37,
+        "medium_grained_category": "D-Link_Networking"
+    },
+    {
+        "id": 107,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Wind River management filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 99,
+        "medium_grained_category": "WindRiver_Filesystem"
+    },
+    {
+        "id": 108,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Wind River management filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 99,
+        "medium_grained_category": "WindRiver_Filesystem"
+    },
+    {
+        "id": 109,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "ISO 9660 Boot Record,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 38,
+        "medium_grained_category": "ISO9660_Filesystem"
+    },
+    {
+        "id": 110,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "ISO 9660 Primary Volume,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 38,
+        "medium_grained_category": "ISO_Filesystem"
+    },
+    {
+        "id": 111,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Netboot image,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 100,
+        "medium_grained_category": "Netboot_Image"
+    },
+    {
+        "id": 112,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "WDK file system, version 2.0,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 101,
+        "medium_grained_category": "WDK_Filesystem"
+    },
+    {
+        "id": 113,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "ISO",
+        "rough_grained_id": 5,
+        "medium_grained_id": 38,
+        "medium_grained_category": "ISO_Filesystem"
+    },
+    {
+        "id": 114,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "DOS Emulator image",
+        "rough_grained_id": 5,
+        "medium_grained_id": 102,
+        "medium_grained_category": "DOS_Emulator"
+    },
+    {
+        "id": 115,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "VMWare3 disk image,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 39,
+        "medium_grained_category": "VMware_Virtualization"
+    },
+    {
+        "id": 116,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "VMWare3 undoable disk image,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 39,
+        "medium_grained_category": "VMware_Virtualization"
+    },
+    {
+        "id": 117,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "VMware4 disk image",
+        "rough_grained_id": 5,
+        "medium_grained_id": 39,
+        "medium_grained_category": "VMware_Virtualization"
+    },
+    {
+        "id": 118,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "VMware4 disk image",
+        "rough_grained_id": 5,
+        "medium_grained_id": 39,
+        "medium_grained_category": "VMware_Virtualization"
+    },
+    {
+        "id": 119,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "QEMU QCOW Image",
+        "rough_grained_id": 5,
+        "medium_grained_id": 40,
+        "medium_grained_category": "QCOW_Image"
+    },
+    {
+        "id": 120,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "BSD 2.x filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 103,
+        "medium_grained_category": "BSD_Filesystem"
+    },
+    {
+        "id": 121,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "Foscam WebUI filesystem,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 104,
+        "medium_grained_category": "Foscam_WebUI"
+    },
+    {
+        "id": 122,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "QNX4 Boot Block",
+        "rough_grained_id": 5,
+        "medium_grained_id": 41,
+        "medium_grained_category": "QNX_RTOS"
+    },
+    {
+        "id": 123,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "QNX6 Super Block",
+        "rough_grained_id": 5,
+        "medium_grained_id": 41,
+        "medium_grained_category": "QNX_RTOS"
+    },
+    {
+        "id": 124,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/filesystems",
+        "title": "QNX IFS,",
+        "rough_grained_id": 5,
+        "medium_grained_id": 41,
+        "medium_grained_category": "QNX_RTOS"
+    },
+    {
+        "id": 125,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/linux",
+        "title": "Linux kernel boot image",
+        "rough_grained_id": 6,
+        "medium_grained_id": 42,
+        "medium_grained_category": "Linux_Kernel"
+    },
+    {
+        "id": 126,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/linux",
+        "title": "Linux kernel version",
+        "rough_grained_id": 6,
+        "medium_grained_id": 42,
+        "medium_grained_category": "Linux_Kernel"
+    },
+    {
+        "id": 127,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/linux",
+        "title": "Linux kernel ARM boot executable zImage (little-endian)",
+        "rough_grained_id": 6,
+        "medium_grained_id": 42,
+        "medium_grained_category": "Linux_Kernel"
+    },
+    {
+        "id": 128,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/linux",
+        "title": "Linux kernel ARM boot executable zImage (big-endian)",
+        "rough_grained_id": 6,
+        "medium_grained_id": 42,
+        "medium_grained_category": "Linux_Kernel"
+    },
+    {
+        "id": 129,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/linux",
+        "title": "Linux kernel ARM64 image,",
+        "rough_grained_id": 6,
+        "medium_grained_id": 42,
+        "medium_grained_category": "Linux_Kernel"
+    },
+    {
+        "id": 130,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/hashing",
+        "title": "CRC32 polynomial table, big endian",
+        "rough_grained_id": 7,
+        "medium_grained_id": 43,
+        "medium_grained_category": "CRC32_Table"
+    },
+    {
+        "id": 131,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/hashing",
+        "title": "CRC32 polynomial table, little endian",
+        "rough_grained_id": 7,
+        "medium_grained_id": 43,
+        "medium_grained_category": "CRC32_Table"
+    },
+    {
+        "id": 132,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/hashing",
+        "title": "SHA256 hash constants, big endian",
+        "rough_grained_id": 7,
+        "medium_grained_id": 104,
+        "medium_grained_category": "SHA256_Table"
+    },
+    {
+        "id": 133,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/hashing",
+        "title": "SHA256 hash constants, little endian",
+        "rough_grained_id": 7,
+        "medium_grained_id": 104,
+        "medium_grained_category": "SHA256_Table"
+    },
+    {
+        "id": 134,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Nintendo Gameboy Music Module",
+        "rough_grained_id": 8,
+        "medium_grained_id": 44,
+        "medium_grained_category": "Nintendo_Console"
+    },
+    {
+        "id": 135,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Gameboy ROM,",
+        "rough_grained_id": 8,
+        "medium_grained_id": 45,
+        "medium_grained_category": "Gameboy_ROM"
+    },
+    {
+        "id": 136,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Sega MegaDrive/Genesis raw ROM dump,",
+        "rough_grained_id": 8,
+        "medium_grained_id": 46,
+        "medium_grained_category": "Sega_Console"
+    },
+    {
+        "id": 137,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Nintendo DS Game ROM Image",
+        "rough_grained_id": 8,
+        "medium_grained_id": 44,
+        "medium_grained_category": "Nintendo_Console"
+    },
+    {
+        "id": 138,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Nintendo Game Boy Advance ROM Image",
+        "rough_grained_id": 8,
+        "medium_grained_id": 44,
+        "medium_grained_category": "Nintendo_Console"
+    },
+    {
+        "id": 139,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Sony Playstation executable",
+        "rough_grained_id": 8,
+        "medium_grained_id": 4,
+        "medium_grained_category": "Sony_Playstation"
+    },
+    {
+        "id": 140,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "Microsoft Xbox executable (XBE),",
+        "rough_grained_id": 8,
+        "medium_grained_id": 47,
+        "medium_grained_category": "Microsoft_Xbox"
+    },
+    {
+        "id": 141,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "XIP, Microsoft Xbox data,",
+        "rough_grained_id": 8,
+        "medium_grained_id": 47,
+        "medium_grained_category": "Microsoft_Xbox"
+    },
+    {
+        "id": 142,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/console",
+        "title": "XTF, Microsoft Xbox data",
+        "rough_grained_id": 8,
+        "medium_grained_id": 47,
+        "medium_grained_category": "Microsoft_Xbox"
+    },
+    {
+        "id": 143,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "MySQL table definition file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 48,
+        "medium_grained_category": "MySQL_Database"
+    },
+    {
+        "id": 144,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "MySQL MISAM index file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 48,
+        "medium_grained_category": "MySQL_Database"
+    },
+    {
+        "id": 145,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "MySQL MISAM compressed data file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 48,
+        "medium_grained_category": "MySQL_Database"
+    },
+    {
+        "id": 146,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "MySQL ISAM index file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 48,
+        "medium_grained_category": "MySQL_Database"
+    },
+    {
+        "id": 147,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "MySQL ISAM compressed data file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 48,
+        "medium_grained_category": "MySQL_Database"
+    },
+    {
+        "id": 148,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "iRiver Database file",
+        "rough_grained_id": 9,
+        "medium_grained_id": 105,
+        "medium_grained_category": "iRiver_Database"
+    },
+    {
+        "id": 149,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "SQLite 2.x database",
+        "rough_grained_id": 9,
+        "medium_grained_id": 50,
+        "medium_grained_category": "SQLite_Database"
+    },
+    {
+        "id": 150,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/sql",
+        "title": "SQLite 3.x database,",
+        "rough_grained_id": 9,
+        "medium_grained_id": 50,
+        "medium_grained_category": "SQLite_Database"
+    },
+    {
+        "id": 151,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "UEFI PI Firmware Volume",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 152,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "EFI capsule v0.9",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 153,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "UEFI capsule",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 154,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "AMI Aptio extended EFI capsule",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 155,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "AMI Aptio unsigned EFI capsule",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 156,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/efi",
+        "title": "Toshiba EFI capsule",
+        "rough_grained_id": 10,
+        "medium_grained_id": 51,
+        "medium_grained_category": "EFI_Firmware"
+    },
+    {
+        "id": 157,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/encoding",
+        "title": "Base64 standard index table",
+        "rough_grained_id": 11,
+        "medium_grained_id": 52,
+        "medium_grained_category": "Base64_IndexTable"
+    },
+    {
+        "id": 158,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/encoding",
+        "title": "Base64 SerComm index table",
+        "rough_grained_id": 11,
+        "medium_grained_id": 52,
+        "medium_grained_category": "Base64_IndexTable"
+    },
+    {
+        "id": 159,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "POSIX tar archive",
+        "rough_grained_id": 12,
+        "medium_grained_id": 54,
+        "medium_grained_category": "TAR_Archive"
+    },
+    {
+        "id": 160,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "POSIX tar archive (GNU)",
+        "rough_grained_id": 12,
+        "medium_grained_id": 54,
+        "medium_grained_category": "TAR_Archive"
+    },
+    {
+        "id": 161,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "GNU tar incremental snapshot data,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 54,
+        "medium_grained_category": "TAR_Archive"
+    },
+    {
+        "id": 162,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "JAR (ARJ Software, Inc.) archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 55,
+        "medium_grained_category": "ARJ_archives"
+    },
+    {
+        "id": 163,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "JAR (ARJ Software, Inc.) archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 55,
+        "medium_grained_category": "ARJ_archives"
+    },
+    {
+        "id": 164,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "Zip multi-volume archive data, at least PKZIP v2.50 to extract",
+        "rough_grained_id": 12,
+        "medium_grained_id": 56,
+        "medium_grained_category": "ZIP_Archive"
+    },
+    {
+        "id": 165,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "Zip archive data,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 56,
+        "medium_grained_category": "ZIP_Archive"
+    },
+    {
+        "id": 166,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "End of Zip archive,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 56,
+        "medium_grained_category": "ZIP_Archive"
+    },
+    {
+        "id": 167,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "ARJ archive data,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 55,
+        "medium_grained_category": "ARJ_archives"
+    },
+    {
+        "id": 168,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "RAR archive data,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 57,
+        "medium_grained_category": "RAR_Archive"
+    },
+    {
+        "id": 169,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "HPACK archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 53,
+        "medium_grained_category": "HPACK_Archive"
+    },
+    {
+        "id": 170,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "JAM archive",
+        "rough_grained_id": 12,
+        "medium_grained_id": 106,
+        "medium_grained_category": "JAM_Archive"
+    },
+    {
+        "id": 171,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa 2.x? archive data [lzs] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 172,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa 2.x? archive data [lh ] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 173,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa 2.x? archive data [lhd] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 174,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa 2.x? archive data [lh2] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 175,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa 2.x? archive data [lh3] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 176,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa (2.x) archive data [lh4] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 177,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa (2.x) archive data [lh5] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 178,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa (2.x) archive data [lh6] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 179,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LHa (2.x) archive data [lh7] [NSRL|LHA2]",
+        "rough_grained_id": 12,
+        "medium_grained_id": 107,
+        "medium_grained_category": "LHa_Archive"
+    },
+    {
+        "id": 180,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "ASCII cpio archive (SVR4 with no CRC),",
+        "rough_grained_id": 12,
+        "medium_grained_id": 58,
+        "medium_grained_category": "CPIO_Archive"
+    },
+    {
+        "id": 181,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "ASCII cpio archive (SVR4 with CRC)",
+        "rough_grained_id": 12,
+        "medium_grained_id": 58,
+        "medium_grained_category": "CPIO_Archive"
+    },
+    {
+        "id": 182,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "HP Printer Job Language data,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 183,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "RPM",
+        "rough_grained_id": 12,
+        "medium_grained_id": 59,
+        "medium_grained_category": "RPM_Package"
+    },
+    {
+        "id": 184,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BFF volume header,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 108,
+        "medium_grained_category": "BFF_Volume"
+    },
+    {
+        "id": 185,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BFF volume entry,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 108,
+        "medium_grained_category": "BFF_Volume"
+    },
+    {
+        "id": 186,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BFF volume entry, compressed,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 108,
+        "medium_grained_category": "BFF_Volume"
+    },
+    {
+        "id": 187,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BFF volume entry, AIXv3,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 108,
+        "medium_grained_category": "BFF_Volume"
+    },
+    {
+        "id": 188,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "Microsoft Cabinet archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 2,
+        "medium_grained_category": "Microsoft_General"
+    },
+    {
+        "id": 189,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "InstallShield Cabinet archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 109,
+        "medium_grained_category": "InstallShield_Cabinet"
+    },
+    {
+        "id": 190,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "Microsoft WinCE install header",
+        "rough_grained_id": 12,
+        "medium_grained_id": 2,
+        "medium_grained_category": "Microsoft_General"
+    },
+    {
+        "id": 191,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "LBR archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 110,
+        "medium_grained_category": "LBR_Archive"
+    },
+    {
+        "id": 192,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "PARity archive data",
+        "rough_grained_id": 12,
+        "medium_grained_id": 111,
+        "medium_grained_category": "PARity_Archive"
+    },
+    {
+        "id": 193,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BitTorrent file",
+        "rough_grained_id": 12,
+        "medium_grained_id": 112,
+        "medium_grained_category": "BitTorrent_File"
+    },
+    {
+        "id": 194,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BSA archive, version: 103,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 113,
+        "medium_grained_category": "BSA_Archive"
+    },
+    {
+        "id": 195,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BSA archive, version: 104,",
+        "rough_grained_id": 12,
+        "medium_grained_id": 113,
+        "medium_grained_category": "BSA_Archive"
+    },
+    {
+        "id": 196,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "XAR archive",
+        "rough_grained_id": 12,
+        "medium_grained_id": 60,
+        "medium_grained_category": "AR_Archive"
+    },
+    {
+        "id": 197,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/archives",
+        "title": "BORG Backup Archive",
+        "rough_grained_id": 12,
+        "medium_grained_id": 114,
+        "medium_grained_category": "BORG_Backup_Archive"
+    },
+    {
+        "id": 198,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "uImage header, header size: 64 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 115,
+        "medium_grained_category": "uImage_Header"
+    },
+    {
+        "id": 199,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Encrypted Hilink uImage firmware header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 116,
+        "medium_grained_category": "Encrypted_Hilink_uImage_Firmware_Header"
+    },
+    {
+        "id": 200,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "IMG0 (VxWorks) header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 201,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek bootloader",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 202,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "CSR (XAP2) DFU firmware update header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 117,
+        "medium_grained_category": "CSR_Firmware"
+    },
+    {
+        "id": 203,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "CSR Bluecore firmware segment",
+        "rough_grained_id": 13,
+        "medium_grained_id": 117,
+        "medium_grained_category": "CSR_Firmware"
+    },
+    {
+        "id": 204,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "CSYS header, little endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 118,
+        "medium_grained_category": "CSYS_Header"
+    },
+    {
+        "id": 205,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "CSYS header, big endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 118,
+        "medium_grained_category": "CSYS_Header"
+    },
+    {
+        "id": 206,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "WRGG firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 119,
+        "medium_grained_category": "WRGG_Firmware_Header"
+    },
+    {
+        "id": 207,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "TRX firmware header, little endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 120,
+        "medium_grained_category": "TRX_Firmware_Header"
+    },
+    {
+        "id": 208,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "BIN-Header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 121,
+        "medium_grained_category": "BIN_Header"
+    },
+    {
+        "id": 209,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubicom firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 122,
+        "medium_grained_category": "Ubicom_Firmware_Header"
+    },
+    {
+        "id": 210,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Realtek firmware header, ROME bootloader,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 64,
+        "medium_grained_category": "Realtek_General"
+    },
+    {
+        "id": 211,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Realtek firmware header, ROME bootloader,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 64,
+        "medium_grained_category": "Realtek_General"
+    },
+    {
+        "id": 212,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "PackImg section delimiter tag,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 123,
+        "medium_grained_category": "PackImg_Section_Delimiter_Tag"
+    },
+    {
+        "id": 213,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Broadcom header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 65,
+        "medium_grained_category": "Broadcom_General"
+    },
+    {
+        "id": 214,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "BLCR",
+        "rough_grained_id": 13,
+        "medium_grained_id": 124,
+        "medium_grained_category": "BLCR"
+    },
+    {
+        "id": 215,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "BLCR",
+        "rough_grained_id": 13,
+        "medium_grained_id": 124,
+        "medium_grained_category": "BLCR"
+    },
+    {
+        "id": 216,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Aculab VoIP firmware",
+        "rough_grained_id": 13,
+        "medium_grained_id": 125,
+        "medium_grained_category": "Aculab_VoIP_Firmware"
+    },
+    {
+        "id": 217,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "HP LaserJet 1000 series downloadable firmware",
+        "rough_grained_id": 13,
+        "medium_grained_id": 9,
+        "medium_grained_category": "HP_General"
+    },
+    {
+        "id": 218,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Marvell Libertas firmware",
+        "rough_grained_id": 13,
+        "medium_grained_id": 66,
+        "medium_grained_category": "Marvell_General"
+    },
+    {
+        "id": 219,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Paged COBALT boot rom",
+        "rough_grained_id": 13,
+        "medium_grained_id": 126,
+        "medium_grained_category": "COBALT_Boot_Rom"
+    },
+    {
+        "id": 220,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "COBALT boot rom data (Flat boot rom or file system)",
+        "rough_grained_id": 13,
+        "medium_grained_id": 126,
+        "medium_grained_category": "COBALT_Boot_Rom"
+    },
+    {
+        "id": 221,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Motorola S-Record; binary data in text format, record type:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 67,
+        "medium_grained_category": "Motorola_General"
+    },
+    {
+        "id": 222,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Windows CE image header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 68,
+        "medium_grained_category": "Microsoft_WindowsCE"
+    },
+    {
+        "id": 223,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Windows CE memory segment header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 68,
+        "medium_grained_category": "Microsoft_WindowsCE"
+    },
+    {
+        "id": 224,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ZynOS header, header size: 48 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 127,
+        "medium_grained_category": "ZynOS_Header"
+    },
+    {
+        "id": 225,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Cisco VxWorks firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 69,
+        "medium_grained_category": "Cisco_VxWorks"
+    },
+    {
+        "id": 226,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ZBOOT firmware header, header size: 32 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 128,
+        "medium_grained_category": "ZBOOT_Firmware_Header"
+    },
+    {
+        "id": 227,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "DLOB firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 129,
+        "medium_grained_category": "DLOB_Firmware_Header"
+    },
+    {
+        "id": 228,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "TP-Link firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 70,
+        "medium_grained_category": "TP-Link_Networking"
+    },
+    {
+        "id": 229,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Broadcom 96345 firmware header, header size: 256,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 65,
+        "medium_grained_category": "Broadcom_General"
+    },
+    {
+        "id": 230,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Xerox DLM firmware start of header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 71,
+        "medium_grained_category": "Xerox_General"
+    },
+    {
+        "id": 231,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Xerox DLM firmware name:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 71,
+        "medium_grained_category": "Xerox_General"
+    },
+    {
+        "id": 232,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Xerox DLM firmware version:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 71,
+        "medium_grained_category": "Xerox_General"
+    },
+    {
+        "id": 233,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Xerox DLM firmware end of header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 71,
+        "medium_grained_category": "Xerox_General"
+    },
+    {
+        "id": 234,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Copyright string:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 130,
+        "medium_grained_category": "Copyright_String"
+    },
+    {
+        "id": 235,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Copyright string:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 130,
+        "medium_grained_category": "Copyright_String"
+    },
+    {
+        "id": 236,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Sercomm firmware signature,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 131,
+        "medium_grained_category": "SerComm_Firmware"
+    },
+    {
+        "id": 237,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "NPK firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 132,
+        "medium_grained_category": "NPK_Firmware_Header"
+    },
+    {
+        "id": 238,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti firmware header, header size: 264 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 239,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti firmware header, header size: 264 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 240,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti firmware header, third party,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 241,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti partition header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 242,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti end header, header size: 12 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 243,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Signed Ubiquiti end header, RSA 2048 bit, header size: 264 bytes",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 244,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Ubiquiti firmware additional data,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 72,
+        "medium_grained_category": "Ubiquiti_Networking"
+    },
+    {
+        "id": 245,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "AIH0 firmware header, header size: 48,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 133,
+        "medium_grained_category": "AIH0_Firmware_Header"
+    },
+    {
+        "id": 246,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "SEAMA firmware header, big endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 134,
+        "medium_grained_category": "SEAMA_Firmware_Header"
+    },
+    {
+        "id": 247,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "SEAMA firmware header, little endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 134,
+        "medium_grained_category": "SEAMA_Firmware_Header"
+    },
+    {
+        "id": 248,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "NSP firmware header, big endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 135,
+        "medium_grained_category": "NSP_Firmware_Header"
+    },
+    {
+        "id": 249,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "NSP firmware header, little endian,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 135,
+        "medium_grained_category": "NSP_Firmware_Header"
+    },
+    {
+        "id": 250,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Beyonwiz firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 136,
+        "medium_grained_category": "Beyonwiz_Firmware_Header"
+    },
+    {
+        "id": 251,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Thompson/Alcatel encoded firmware,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 137,
+        "medium_grained_category": "Thompson_Alcatel_Encoded_Firmware"
+    },
+    {
+        "id": 252,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Android Backup",
+        "rough_grained_id": 13,
+        "medium_grained_id": 73,
+        "medium_grained_category": "Android_OS"
+    },
+    {
+        "id": 253,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "TWRP Backup,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 138,
+        "medium_grained_category": "TWRP_Backup"
+    },
+    {
+        "id": 254,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Roku aimage SB",
+        "rough_grained_id": 13,
+        "medium_grained_id": 139,
+        "medium_grained_category": "Roku_Aimage_SB"
+    },
+    {
+        "id": 255,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Paged Sun/COBALT boot rom,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 140,
+        "medium_grained_category": "Paged_Sun_COBALT_Boot_Rom"
+    },
+    {
+        "id": 256,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ZyXEL rom-0 configuration block, name: \"%s\",",
+        "rough_grained_id": 13,
+        "medium_grained_id": 74,
+        "medium_grained_category": "ZyXEL_Networking"
+    },
+    {
+        "id": 257,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ZyXEL rom-0 configuration block, name: \"%s\",",
+        "rough_grained_id": 13,
+        "medium_grained_id": 74,
+        "medium_grained_category": "ZyXEL_Networking"
+    },
+    {
+        "id": 258,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ZyXEL rom-0 configuration block, name: \"%s\",",
+        "rough_grained_id": 13,
+        "medium_grained_id": 74,
+        "medium_grained_category": "ZyXEL_Networking"
+    },
+    {
+        "id": 259,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Obfuscated Arcadyan firmware,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 141,
+        "medium_grained_category": "Obfuscated_Arcadyan_Firmware"
+    },
+    {
+        "id": 260,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Digi International firmware,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 142,
+        "medium_grained_category": "Digi_International_Firmware"
+    },
+    {
+        "id": 261,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "LANCOM firmware header,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 143,
+        "medium_grained_category": "LANCOM_Firmware"
+    },
+    {
+        "id": 262,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "LANCOM OEM file",
+        "rough_grained_id": 13,
+        "medium_grained_id": 143,
+        "medium_grained_category": "LANCOM_Firmware"
+    },
+    {
+        "id": 263,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "LANCOM firmware loader,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 143,
+        "medium_grained_category": "LANCOM_Firmware"
+    },
+    {
+        "id": 264,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "LANCOM WWAN firmware",
+        "rough_grained_id": 13,
+        "medium_grained_id": 143,
+        "medium_grained_category": "LANCOM_Firmware"
+    },
+    {
+        "id": 265,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "LANCOM file entry",
+        "rough_grained_id": 13,
+        "medium_grained_id": 143,
+        "medium_grained_category": "LANCOM_Firmware"
+    },
+    {
+        "id": 266,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Broadcom firmware header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 65,
+        "medium_grained_category": "Broadcom_General"
+    },
+    {
+        "id": 267,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "QNAP encrypted firmware footer",
+        "rough_grained_id": 13,
+        "medium_grained_id": 144,
+        "medium_grained_category": "QNAP_Encrypted_Firmware"
+    },
+    {
+        "id": 268,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek Serial Flash Image",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 269,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek EMMC Flash Image",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 270,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek NOR Flash Image",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 271,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek Boot Header",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 272,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Boot section",
+        "rough_grained_id": 13,
+        "medium_grained_id": 145,
+        "medium_grained_category": "MediaTek_Boot_Section"
+    },
+    {
+        "id": 273,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Mediatek File Info",
+        "rough_grained_id": 13,
+        "medium_grained_id": 63,
+        "medium_grained_category": "MediaTek_General"
+    },
+    {
+        "id": 274,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Android bootimg",
+        "rough_grained_id": 13,
+        "medium_grained_id": 73,
+        "medium_grained_category": "Android_OS"
+    },
+    {
+        "id": 275,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Qualcomm device tree container",
+        "rough_grained_id": 13,
+        "medium_grained_id": 30,
+        "medium_grained_category": "Qualcomm_General"
+    },
+    {
+        "id": 276,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Nexus bootloader image",
+        "rough_grained_id": 13,
+        "medium_grained_id": 146,
+        "medium_grained_category": "Nexus_Image"
+    },
+    {
+        "id": 277,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Nexus IMGDATA",
+        "rough_grained_id": 13,
+        "medium_grained_id": 146,
+        "medium_grained_category": "Nexus_Image"
+    },
+    {
+        "id": 278,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Motorola bootlogo container",
+        "rough_grained_id": 13,
+        "medium_grained_id": 67,
+        "medium_grained_category": "Motorola_General"
+    },
+    {
+        "id": 279,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Motorola RLE bootlogo",
+        "rough_grained_id": 13,
+        "medium_grained_id": 67,
+        "medium_grained_category": "Motorola_General"
+    },
+    {
+        "id": 280,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Motorola UTAGS",
+        "rough_grained_id": 13,
+        "medium_grained_id": 67,
+        "medium_grained_category": "Motorola_General"
+    },
+    {
+        "id": 281,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Qualcomm splash screen",
+        "rough_grained_id": 13,
+        "medium_grained_id": 30,
+        "medium_grained_category": "Qualcomm_General"
+    },
+    {
+        "id": 282,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Qualcomm SBL1",
+        "rough_grained_id": 13,
+        "medium_grained_id": 30,
+        "medium_grained_category": "Qualcomm_General"
+    },
+    {
+        "id": 283,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Intel HEX data, record type:",
+        "rough_grained_id": 13,
+        "medium_grained_id": 75,
+        "medium_grained_category": "Intel_General"
+    },
+    {
+        "id": 284,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "ATAGs msm parition table (msmptbl),",
+        "rough_grained_id": 13,
+        "medium_grained_id": 147,
+        "medium_grained_category": "ATAGs_Firmware"
+    },
+    {
+        "id": 285,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Amino MCastFS2 (.mcfs)",
+        "rough_grained_id": 13,
+        "medium_grained_id": 76,
+        "medium_grained_category": "AMI_BIOS"
+    },
+    {
+        "id": 286,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Intel x86 or x64 microcode,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 75,
+        "medium_grained_category": "Intel_General"
+    },
+    {
+        "id": 287,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Flattened device tree,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 77,
+        "medium_grained_category": "DeviceTree_Blob"
+    },
+    {
+        "id": 288,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Toshiba SSD Firmware Update",
+        "rough_grained_id": 13,
+        "medium_grained_id": 148,
+        "medium_grained_category": "Toshiba_Firmware"
+    },
+    {
+        "id": 289,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "bix header, header size: 64 bytes,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 149,
+        "medium_grained_category": "Bix_Header"
+    },
+    {
+        "id": 290,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/firmware",
+        "title": "Autel EVO Upgrade Transfer,",
+        "rough_grained_id": 13,
+        "medium_grained_id": 150,
+        "medium_grained_category": "Autel_EVO_Upgrade_Transfer"
+    },
+    {
+        "id": 291,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, big endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 292,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, big endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 293,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, big endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 294,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, little endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 295,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, little endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 296,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks symbol table, little endian,",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 297,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks WIND kernel version",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 298,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/vxworks",
+        "title": "VxWorks operating system version",
+        "rough_grained_id": 14,
+        "medium_grained_id": 62,
+        "medium_grained_category": "VxWorks_RTOS"
+    },
+    {
+        "id": 299,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "PDF document,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 78,
+        "medium_grained_category": "PDF_Document"
+    },
+    {
+        "id": 300,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "ZyXEL voice data",
+        "rough_grained_id": 15,
+        "medium_grained_id": 151,
+        "medium_grained_category": "ZyXEL_Voice_Data"
+    },
+    {
+        "id": 301,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Xen saved domain file",
+        "rough_grained_id": 15,
+        "medium_grained_id": 152,
+        "medium_grained_category": "Xen_Saved_Domain_File"
+    },
+    {
+        "id": 302,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "HTML document header",
+        "rough_grained_id": 15,
+        "medium_grained_id": 80,
+        "medium_grained_category": "HTML_Document"
+    },
+    {
+        "id": 303,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "HTML document header",
+        "rough_grained_id": 15,
+        "medium_grained_id": 80,
+        "medium_grained_category": "HTML_Document"
+    },
+    {
+        "id": 304,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "HTML document footer",
+        "rough_grained_id": 15,
+        "medium_grained_id": 80,
+        "medium_grained_category": "HTML_Document"
+    },
+    {
+        "id": 305,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "HTML document footer",
+        "rough_grained_id": 15,
+        "medium_grained_id": 80,
+        "medium_grained_category": "HTML_Document"
+    },
+    {
+        "id": 306,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "XML document,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 81,
+        "medium_grained_category": "XML_Document"
+    },
+    {
+        "id": 307,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Windows Script Encoded Data (screnc.exe)",
+        "rough_grained_id": 15,
+        "medium_grained_id": 153,
+        "medium_grained_category": "Windows_Script_Encoded_Data"
+    },
+    {
+        "id": 308,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Unix path:",
+        "rough_grained_id": 15,
+        "medium_grained_id": 154,
+        "medium_grained_category": "Unix_Path"
+    },
+    {
+        "id": 309,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Neighborly text,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 155,
+        "medium_grained_category": "Neighborly_misc"
+    },
+    {
+        "id": 310,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Neighborly text,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 155,
+        "medium_grained_category": "Neighborly_misc"
+    },
+    {
+        "id": 311,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Neighborly text, best guess: Goodspeed,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 155,
+        "medium_grained_category": "Neighborly_misc"
+    },
+    {
+        "id": 312,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "uuencoded data,",
+        "rough_grained_id": 15,
+        "medium_grained_id": 156,
+        "medium_grained_category": "Uuencoded_Data"
+    },
+    {
+        "id": 313,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "OSX DMG image",
+        "rough_grained_id": 15,
+        "medium_grained_id": 157,
+        "medium_grained_category": "OSX_DMG_Image"
+    },
+    {
+        "id": 314,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/misc",
+        "title": "Xilinx Virtex/Spartan FPGA bitstream dummy + sync word",
+        "rough_grained_id": 15,
+        "medium_grained_id": 158,
+        "medium_grained_category": "Xilinx_FPGA_Bitstream"
+    },
+    {
+        "id": 315,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos RTOS string reference:",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 316,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos RTOS string reference:",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 317,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos RTOS string reference:",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 318,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos kernel exception handler, architecture: MIPSEL,",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 319,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos kernel exception handler, architecture: MIPSEL,",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 320,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos kernel exception handler, architecture: MIPS,",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 321,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ecos",
+        "title": "eCos kernel exception handler, architecture: MIPS,",
+        "rough_grained_id": 16,
+        "medium_grained_id": 82,
+        "medium_grained_category": "eCos_RTOS"
+    },
+    {
+        "id": 322,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/animation",
+        "title": "MPEG transport stream data",
+        "rough_grained_id": 17,
+        "medium_grained_id": 83,
+        "medium_grained_category": "MPEG_Media"
+    },
+    {
+        "id": 323,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/animation",
+        "title": "MPEG transport stream data",
+        "rough_grained_id": 17,
+        "medium_grained_id": 83,
+        "medium_grained_category": "MPEG_Media"
+    },
+    {
+        "id": 324,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/animation",
+        "title": "MPEG transport stream data",
+        "rough_grained_id": 17,
+        "medium_grained_id": 83,
+        "medium_grained_category": "MPEG_Media"
+    },
+    {
+        "id": 325,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/animation",
+        "title": "MPEG transport stream data",
+        "rough_grained_id": 17,
+        "medium_grained_id": 83,
+        "medium_grained_category": "MPEG_Media"
+    },
+    {
+        "id": 326,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/animation",
+        "title": "Uncompressed Adobe Flash SWF file,",
+        "rough_grained_id": 17,
+        "medium_grained_id": 84,
+        "medium_grained_category": "Adobe_Flash"
+    },
+    {
+        "id": 327,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x51,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 328,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x5A,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 329,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x5B,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 330,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x5C,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 331,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x5D,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 332,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x5E,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 333,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x63,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 334,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x64,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 335,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x65,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 336,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x66,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 337,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x6C,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 338,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x6D,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 339,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x6E,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 340,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x75,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 341,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x76,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 342,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x7E,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 343,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x87,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 344,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x88,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 345,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x89,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 346,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x8A,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 347,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x8B,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 348,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x90,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 349,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x91,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 350,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x92,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 351,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x93,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 352,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x99,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 353,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x9A,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 354,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0x9B,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 355,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xA2,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 356,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xA3,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 357,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xAB,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 358,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xB4,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 359,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xB5,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 360,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xB6,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 361,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xB7,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 362,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xB8,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 363,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xBD,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 364,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xBE,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 365,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xBF,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 366,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xC0,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 367,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xC6,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 368,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xC7,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 369,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xC8,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 370,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xCF,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 371,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xD0,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 372,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/lzma",
+        "title": "LZMA compressed data, properties: 0xD8,",
+        "rough_grained_id": 18,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 373,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/network",
+        "title": "Pcap-ng capture file, big-endian,",
+        "rough_grained_id": 19,
+        "medium_grained_id": 86,
+        "medium_grained_category": "FALLBACK_network"
+    },
+    {
+        "id": 374,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/network",
+        "title": "Pcap-ng capture file, little-endian,",
+        "rough_grained_id": 19,
+        "medium_grained_id": 86,
+        "medium_grained_category": "FALLBACK_network"
+    },
+    {
+        "id": 375,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/network",
+        "title": "Libpcap capture file, big-endian,",
+        "rough_grained_id": 19,
+        "medium_grained_id": 86,
+        "medium_grained_category": "FALLBACK_network"
+    },
+    {
+        "id": 376,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/network",
+        "title": "Libpcap capture file, little-endian,",
+        "rough_grained_id": 19,
+        "medium_grained_id": 86,
+        "medium_grained_category": "FALLBACK_network"
+    },
+    {
+        "id": 377,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "StuffIt Archive (data)",
+        "rough_grained_id": 20,
+        "medium_grained_id": 87,
+        "medium_grained_category": "StuffIt_Archive"
+    },
+    {
+        "id": 378,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "StuffIt Deluxe (data)",
+        "rough_grained_id": 20,
+        "medium_grained_id": 87,
+        "medium_grained_category": "StuffIt_Archive"
+    },
+    {
+        "id": 379,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "StuffIt Deluxe Segment (data)",
+        "rough_grained_id": 20,
+        "medium_grained_id": 87,
+        "medium_grained_category": "StuffIt_Archive"
+    },
+    {
+        "id": 380,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "StuffIt Archive",
+        "rough_grained_id": 20,
+        "medium_grained_id": 87,
+        "medium_grained_category": "StuffIt_Archive"
+    },
+    {
+        "id": 381,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "AFX compressed file data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 159,
+        "medium_grained_category": "AFX_Compressed"
+    },
+    {
+        "id": 382,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 900k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 383,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 800k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 384,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 700k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 385,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 600k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 386,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 500k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 387,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 400k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 388,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 300k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 389,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 200k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 390,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "bzip2 compressed data, block size = 100k",
+        "rough_grained_id": 20,
+        "medium_grained_id": 160,
+        "medium_grained_category": "BZIP2_Compressed"
+    },
+    {
+        "id": 391,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "lzop compressed data,",
+        "rough_grained_id": 20,
+        "medium_grained_id": 88,
+        "medium_grained_category": "LZO_Compressed"
+    },
+    {
+        "id": 392,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "lzip compressed data,",
+        "rough_grained_id": 20,
+        "medium_grained_id": 161,
+        "medium_grained_category": "LZIP_Archive"
+    },
+    {
+        "id": 393,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "lrzip compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 161, 
+        "medium_grained_category": "LZIP_Archive"
+    },
+    {
+        "id": 394,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "LZO compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 88,
+        "medium_grained_category": "LZO_Compressed"
+    },
+    {
+        "id": 395,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "7-zip archive data,",
+        "rough_grained_id": 20,
+        "medium_grained_id": 162,
+        "medium_grained_category": "7ZIP_Archive"
+    },
+    {
+        "id": 396,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "xz compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 89,
+        "medium_grained_category": "XZ_Compressed"
+    },
+    {
+        "id": 397,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "gzip compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 163,
+        "medium_grained_category": "GZIP_Compressed"
+    },
+    {
+        "id": 398,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "rzip compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 164,
+        "medium_grained_category": "RZIP_Compressed"
+    },
+    {
+        "id": 399,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "JAR compressed with pack200,",
+        "rough_grained_id": 20,
+        "medium_grained_id": 165,
+        "medium_grained_category": "JAR_Compressed"
+    },
+    {
+        "id": 400,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "LZMA compressed data (new),",
+        "rough_grained_id": 20,
+        "medium_grained_id": 85,
+        "medium_grained_category": "LZMA_Compressed"
+    },
+    {
+        "id": 401,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "Snappy compression, stream identifier",
+        "rough_grained_id": 20,
+        "medium_grained_id": 90,
+        "medium_grained_category": "Snappy_Compressed"
+    },
+    {
+        "id": 402,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "KGB archive",
+        "rough_grained_id": 20,
+        "medium_grained_id": 166,
+        "medium_grained_category": "KGB_Archive"
+    },
+    {
+        "id": 403,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "Zlib compressed data, default compression",
+        "rough_grained_id": 20,
+        "medium_grained_id": 91,
+        "medium_grained_category": "ZLib_Compressed"
+    },
+    {
+        "id": 404,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "Zlib compressed data, best compression",
+        "rough_grained_id": 20,
+        "medium_grained_id": 91,
+        "medium_grained_category": "ZLib_Compressed"
+    },
+    {
+        "id": 405,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "Zlib compressed data, compressed",
+        "rough_grained_id": 20,
+        "medium_grained_id": 91,
+        "medium_grained_category": "ZLib_Compressed"
+    },
+    {
+        "id": 406,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "LZ4 compressed data",
+        "rough_grained_id": 20,
+        "medium_grained_id": 92,
+        "medium_grained_category": "LZ4_Compressed"
+    },
+    {
+        "id": 407,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/compressed",
+        "title": "LZ4 compressed data, legacy",
+        "rough_grained_id": 20,
+        "medium_grained_id": 92,
+        "medium_grained_category": "LZ4_Compressed"
+    },
+    {
+        "id": 408,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/ebml",
+        "title": "EBML file",
+        "rough_grained_id": 21,
+        "medium_grained_id": 93,
+        "medium_grained_category": "EBML_File"
+    },
+    {
+        "id": 409,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/bootloaders",
+        "title": "CFE boot loader",
+        "rough_grained_id": 22,
+        "medium_grained_id": 94,
+        "medium_grained_category": "CFE_Bootloader"
+    },
+    {
+        "id": 410,
+        "magic_file": "/home/IOT/Data_processing_code/iot_firmwareassociation/代码/binwalk备份/binwalk/magic/bootloaders",
+        "title": "U-Boot version string,",
+        "rough_grained_id": 22,
+        "medium_grained_id": 95,
+        "medium_grained_category": "U-Boot_Bootloader"
+    }
+]

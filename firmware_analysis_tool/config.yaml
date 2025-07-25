@@ -8,11 +8,11 @@ tool:
 
 # 目录配置
 directories:
-  binwalk_log: "binwalk_docker_result/binwalk_log" # binwalk日志目录
-  output_json: "output_json" # 输出JSON路径
-  firmware_extracted: "binwalk_docker_result/extract_result" # binwalk解包路径
+  binwalk_log: "results/binwalk_docker_result/binwalk_log" # binwalk日志目录
+  output_json: "results/output_json" # 输出JSON路径
+  firmware_extracted: "results/binwalk_docker_result/extract_result" # binwalk解包路径
   firmwalker: "firmwalker_pro" # firmwalker工具路径
-  firmwalker_output: "firmwalker_result" # firmwalker输出路径
+  firmwalker_output: "results/firmwalker_result" # firmwalker输出路径
 
 # SATC配置
 satc:
@@ -34,4 +34,8 @@ database:
   port: 3307
   user: "root"
   password: "StrongPassw0rd!"
-  db_name: "firmware_info" 
+  db_name: "firmware_info"
+
+# 映射配置
+mapping:
+  signature_mapping_file: "signatures_medium_grained.json" 

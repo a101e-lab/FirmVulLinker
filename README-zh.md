@@ -16,23 +16,6 @@ Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站�
 
 两者可以独立运行，也可以串联使用：先批量提取固件特征，再在特征目录上执行相似度比较。
 
-## 相关数据集
-
-本项目的实验数据集存储在独立仓库中：
-- **数据集仓库**: [FirmVulLinker-dataset](https://github.com/a101e-lab/FirmVulLinker-dataset)
-- **内容说明**: 包含实验中涉及到的groundtruth数据和固件文件
-- **数据结构**:
-  - `Known_Defective_Firmware/`: 包含已知存在漏洞的固件文件和对应的编号映射
-  - `detail_info.csv`: 固件的详细信息以及编号映射表
-  - `groundtruth.csv`: 实验的基础数据集
-- **字段说明**:
-  - BM编号：在FirmEmuHub中对应的可仿真的基础环境的固件编号
-  - KDF编号：本次实验中涉及的拥有已知漏洞的固件编号和未知漏洞状态的固件编号
-  - vendor：固件的厂商
-  - device_type：固件的设备类型
-  - hardware_version：固件版本号
-  - file_name：固件名
-
 ---
 
 ## 目录结构
@@ -69,29 +52,21 @@ Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站�
 - **Python**：3.8 及以上版本
 - **容器化**：Docker 与 docker-compose
 - **数据库**：MySQL
-- **版本控制**：Git 与 Git LFS（用于管理大文件）
 - **额外依赖**：sdhash、Ghidra、ssdeep、pyOpenSSL、pycryptodome
 
 ---
 
 ## 完整安装步骤
 
-> **推荐使用一键安装脚本**：直接跳转到第9步使用 `firmware_analysis_tool/setup.sh` 脚本进行自动安装。
+> **推荐使用一键安装脚本**：直接跳转到第8步使用 `firmware_analysis_tool/setup.sh` 脚本进行自动安装。
 
 ### 1. 克隆仓库
 ```bash
-# 确保已安装Git LFS
-git lfs install
-
-# 克隆仓库（包含LFS文件）
-git clone --recursive <repo_url>
-cd firmvullinker
+git clone --recursive https://github.com/a101e-lab/FirmVulLinker.git
+cd firmvulinker
 
 # 确保子模块正确clone
 git submodule update --init --recursive
-
-# 获取LFS文件
-git lfs pull
 ```
 
 ### 2. 安装Python依赖
@@ -117,7 +92,7 @@ chmod +x ./install_sdhash.sh
 
 ### 5. 配置Ghidra
 ```bash
-# 解压Ghidra（文件通过Git LFS管理）
+# 解压Ghidra
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 ```
 
@@ -133,13 +108,7 @@ docker compose up -d
 cd ..
 ```
 
-### 8. 验证LFS文件
-```bash
-# 检查LFS文件是否正确下载
-git lfs ls-files
-```
-
-### 9. 一键安装脚本（推荐）
+### 8. 一键安装脚本（推荐）
 为了简化安装过程，我们提供了一键安装脚本：
 
 ```bash
@@ -149,9 +118,9 @@ chmod +x setup.sh
 ```
 
 该脚本会自动执行以下操作：
-- 检查系统依赖（Docker、Python 3.8+、pip3、git、Git LFS）
+- 检查系统依赖（Docker、Python 3.8+、pip3、git）
 - 安装Python依赖包
-- 初始化Git子模块和LFS文件
+- 初始化Git子模块
 - 拉取所需的Docker镜像
 - 安装sdhash
 - 设置Ghidra（如果存在压缩包）
@@ -184,7 +153,7 @@ python main.py -f /path/to/firmware.bin --satc
 
 #### 分析输出结构
 ```bash
-firmware_analysis_tool/
+result/
 ├── binwalk_docker_result/
 │   ├── binwalk_log/                 # binwalk分析日志
 │   │   ├── 固件名_output.log        # binwalk输出日志
@@ -234,14 +203,14 @@ firmware_analysis_tool/
 ```bash
 cd firmware_similarity_tool
 
-# 比较两个固件，使用所有默认模块
-python main.py test_data/BM-2024-00001 test_data/BM-2024-00002
+# 比较两个固件的提取结果，使用所有默认模块
+python main.py result1/ result2/
 
-# 比较两个固件，只使用指定模块
-python main.py test_data/BM-2024-00001 test_data/BM-2024-00002 --modules binwalk,ghidra
+# 比较两个固件提取结果，只使用指定模块
+python main.py result1/ result2/ --modules binwalk,ghidra
 
 # 指定固件内部目录名
-python main.py test_data/BM-2024-00005 test_data/BM-2024-00003 --firmware1_dir "DIR-865L_A1" --firmware2_dir "DIR825B1_FW210NAb02"
+python main.py result5/ result3/ --firmware1_dir "DIR-865L_A1" --firmware2_dir "DIR825B1_FW210NAb02"
 ```
 
 #### 命令行参数
@@ -285,7 +254,7 @@ comparison_results/固件1_固件2_时间戳/
 firmware_similarity_tool/
 ├── batch_similarity.py           # 批量比较脚本
 ├── exe2sim_cve.csv              # CVE-固件映射文件（必需）
-├── origin_data/                 # 固件经过firmware_analysis_tool处理后得到的数据结果目录
+├── datas/                 # 固件经过firmware_analysis_tool处理后得到的数据结果目录
 │   ├── BM-2024-00001/           # 固件1目录
 │   ├── BM-2024-00002/           # 固件2目录
 │   └── ...                      # 其他固件目录

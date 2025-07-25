@@ -15,23 +15,6 @@ This repository contains two core sub-projects:
 
 Both tools can run independently or be used in combination: first extract firmware features in batches, then perform similarity comparisons on the feature directories.
 
-## Related Dataset
-
-The experimental dataset for this project is stored in a separate repository:
-- **Dataset Repository**: [FirmVulLinker-dataset](https://github.com/a101e-lab/FirmVulLinker-dataset)
-- **Content Description**: Contains groundtruth data and firmware files involved in the experiments
-- **Data Structure**:
-  - `Known_Defective_Firmware/`: Contains firmware files with known vulnerabilities and corresponding ID mappings
-  - `detail_info.csv`: Detailed firmware information and ID mapping table
-  - `groundtruth.csv`: Basic experimental dataset
-- **Field Descriptions**:
-  - BM ID: Firmware ID corresponding to the emulatable base environment in FirmEmuHub
-  - KDF ID: Firmware IDs with known vulnerabilities and unknown vulnerability status involved in this experiment
-  - vendor: Firmware vendor
-  - device_type: Firmware device type
-  - hardware_version: Firmware version number
-  - file_name: Firmware name
-
 ---
 
 ## Directory Structure
@@ -58,7 +41,7 @@ The experimental dataset for this project is stored in a separate repository:
     ├── batch_similarity.py        # Batch similarity comparison script
     ├── solo_compare.py            # Result processing script
     ├── logs/                      # Log directory
-    └── test_data/                 # Test data
+    └── datas/                     # Test data
 ```
 
 ---
@@ -68,29 +51,21 @@ The experimental dataset for this project is stored in a separate repository:
 - **Python**: 3.8 and above
 - **Containerization**: Docker and docker-compose
 - **Database**: MySQL
-- **Version Control**: Git and Git LFS (for managing large files)
 - **Additional Dependencies**: sdhash, Ghidra, ssdeep, pyOpenSSL, pycryptodome
 
 ---
 
 ## Complete Installation Steps
 
-> **Recommended: Use One-click Installation Script**: Skip to step 9 to use the `firmware_analysis_tool/setup.sh` script for automatic installation.
+> **Recommended: Use One-click Installation Script**: Skip to step 8 to use the `firmware_analysis_tool/setup.sh` script for automatic installation.
 
 ### 1. Clone Repository
 ```bash
-# Ensure Git LFS is installed
-git lfs install
-
-# Clone repository (including LFS files)
-git clone --recursive <repo_url>
+git clone --recursive https://github.com/a101e-lab/FirmVulLinker.git
 cd firmvullinker
 
 # Ensure submodules are correctly cloned
 git submodule update --init --recursive
-
-# Pull LFS files
-git lfs pull
 ```
 
 ### 2. Install Python Dependencies
@@ -116,7 +91,7 @@ chmod +x ./install_sdhash.sh
 
 ### 5. Configure Ghidra
 ```bash
-# Extract Ghidra (file managed by Git LFS)
+# Extract Ghidra
 tar -xzvf ghidra_11.0.1_PUBLIC.tar.gz
 ```
 
@@ -132,13 +107,7 @@ docker compose up -d
 cd ..
 ```
 
-### 8. Verify LFS Files
-```bash
-# Check if LFS files are correctly downloaded
-git lfs ls-files
-```
-
-### 9. One-click Installation Script (Recommended)
+### 8. One-click Installation Script (Recommended)
 To simplify the installation process, we provide a one-click installation script:
 
 ```bash
@@ -148,9 +117,9 @@ chmod +x setup.sh
 ```
 
 The script will automatically perform the following operations:
-- Check system dependencies (Docker, Python 3.8+, pip3, git, Git LFS)
+- Check system dependencies (Docker, Python 3.8+, pip3, git)
 - Install Python dependency packages
-- Initialize Git submodules and LFS files
+- Initialize Git submodules
 - Pull required Docker images
 - Install sdhash
 - Set up Ghidra (if archive exists)
@@ -183,7 +152,7 @@ python main.py -f /path/to/firmware.bin --satc
 
 #### Analysis Output Structure
 ```bash
-firmware_analysis_tool/
+result/
 ├── binwalk_docker_result/
 │   ├── binwalk_log/                 # binwalk analysis logs
 │   │   ├── firmware_name_output.log # binwalk output log
@@ -234,13 +203,13 @@ The Firmware Similarity Comparison Tool is a multi-module comparison system spec
 cd firmware_similarity_tool
 
 # Compare two firmware using all default modules
-python main.py test_data/BM-2024-00001 test_data/BM-2024-00002
+python main.py result1/ result2/
 
 # Compare two firmware using only specified modules
-python main.py test_data/BM-2024-00001 test_data/BM-2024-00002 --modules binwalk,ghidra
+python main.py result1/ result2/ --modules binwalk,ghidra
 
 # Specify firmware internal directory names
-python main.py test_data/BM-2024-00005 test_data/BM-2024-00003 --firmware1_dir "DIR-865L_A1" --firmware2_dir "DIR825B1_FW210NAb02"
+python main.py result5/ result3/ --firmware1_dir "DIR-865L_A1" --firmware2_dir "DIR825B1_FW210NAb02"
 ```
 
 #### Command Line Parameters
@@ -284,7 +253,7 @@ The batch similarity comparison functionality requires specific file structure a
 firmware_similarity_tool/
 ├── batch_similarity.py           # Batch comparison script
 ├── exe2sim_cve.csv              # CVE-firmware mapping file (required)
-├── origin_data/                 # Data result directory containing firmware processed by firmware_analysis_tool
+├── datas/                 # Data result directory containing firmware processed by firmware_analysis_tool
 │   ├── BM-2024-00001/           # Firmware 1 directory
 │   ├── BM-2024-00002/           # Firmware 2 directory
 │   └── ...                      # Other firmware directories
@@ -445,4 +414,15 @@ modules:
 
 ### Firmware Analysis Tool Database
 Firmware analysis results are stored in a MySQL database for subsequent queries and comparisons:
-- `firmware_info`
+- `firmware_info` table: stores basic firmware information
+- `fuzzy_hashes` table: stores fuzzy hash values of binary files
+
+---
+
+## Troubleshooting
+
+### Common Issues
+1. **Docker image pull failure**: Try using different image sources or check network connection
+2. **MySQL connection failure**: Check database service status and configuration parameters
+3. **Ghidra analysis failure**: Ensure Ghidra is correctly installed and path is properly configured
+4. **Insufficient memory**: Adjust Docker container script memory limitations 
