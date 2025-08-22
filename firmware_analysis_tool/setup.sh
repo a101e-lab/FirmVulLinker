@@ -175,7 +175,7 @@ install_system_dependencies() {
 install_python_dependencies() {
     log_info "安装Python依赖包..."
     
-    pip3 install --user ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
+    pip3 install --user ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse datasketch
     
     if [ $? -eq 0 ]; then
         log_success "Python依赖安装完成"
