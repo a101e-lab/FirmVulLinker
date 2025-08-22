@@ -14,24 +14,23 @@
 ├── comparison_results # 比较后的结果
 ├── config.yaml # 配置文件
 ├── config_manager.py # 配置文件载入
-├── logs # 存放批量比较过程中的日志信息
 ├── main.py # 主函数
-├── modules # 存放的不同模块比较部分的代码
-│   ├── __init__.py
-│   ├── __pycache__
-│   ├── base_module.py
-│   ├── binwalk_module.py # binwalk解包模块比较脚本
-│   ├── filesystem_profile_module.py # 文件系统结构模块比较脚本
-│   ├── ghidra_module.py # ghidra二进制层次特征提取模块比较脚本
-│   ├── interface_exposure_profile_module.py # 暴露通信接口提取模块比较脚本
-│   ├── param_module.py # 边界二进制程序参数调用链模块比较脚本
-│   └── similarity_utils.py # 综合相似度比较脚本
-├── batch_similarity.py # 批量相似度比较脚本
-├── solo_compare.py # 针对批量比较后的结果进行总体性结果处理
-├── exe2sim_cve.csv # 
-└── test_data
-    ├── BM-2024-00082
-    └── BM-2024-00083
+└── modules # 存放的不同模块比较部分的代码
+    ├── __init__.py
+    ├── __pycache__
+    ├── base_module.py
+    ├── binwalk_module.py # binwalk解包模块比较脚本
+    ├── filesystem_profile_module.py # 文件系统结构模块比较脚本
+    ├── ghidra_module.py # ghidra二进制层次特征提取模块比较脚本
+    ├── interface_exposure_profile_module.py # 暴露通信接口提取模块比较脚本
+    ├── param_module.py # 边界二进制程序参数调用链模块比较脚本
+    └── similarity_utils.py # 综合相似度比较脚本
+```
+
+## 基础依赖
+
+```bash
+pip3 install datasketch
 ```
 
 ## 使用方法

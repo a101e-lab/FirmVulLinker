@@ -1,9 +1,9 @@
-# Firmvullinker
+# FirmVulLinker
 
 [English](README.md) | [简体中文](README-zh.md)
 
 ## Project Overview
-Firmvullinker is a one-stop solution for vulnerability research in homologous IoT embedded firmware. Through a three-step process of "feature extraction → similarity calculation → vulnerability migration", it helps researchers quickly identify potential vulnerability inheritance relationships.
+FirmVulLinker is a one-stop solution for vulnerability research in homologous IoT embedded firmware. Through a three-step process of "feature extraction → similarity calculation → vulnerability migration", it helps researchers quickly identify potential vulnerability inheritance relationships.
 This repository contains two core sub-projects:
 
 1. **`firmware_analysis_tool`** —— Firmware Feature Extraction and Analysis Tool:
@@ -21,7 +21,11 @@ Both tools can run independently or be used in combination: first extract firmwa
 ```bash
 .
 ├── README.md
-├── firmware_analysis_tool/
+├── process_record/                # Example firmware processing records
+│   ├── extacted/                  # Example feature extraction results
+│   ├── comparison_results/        # Example similarity comparison results
+│   ├── origin_firmware/           # Example original firmware
+├── firmware_analysis_tool/        # Firmware feature extraction tool
 │   ├── README.md                  # Sub-project documentation
 │   ├── main.py                    # Analysis entry point
 │   ├── config.yaml                # Global configuration
@@ -32,16 +36,14 @@ Both tools can run independently or be used in combination: first extract firmwa
 │   ├── mysql/                     # MySQL configuration files
 │   ├── install_sdhash.sh          # sdhash installation script
 │   └── ...                        # Other scripts/resources
-└── firmware_similarity_tool/
+└── firmware_similarity_tool/       # Firmware similarity comparison tool
     ├── README.md
     ├── main.py                    # Comparison entry point
     ├── config.yaml                # Configuration file
     ├── modules/                   # Module code for various dimension comparisons
     ├── comparison_results/        # Comparison results output directory
     ├── batch_similarity.py        # Batch similarity comparison script
-    ├── solo_compare.py            # Result processing script
-    ├── logs/                      # Log directory
-    └── datas/                     # Test data
+    └──  solo_compare.py           # Result processing script
 ```
 
 ---
@@ -62,15 +64,21 @@ Both tools can run independently or be used in combination: first extract firmwa
 ### 1. Clone Repository
 ```bash
 git clone --recursive https://github.com/a101e-lab/FirmVulLinker.git
-cd firmvullinker
+cd FirmVulLinker
 
-# Ensure submodules are correctly cloned
+# Ensure Git LFS is installed
+git lfs install
+
+# Initialize and update submodules (ensure access to GitHub)
 git submodule update --init --recursive
+
+# Fetch LFS-managed large files
+git lfs pull
 ```
 
 ### 2. Install Python Dependencies
 ```bash
-pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
+pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse datasketch
 ```
 
 ### 3. Configure Docker Images

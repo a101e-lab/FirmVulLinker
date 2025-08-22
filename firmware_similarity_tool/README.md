@@ -14,24 +14,23 @@ The Firmware Similarity Comparison Tool is a multi-module comparison system spec
 ├── comparison_results # Comparison results
 ├── config.yaml # Configuration file
 ├── config_manager.py # Configuration file loader
-├── logs # Log information from batch comparison processes
 ├── main.py # Main function
-├── modules # Code for different module comparison components
-│   ├── __init__.py
-│   ├── __pycache__
-│   ├── base_module.py
-│   ├── binwalk_module.py # Binwalk unpacking module comparison script
-│   ├── filesystem_profile_module.py # Filesystem structure module comparison script
-│   ├── ghidra_module.py # Ghidra binary-level feature extraction module comparison script
-│   ├── interface_exposure_profile_module.py # Exposed communication interface extraction module comparison script
-│   ├── param_module.py # Edge binary program parameter call chain module comparison script
-│   └── similarity_utils.py # Comprehensive similarity comparison script
-├── batch_similarity.py # Batch similarity comparison script
-├── solo_compare.py # Overall result processing for batch comparison results
-├── exe2sim_cve.csv # CVE-firmware mapping file
-└── test_data
-    ├── BM-2024-00082
-    └── BM-2024-00083
+└──  modules # Code for different module comparison components
+    ├── __init__.py
+    ├── __pycache__
+    ├── base_module.py
+    ├── binwalk_module.py # Binwalk unpacking module comparison script
+    ├── filesystem_profile_module.py # Filesystem structure module comparison script
+    ├── ghidra_module.py # Ghidra binary-level feature extraction module comparison script
+    ├── interface_exposure_profile_module.py # Exposed communication interface extraction module comparison script
+    ├── param_module.py # Edge binary program parameter call chain module comparison script
+    └── similarity_utils.py # Comprehensive similarity comparison script
+```
+
+## Basic Dependencies
+
+```bash
+pip3 install datasketch
 ```
 
 ## Usage
@@ -115,7 +114,7 @@ The comparison summary file contains the following information:
         },
         // ... other module results
     },
-    "total_similarity": 0.87
+    "total_similarity": 
 }
 ```
 

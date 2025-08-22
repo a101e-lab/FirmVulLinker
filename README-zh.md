@@ -1,9 +1,9 @@
-# Firmvulinker
+# FirmVulLinker
 
 [English](README.md) | [简体中文](README-zh.md)
 
 ## 项目简介
-Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站式解决方案，
+FirmVulLinker 是一个面向同源物联网嵌入式固件漏洞研究的一站式解决方案，
 通过"特征提取 → 相似度计算 → 漏洞迁移"三步骤，帮助研究人员快速定位潜在的漏洞继承关系。
 本仓库包含两大核心子项目：
 
@@ -22,7 +22,11 @@ Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站�
 ```bash
 .
 ├── README.md
-├── firmware_analysis_tool/
+├── process_record/                # 示例固件处理记录
+│   ├── extacted/                  # 示例固件特征提取结果
+│   ├── comparison_results/        # 示例固件相似度比较结果
+│   ├── origin_firmware/           # 示例原始固件
+├── firmware_analysis_tool/        # 固件特征提取工具
 │   ├── README.md                  # 子项目说明
 │   ├── main.py                    # 分析入口
 │   ├── config.yaml                # 全局配置
@@ -33,16 +37,14 @@ Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站�
 │   ├── mysql/                     # MySQL配置文件
 │   ├── install_sdhash.sh          # sdhash安装脚本
 │   └── ...                        # 其他脚本/资源
-└── firmware_similarity_tool/
+└── firmware_similarity_tool/       # 固件相似度比较工具
     ├── README.md
     ├── main.py                    # 比对入口
     ├── config.yaml                # 配置文件
     ├── modules/                   # 各维度比较模块代码
     ├── comparison_results/        # 比较结果输出目录
     ├── batch_similarity.py        # 批量相似度比较脚本
-    ├── solo_compare.py            # 结果处理脚本
-    ├── logs/                      # 日志目录
-    └── test_data/                 # 测试数据
+    └──  solo_compare.py           # 结果处理脚本
 ```
 
 ---
@@ -63,15 +65,21 @@ Firmvulinker 是一个面向同源物联网嵌入式固件漏洞研究的一站�
 ### 1. 克隆仓库
 ```bash
 git clone --recursive https://github.com/a101e-lab/FirmVulLinker.git
-cd firmvulinker
+cd FirmVulLinker
 
-# 确保子模块正确clone
+# 确保已安装Git LFS
+git lfs install
+
+# 在根目录下执行如下命令，将子模块内容也clone下来（确保可以连接到github）
 git submodule update --init --recursive
+
+# 获取LFS管理的大文件
+git lfs pull
 ```
 
 ### 2. 安装Python依赖
 ```bash
-pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse
+pip install ssdeep pyOpenSSL pycryptodome mysql-connector-python argparse datasketch
 ```
 
 ### 3. 配置Docker镜像
