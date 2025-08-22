@@ -54,6 +54,7 @@ FirmVulLinker 是一个面向同源物联网嵌入式固件漏洞研究的一站
 - **Python**：3.8 及以上版本
 - **容器化**：Docker 与 docker-compose
 - **数据库**：MySQL
+- **Java环境**：17 及以上版本 (Ghidra)
 - **额外依赖**：sdhash、Ghidra、ssdeep、pyOpenSSL、pycryptodome
 
 ---

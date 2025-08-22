@@ -15,6 +15,7 @@
 - sdhash
 - MySQL 数据库
 - Ghidra(请提前编译好)
+- Java 17+ (Ghidra)
 
 ### 必要的Python库
 ```bash

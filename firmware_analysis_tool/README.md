@@ -15,6 +15,7 @@ This is a comprehensive feature extraction and analysis tool for embedded firmwa
 - sdhash
 - MySQL Database
 - Ghidra (please compile in advance)
+- Java 17+ (Ghidra)
 
 ### Required Python Libraries
 ```bash

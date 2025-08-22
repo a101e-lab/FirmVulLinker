@@ -53,6 +53,7 @@ Both tools can run independently or be used in combination: first extract firmwa
 - **Python**: 3.8 and above
 - **Containerization**: Docker and docker-compose
 - **Database**: MySQL
+- **Java Environment**: 17+ (Ghidra)
 - **Additional Dependencies**: sdhash, Ghidra, ssdeep, pyOpenSSL, pycryptodome
 
 ---
