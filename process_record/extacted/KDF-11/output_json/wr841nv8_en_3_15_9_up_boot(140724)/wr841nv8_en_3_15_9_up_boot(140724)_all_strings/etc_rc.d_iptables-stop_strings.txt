@@ -1,0 +1,11 @@
+iptables-tfilter-f
+iptables-tnat-ppostroutingaccept
+iptables-poutputaccept
+iptables-pinputaccept
+iptables-tnat-poutputaccept
+iptables-tfilter-x
+iptables-tnat-x
+#!/bin/sh
+iptables-tnat-f
+iptables-pforwardaccept
+iptables-tnat-ppreroutingaccept

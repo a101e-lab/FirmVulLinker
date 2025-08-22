@@ -1,0 +1,565 @@
+can'tjoinipv6-allrouterson%s
+)	f	f	f	f	f	f	g	g	g
+)	"	"	"	"	"	"
+check_allrouters_membership
+)	p	p	p	p	p	p
+)	t	t	t	t	t	t
+nolinklocaladdressconfiguredfor%s
+stderr_syslog
+ioctl
+^	^	^	_
+interface%sdoesnotexist,ignoringtheinterface
+b	b	b	b	b	b	e	e	e
+h	y	y	y	j	j	j
+readn
+)	q	q	q	q	q	q
+[%s]%s:%s
+rdnssaddress%sreceivedon%sfrom%sisnotadvertisedbyus
+)	t	t	t	t	t	t	u	u	u	v
+addresslength%dtoobigfor%s
+logfile
+strtoul
+debug
+inet_ntoa
+ouradvotherconfigflagon%sdoesn'tagreewith%s
+callingalarm:%ldsecs,%ldusecs
+pidfile
+)	o	o	o	o	o	o	q	q	q	r
+)	d	d	d	d	d	d	e	e	e
+)	/	/	/	/	/	/
+)	)	)	*
+callocfailed:%s
+advvalidlifetimefor%s(%u)mustbegreaterthanadvpreferredlifetimefor
+maxrtradvintervalfor%s(%.2f)mustbebetween%.2fand%d
+%	%	%	&	&	&	&	6	6	6	7	7	7	7	g	g	g	h	h	h	h	x	x	x	y	y	y	y	i	i	i	j	j	j	j	z	z	z	{	{	{	{
+logmethod
+e	e	e	e	e	e	h	h	h
+)	d	d	d	d	d	d	f	f	f
+callingschedule_timerfromset_timercontext
+resumingnormaloperation
+/lib/ld-uclibc.so.0
+calloc
+d:c:l:m:p:t:u:vhcs
+)	y	y	y	y	y	y
+memoryexhausted
+/proc/sys/net/ipv6/conf/%s/hop_limit
+reallocfailed:%s
++	+	+	+	/	,
+zerolengthoptioninrs
+/proc/sys/net/ipv6/neigh/%s/base_reachable_time_ms
+isatty
+ipv4addressfor%sis%s
+strncmp
+%u%*s%32[0-9a-fa-f]
+4	4	4	4	4	4	<	<	<	<
+__subdf3
+)	?	?	?	?	?	?
+n	n	n	n	n	n	o	o	o
+_fdata
+disablingtimerfor%s
+homeagentlifetimefor%s(%u)mustbebetween%uand%u
+basereachabletimer(ms)
+)	`	`	`	`	`	`	b	b	b
+)	x	x	x	x	x	x	y	y	y
+receivedicmpv6rs/rapacketwithinvalidcode:%d
+%s:unknownlogmethod:%s
+defaultconfigfile		"%s"
+freeinginterface%s
+)	p	p	p	p	p	p	r	r	r	o
+strerror
+ferror
+num_lines
+sigterm_handlercalled
+recv_rs_ra
+initializingprivsep
+vwxyz?8@{9:abcdefgqh]sijklmnoptuv[
+=	=	=	=	=	=	>	>	>	>
+receivedicmpv6rspacketwithunspecifiedsourceaddressandthereisalladdroption
+)	r	r	r	r	r	r	s	s	s
+fileno
+problemcheckingall-routersmembershipon%s
+m	m	m	m	m	m	y	y
+libc.so.0
+sigint_handlercalled
+exiting,failedtoreadconfigfile.
+exiting,sigtermorsigintreceived.
+sendmsg:%s
+setsockopt(ipv6_checksum):%s
+)	t	t	t	t	t	t	u	u	u
+automaticallyselectingtheprefixandbase6to4interfacearemutuallyexclusive
+0	0	0	0	0	0	1	1	1
+hardwaretypefor%sis%d
+failedtoinitializeprivsep.
+setsockopt(ipv6_recvpktinfo):%s
+trailinggarbageinrs
+ouradvretranstimeron%sdoesn'tagreewith%s
+usinginterface%sfor6to4
+interface%shasnoipv4addresses,disabling6to4prefix
+set_interface_curhlim
+recvmsg
+invalidrouteprefixlengthin%s,line%d
+receivedrsorrawithinvalidhoplimit%dfrom%s
+)	e	e	e	e	e	e
+perror
+invalidlen%iinrdnssoptionon%sfrom%s
+sendingraon%s
+mallocfailed:%s
+privsep_init
+c	c	c	c	c	c	d	d	d
+*	*	*	8	8	8	9	9	9
+_fini
+foundinterface:%s
+exiting,permissionsonconf_fileinvalid.
+)	w	w	w	w	w	w
+setitimer
+interfacedefinitionfor%sisok
+<	<	<	<	<	<	=	=	=	=
+signal
+trailinggarbageinraon%sfrom%s
+pname
+9	9	9	:	:	:	;
+privsep_interface_linkmtu
+q	q	q	q	q	q	t	t	t
+prefix_init_defaults
+r	r	r	r	r	r	s	s	s	s
+)	0	0	0	0	0	0	1	1	1	2
+ghijk
+_jv_registerclasses
+malloc
+n	n	n	|	|	|	}	}	}
+singleprocess
+badbufferinyy_scan_bytes()
+)	o	o	o	o	o	o
+oversizedsuffixindnssloptionon%sfrom%s
+advlinkmtufor%s(%u)mustbezeroorbetween%uand%u
+privsep_interface_reachtime
+defaultlogfile		"%s"
+)	d	d	d	d	d	d
+check_device
+a$s'p$us
+)	1	1	1	1	1	1
+select
+set_interface_reachtime
+interface%sseemstohavecomebackup,tryingtoreinitialize
+)	<	<	<	<	<	<	>	>	>
+insecurefilepermissions(writablebyothers):%s
+q)'013425*<=6ghi>sj
+prefixlengthfor%sis%d
+)	/	/	/	/	/	/	0	0	0
+_edata
+receivedicmpv6rapacketwithinvalidlength:%d
+process
+closelog
++	+	+	+	+	+	,	,	,
+fwrite
+optionlengthgreaterthantotallengthinraon%sfrom%s
+i	i	i	j	j	j	k	k	k	z	z	z
+receivedabogusipv6_hoplimitfromthekernel!len=%d,data=%d
+privsep_interface_retranstimer
+/proc/net/if_inet6
+prefixautomaticallyselected,advrouteraddralwaysenabled,ignoringconfigline%d
+)	c	c	c	c	c	c	d	d	d	e
+check_rdnss_presence
+4	j	j	j	j	j	j	k
+stdin
+exiting,privsep_read_loopiscomplete.
+inputinflexscannerfailed
+fatalerror-scannerinputbufferoverflow
+defaultpidfile		"%s"
+interface%sdoesnotexist
+invalidprefixlengthin%s,line%d
+$	$	$	$	$	$	+	+	+	+
+{receivedpacketwithnopkt_info!
+retranstimer(ms)
+__muldf3
+couldn'tforkforprivsep.
+*	;	;	;	i	i	i
+invalidall-zerosprefixin%s,line%d
+6	z	z	z	[	[	[	[	[	[	k	k	k
+)	#	#	#	#	#	#
+setsockopt
+[-ffacility][-ppid_file][-uusername][-tchrootdir]
+advreachabletimefor%s(%u)mustnotbegreaterthan%u
+__fgetc_unlocked
+o	o	o	o	o	o	p	p	p	p
+alarm_handlerclockwasprobablyoffby%ldusec,allowing%u
+)	>	>	>	>	>	>
+/proc/sys/net/ipv6/neigh/%s/retrans_time_ms
+pleasesendbugreportsorsuggestionsto%s.
+)	q	q	q	q	q	q	s	s	s
+[-hsvc][-dlevel][-cconfig_file][-mlog_method][-llog_file]
+h	h	m	m	m	m
+*	*	*	8	8	8
+insecurefilepermissions(writablebyself/group):%s
+exiting,privsep_read_loophadreadnerror:%s
+)	u	u	u	u	u	u
+reopeninglog
+)	<	<	<	<	<	<
+%s:option%s:parameterexpected
+recvmsg:%s
+v	l	l	l	[	[	[	\	\	\
+strcmp
+setgid
+sysctl
+version%sstarted
+67789:;;<<<<<<========================>??@abbccddddddefgghhiijkklmnnoopppqrrstuuvvwxx
+unknownoption%dinraon%sfrom%s
+rand_between
+callingschedule_timerfromalarm_handlercontext
+notansweringrequestfrom%s,notconfigured
+privsep_interface_curhlim
+.	.	.	.	.	.	/	/	/	/
+)	"	"	"	"	"	"	#	#	#
+fprintf
+'	'	'	(	(	(
+)	-	-	-	-	-	-	/	/	/
+(privsep)%s:linkmtu(%u)isnotwithinthedefinedbounds,ignoring
++	+	+	,
+)	e	e	e	e	e	e	f	f	f
+setuid
+6|$b
+)	u	u	u	u	u	u	w	w	w
+ijklmnopqrstu
+invalidoption%dinraon%sfrom%s
+)	d	d	d	d	d	d
+strncpy
+yylex
+%b%d%h:%m:%s
+get_debuglevel
+__rld_map
+writen
+ouradvmanagedflagon%sdoesn'tagreewith%s
+n	n	n	|	|	|
+__fpcmp_parts_d
+t	t	t	t	t	t	u	u	u
+can'tcreatesocket(af_inet6):%s
+)	b	b	b	b	b	b
+m	m	m	n
+[invalidaddress]
+timer_handlercalledfor%s
+)	5	5	5	5	5	5	<	<	<	=
+mindelaybetweenrasfor%s(%.2f)mustbeatleast%.2f
+noaddressspecifiedinrdnsssection
+recvmsglen=%d
+usingmobileipv6extensions
+syntaxok
+gettimeofday
+fread
+g	]	]	]	l	l	l	l	l	l
+yytext
+daemon
+if_index%u
+!	!	2
+)	4	4	4	4	4	4
+interface%sdidnotexist,ignoringtheinterface
+]	]	]	k	k	k	l	l	l
+outofdynamicmemoryinyy_scan_bytes()
+check_ip6_forwarding
+setsockopt(ipv6_multicast_hops):%s
+open_icmpv6_socket
+getpid
+setup_allrouters_membership
+invalidaddressin%s,line%d
+init_timer
+`	`	c	a	`	c
+4ub@<
+settingtimer:%.2fsecs
+(*+,-.456bchijklmnopqrst
+print_addr:inet_ntop:%s
+syntaxerror
+strrchr
+log_open
+ioctl(siocgifhwaddr)failedfor%s:%s
+m	m	m	m	m	m	n	n	n	n
+randommdelayfor%s:%.2f
+-	-	-	-	-	-	.	.	.	.
+_global_offset_table_
+attemptingtorereadconfigfile
+)	f	f	f	f	f	f
+__fixunsdfsi
+failedtoset%s(%u)for%s:%s
+)	w	w	w	w	w	w	x	x	x
+)	`	`	`	`	`	`
+facility
+interface%sisnotrunning
+d!$e
+advdefaultlifetimefor%s(%u)mustbezeroorbetween%uand%u
+mtufor%sis%d
+)	$	$	$	$	$	$
+$	_	e
+resettingipv6-allroutersmembershipon%s
+advsendadvertisofffor%s
+fscanf
+interface%sdoesnotsupportmulticast
+select:%s
+sendingrato%s
+)	@	@	@	@	@	@
+/proc/sys/net/ipv6/neigh/%s/base_reachable_time
+minrtradvintervalfor%s(%.2f)mustbeatleast%.2fbutnomorethan3/4ofmaxrtradvinterval(%.2f)
+__unpack_d
+readin_configfailed.
+sendmsg
+o	o	o	o	o	o	p	p	p
+linkmtu
+__ledf2
+dnssl_init_defaults
+memcpy
+localtime
+)	?	?	?	?	?	?	@	@	@	a
+__fixdfsi
+createsocketforipv4ioctlfailedfor%s:%s
+)	s	s	s	s	s	s
+mdelay
+m	q	q
+)	3	3	3	3	3	3	4	4	4
+)	s	s	s	s	s	s	t	t	t
+log_close
+u	u	u	u	u	u	y	y	y
+conf_file
+ifacelist
+_	_	_	_	_	_	`	`	`	`
+fgetc
+compiledinsettings:
+schedule_timersetitimerfor%ld.%ldfailed:%s
+)	s	s	s	s	s	s	t	t	t
+sigemptyset
+strchr
+cannotreadradvdpidfile,terminating:%s
+_dynamic_linking
+pr+7(
+warning:advrdnsslifetime<=2*maxrtradvintervalwouldallowstalednsserverstobedeletedfaster
+warning,macaddresson%sisallzero!
+)	f	f	f	f	f	f	m	m	m	n
+rdnss_init_defaults
+)	-	-	-	-	-	-
+%s:unknownloggingmethod:%d
+zerolengthoptioninraon%sfrom%s
+__cmsg_nxthdr
+setsockopt(icmpv6_filter):%s
+couldn'tchangeto'%.32s'uid=%dgid=%d
+get_v4addr
+toomanyprefixesorroutes.exiting.
+callingschedule_timerfromclear_timercontext
+ignoringdeprecatedrdnsspreference.
+)	g	g	g	g	g	g
+fclose
+a	a	a	a	a	a	b	b	b
+nexttimerhasalreadyexpired,queueingsignal
+check_dnssl_presence
+setup_linklocal_addr
+,	,	,	,	,	,	-	-	-
+receivedpacketfromunknowninterface:%d
+)	#	#	#	#	#	#	$	$	$
+)	3	3	3	3	3	3
+8!,b
+ioctl(siocgifflags)failedfor%s:%s
+invalidprefixlength(%u)for%s
+sigismember
+)	+	+	+	+	+	+	-	-	-	.
+can'topen%s:%s
+_ftext
+unlink
+strdup
+)	g	g	g	g	g	g	h	h	h
+)	4	4	4	4	4	4	5	5	5
+__bss_start
+cannotcreateradvdpidfile,terminating:%s
+configtest
+ipv6forwardingsettingis:%u,shouldbe1
+nodomainspecifiedindnsslsection
+version:%s
+v	v	v	v	v	v	_	_	_	_
+__uclibc_main
+fflush
+)	x	x	x	x	x	x
+&	&	&	7	7	7
+inet_pton
+strlen
+u	u	u	u	u	u	v	v	v
+optionlengthgreaterthantotallengthinrs
+fopen
+/proc/sys/net/ipv6/conf/%s/mtu
+advrdnsslifetimemustbeatleastmaxrtradvinterval
+(privsep)%s:basereachabletimer(%u)isnotwithinthedefinedbounds,ignoring
+/var/log/radvd.log
+fatalflexscannerinternalerror--noactionfound
+correctipv6forwardingsysctlbranchnotfound,perhapsthekernelinterfacehaschanged?
+interface%sdoesnotsupportbroadcast
+:	}	}	}	~
+)	h	h	h	h	h	h
+ipv6forwardingseemstobedisabled,butcontinuinganyway.
+_`abc
+-	;	;	;
+)	s	s	s	s	s	s
+__floatsidf
+sigaddset
+usage:%s%s
+reload_config
+/dev/null
+%32s%x%02x%02x%02x%15s
+warning:advdnssllifetime<=2*maxrtradvintervalwouldallowstalednssuffixestobedeletedfaster
+p	p	p	p	p	p	q	q	q
+$/23789:;<=>?@aefd
+syslog
+send_ra_forall
+ouradvvalidlifetimeon%sfor%sdoesn'tagreewith%s
+f	f	f	f	f	f	g	g	g
+)	>	>	>	>	>	>	?	?	?
+duplicateinterfacedefinitionfor%s
+2	9	9	9	:
+__gtdf2
+receivedabogusipv6_pktinfofromthekernel!len=%d,index=%d
+inet_ntop
+check_iface
+stderr
+__adddf3
+strftime
+couldn'tcreateprivseppipe.
+(privsep)%s:retranstimer(%u)isnotwithinthedefinedbounds,ignoring
+setsockopt(ipv6_recvhoplimit):%s
+)	@	@	@	@	@	@	b	b	b	c
+}	}	}	~	~	~
+setup_deviceinfo
+)	h	h	h	h	h	h	p	p	p	q
+chdir
+)	u	u	u	u	u	u
+correctipv6forwardingprocfsentrynotfound,perhapstheprocfsisdisabled,orthekernelinterfacehaschanged?
+chrootdir
+ff020000000000000000000000000002
+?	?	?	?	?	?	@	@	@
+)	5	5	5	5	5	5
+toomanyaddressesinrdnsssection
+ioctl(siocgifaddr)failedfor%s:%s
+set_debuglevel
+)	^	^	^	^	^	^
+ouradvlinkmtuon%sdoesn'tagreewith%s
+yyleng
+)	v	v	v	v	v	v	w	w	w
+)							"	"	"
+)	1	1	1	1	1	1	3	3	3
+yylval
+p	p	p	p	p	p	q	q	q	q
+q	q	q	q	q	q	r	r	r
+g	g	g	g	g	g	o	o	o	o
+basereachabletimer
+linklayertokenlengthfor%sis%d
+memcmp
+__ltdf2
+/proc/net/igmp6
+)	b	b	b	b	b	b
+access
+)	m	m	m	m	m	m	o	o	o	p
+__deregister_frame_info
+)	^	^	^	^	^	^	`	`	`	a
+initgroups
+couldn'tfinduser'%.32s'
+_fbss
+ouradvcurhoplimiton%sdoesn'tagreewith%s
+__errno_location
+__divdf3
+insecurefilepermissions,butcontinuinganyway
+)	u	u	u	u	u	u	v	v	v
+openlog
+)	w	w	w	w	w	w
+%sin%s,line%d:%s
+fgets
+__floatunsidf
+ouradvreachabletimeon%sdoesn'tagreewith%s
+invalidrouteprefixlength(%u)for%s
+sigprocmask
+advdnssllifetimemustbeatleastmaxrtradvinterval
+fatalflexscannerinternalerror--endofbuffermissed
+check_time_diff,difference:%ldsec+%ldusec
+stdout
+a	a	a	a	a	a	b	b	b
+)	v	v	v	v	v	v
+)	b	b	b	b	b	b	d	d	d
+sighup_handlercalled
+sigalrmhasbeenunblocked.yourstartupenvironmentmightbewrong.
+outofdynamicmemoryinyy_create_buffer()
+/proc/sys/net/ipv6/conf/all/forwarding
+username
+ioctl(siocgifmtu)failedfor%s:%s
+defaultsyslogfacililty	%d
+)	t	t	t	t	t	t
+b	b	b	b	b	b	c	c	c	c
+settingtimer:%ldsecs%ldusecs
+curhoplimit
+interface%sisnotup
+optarg
+outofdynamicmemoryinyy_scan_buffer()
+/	/	/	/	/	/	0	0	0
+pekkasavola<pekkas@netcore.fi>
+getpwnam
+%s:can'topen%s:%s
+icmpv6filterfailed
+prefixlengthshouldbe%dfor%s
+)	r	r	r	r	r	r
+__register_frame_info
+invaliddomainsuffixspecified
+memset
+set_timer
+`	`	`	`	`	`	a	a	a
+)	c	c	c	c	c	c
+advvalidlifetimemustbegreaterthanadvpreferredlifetimein%s,line%d
+set_interface_linkmtu
+;	l	l	l
+vsnprintf
+ab@mnl
+srand
+)	b	b	b	b	b	b	c	c	c
+glibc_2.0
+sscanf
+recv_rs_ra:malloc:%s
+(privsep)%s:curhoplimit(%u)isnotwithinthedefinedbounds,ignoring
+/var/run/radvd.pid
+doyouneedtoaddtheunicastonlyflag?
+ignoringdeprecatedrdnssopenflag.
+yyparse
+drop_root_privileges
+s	s	s	s	s	s	t	t	t
+privsep_enabled
+retranstimer
+)	+	+	+	+	+	+
+libgcc_s.so.1
+config
+advhomeagentinfofor%smustbesetwithadvmobrtrsupportflag
+strncat
+errorparsingoractivatingtheconfigfile:%s
+log_reopen
+receivedicmpv6rapacketwithnon-linklocalsourceaddress
+/proc/sys/net/ipv6/neigh/%s/retrans_time
+print_addr
+yychar
+chroot
+p	p	p	s	q
+dnsslsuffix%sreceivedon%sfrom%sisnotadvertisedbyus
+clear_timer
+@	@	@	@	@	@	a	a	a
+)	0	0	0	0	0	0
+receivedicmpv6packetwithinvalidlength:%d
+radvdalreadyrunning,terminating.
+%s:nologfilespecified
+d	d	d	d	d	d	f	f	f
+ouradvpreferredlifetimeon%sfor%sdoesn'tagreewith%s
+route_init_defaults
+realloc
+y	y	y	y	y	y	{	{	{
+set_interface_retranstimer
+ipv6forwardingseemstobedisabled,exiting
+setsockopt(ipv6_unicast_hops):%s
+/workspace/jenkins/workspace/dragonfly_model_qca/build/../apps/ipv6_tools/radvd-1.7/install/etc/radvd.conf
+)	m	m	m	m	m	m
+iface_init_defaults
+1	1	1	1	1	1	4	4	4
+)	y	y	y	y	y	y
+chrootasrootisnotsafe,exiting
+>	>	>	>	>	>	?	?	?
+version
+yynerrs
+)	f	f	f	f	f	f
+getopt_long
+advhomeagentflagfor%smustbesetwithhomeagentinfo
+set_interface_var
+t	t	t	t	t	t	u	u	u
+_exit

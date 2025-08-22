@@ -1,0 +1,4209 @@
+FileName: top.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/frames/top.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdAccessCtrlTargetAddHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdAccessCtrlTargetAddHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MiscHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/MiscHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: UpnpCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/UpnpCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SpecialAppHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SpecialAppHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdAccessCtrlHostAddHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdAccessCtrlHostAddHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LanArpBindingListHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/LanArpBindingListHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SoftwareUpgradeHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SoftwareUpgradeHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		t_show_website
+
+FileName: AssignedIpAddrListHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AssignedIpAddrListHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessRuleModifyHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlAccessRuleModifyHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ParentCtrlAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/ParentCtrlAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessRulesAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlAccessRulesAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanWpsChkModeHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanWpsChkModeHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ParentCtrlHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/ParentCtrlHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: PingHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/PingHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SystemLogHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SystemLogHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WanStaticIpV6CfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WanStaticIpV6CfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: PPPoECfgAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/PPPoECfgAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: L2tpCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/L2tpCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdStartHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdStartHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ChangeLoginPwdHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/ChangeLoginPwdHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlHostsListsAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlHostsListsAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlTimeSchedHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlTimeSchedHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdWlanHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdWlanHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LanArpBindingHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/LanArpBindingHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdL2TPHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdL2TPHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdAccessCtrlRuleAddHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdAccessCtrlRuleAddHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WanStaticIpCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WanStaticIpCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DMZHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/DMZHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: PptpCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/PptpCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlTimeSchedAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlTimeSchedAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdDynaIpHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdDynaIpHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: StatusHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/StatusHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: QoSRuleCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/QoSRuleCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdStaticIpHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdStaticIpHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DateTimeCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/DateTimeCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BasicSecurityHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/BasicSecurityHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanMacFilterHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanMacFilterHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: PPPoEv6CfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/PPPoEv6CfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SysRouteTableHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SysRouteTableHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdPPPoEHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdPPPoEHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdWanTroubleShootingHelp.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdWanTroubleShootingHelp.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: PPPoECfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/PPPoECfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdPPTPHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdPPTPHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DynDdnsHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/DynDdnsHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WanDynamicIpV6CfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WanDynamicIpV6CfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WanDynamicIpCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WanDynamicIpCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: StaticRouteTableHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/StaticRouteTableHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdAccessCtrlSchedAddHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdAccessCtrlSchedAddHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LocalManageControlHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/LocalManageControlHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: QoSRuleListHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/QoSRuleListHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SiteSurveyHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SiteSurveyHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BpaCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/BpaCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LanIpv6CfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/LanIpv6CfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SystemStatisticHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SystemStatisticHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessTargetsHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlAccessTargetsHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: SysRebootHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/SysRebootHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdWanTypeHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdWanTypeHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WanSlaacCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WanSlaacCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanStationHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanStationHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MacCloneCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/MacCloneCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DdnsAddComexeHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/DdnsAddComexeHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		autoWidth
+
+FileName: QoSCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/QoSCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AutoEmailHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AutoEmailHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanWpsHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanWpsHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: NetworkCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/NetworkCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BackNRestoreHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/BackNRestoreHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: RestoreDefaultCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/RestoreDefaultCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: NoipDdnsHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/NoipDdnsHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: IPv6StatusHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/IPv6StatusHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlHostsListsHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlHostsListsHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessTargetsAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlAccessTargetsAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FixMapCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/FixMapCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Wan6to4TunnelCfgHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/Wan6to4TunnelCfgHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanSecurityHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanSecurityHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MiscAdvHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/MiscAdvHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: VirtualServerHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/VirtualServerHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessRulesHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/AccessCtrlAccessRulesHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WlanNetworkHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WlanNetworkHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		display_wds
+
+FileName: WzdWanMacHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdWanMacHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LanDhcpServerHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/LanDhcpServerHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ManageControlHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/ManageControlHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdFinishHelpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/WzdFinishHelpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DMZRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DMZRpm.htm
+API: 
+	count: 1
+	name:
+		DMZRpm.htm
+Para: 
+	count: 8
+	name:
+		Save
+		autoWidth
+		enable
+		ipAddr
+		netmask
+		t_dmz_ip
+		t_status
+		t_title
+
+FileName: WlanMacFilterRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+API: 
+	count: 1
+	name:
+		WlanMacFilterRpm.htm
+Para: 
+	count: 26
+	name:
+		DelAll
+		DisAll
+		Disfilter
+		EnAll
+		Enfilter
+		NextPage
+		PrevPage
+		autoWidth
+		line_OperMode
+		t_allow
+		t_allow_note
+		t_but_modi
+		t_delete
+		t_deny
+		t_deny_note
+		t_dsp
+		t_fltRules
+		t_id
+		t_macAddr
+		t_macAddrFlt
+		t_modify
+		t_status
+		t_transmit_power
+		t_wl_mac_dis
+		t_wl_mac_en
+		vapIdx
+
+FileName: AccessCtrlHostsListsRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlHostsListsRpm.htm
+Para: 
+	count: 15
+	name:
+		DelAll
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		selPage
+		t_del
+		t_edit
+		t_host_list
+		t_id
+		t_info
+		t_modify
+		t_page1
+		t_page2
+		tr'+idStart+'
+
+FileName: AccessCtrlAccessRulesRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlAccessRulesRpm.htm
+Para: 
+	count: 41
+	name:
+		DelAll
+		DestIndex
+		DisAll
+		EnAll
+		MoveTo
+		NextPage
+		Page
+		PrevPage
+		Setup
+		SrcIndex
+		The source ID equals to the destination ID!
+		Wrong destination ID!
+		Wrong source ID!
+		autoWidth
+		defRule
+		enableCtrl
+		save
+		selPage
+		t_allow1
+		t_allow2
+		t_any
+		t_def_filter_policy
+		t_del
+		t_deny1
+		t_deny2
+		t_edit
+		t_enb_inter_acc
+		t_from_id
+		t_host_list
+		t_id
+		t_modify
+		t_page1
+		t_page2
+		t_permanent
+		t_rule
+		t_schedule
+		t_status
+		t_target_list
+		t_title
+		t_to_id
+		tr'+idStart+'
+
+FileName: StatusRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StatusRpm.htm
+API: 
+	count: 1
+	name:
+		StatusRpm.htm
+Para: 
+	count: 35
+	name:
+		Refresh
+		activeTime
+		autoWidth
+		fversion
+		hversion
+		lanIP
+		lanMac
+		lanMask
+		line_OperMode
+		pin_message
+		pin_msg_area
+		t_band
+		t_card
+		t_chanel_width
+		t_connected
+		t_connecting
+		t_disconnected
+		t_dns_mobile
+		t_done
+		t_gw_mobile
+		t_ident
+		t_ip_addr
+		t_ip_mobile
+		t_mac_addr
+		t_mac_mobile
+		t_mask_mobile
+		t_max_tx_rate
+		t_not_plug
+		t_pin_msg
+		t_received
+		t_secondary_conn
+		t_sent
+		t_signal
+		t_sub_mask
+		t_transmit_power
+
+FileName: LanArpBindingListRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingListRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		Capture
+		Refresh
+		Resall
+		autoWidth
+		t_bound
+		t_delete
+		t_load
+		t_unbound
+
+FileName: MailResultRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MailResultRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		Back
+		autoWidth
+		resStr
+		tipStr
+
+FileName: WzdWanTypeRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTypeRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 32
+	name:
+		Next
+		Return
+		auto_context
+		auto_opt
+		dhcp_context
+		dhcp_opt
+		l2tp_context
+		l2tp_opt
+		pppoe_context
+		pppoe_opt
+		pptp_context
+		pptp_opt
+		static_context
+		static_opt
+		t_auto_detect
+		t_auto_detect_opt
+		t_dhcp_ip
+		t_dhcp_opt
+		t_item
+		t_item1
+		t_item2
+		t_l2tp
+		t_l2tp_opt
+		t_no_detect
+		t_pppoe
+		t_pppoe_opt
+		t_pptp
+		t_pptp_opt
+		t_static_ip
+		t_static_ip_opt
+		t_title
+		type_autodetect
+
+FileName: SysRouteTableRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SysRouteTableRpm.htm
+API: 
+	count: 1
+	name:
+		SysRouteTableRpm.htm
+Para: 
+	count: 2
+	name:
+		Refresh
+		autoWidth
+
+FileName: WzdL2TPRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdL2TPRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 22
+	name:
+		IpType
+		L2TPServerName
+		Next
+		Return
+		sta_dns
+		sta_dns_d
+		sta_dns_row
+		sta_gateway
+		sta_gateway_row
+		sta_gw
+		sta_gw_d
+		sta_ip
+		sta_ip_row
+		sta_mask
+		sta_mask_row
+		svr_id
+		t_name
+		t_psw_confirm
+		t_pwd
+		t_sec_ip_addr
+		t_sub_mask
+		t_title
+
+FileName: GetGMTRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/GetGMTRpm.htm
+API: 
+	count: 1
+	name:
+		GetGMTRpm.htm
+Para: 
+	count: 4
+	name:
+		Back
+		t_obtn
+		t_title
+		t_wait
+
+FileName: AccessCtrlTimeSchedRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlTimeSchedRpm.htm
+Para: 
+	count: 16
+	name:
+		DelAll
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		selPage
+		t_day
+		t_del
+		t_edit
+		t_id
+		t_modify
+		t_page1
+		t_page2
+		t_sch
+		t_time
+		tr'+idStart+'
+
+FileName: DateTimeCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DateTimeCfgRpm.htm
+API: 
+	count: 1
+	name:
+		DateTimeCfgRpm.htm
+Para: 
+	count: 174
+	name:
+		DaylightSaving
+		GetGmtTime
+		Save
+		Submit
+		autoWidth
+		daylightSaving_status
+		daylightSwitch
+		end_count
+		end_hour
+		end_month
+		end_week
+		end_year
+		hour
+		isDaylightSavingChanged
+		isTimeChanged
+		minute
+		month
+		normalDaylightSwitch
+		ntpA
+		ntpB
+		russiaDaylightSwitch
+		second
+		start_count
+		start_hour
+		start_month
+		start_week
+		start_year
+		t_datetime_more
+		t_datetime_tips
+		t_daylightSaving
+		t_daylight_allyear
+		t_daylight_control
+		t_daylight_disable
+		t_daylight_giventime
+		t_end
+		t_end_count0
+		t_end_count1
+		t_end_count2
+		t_end_count3
+		t_end_count4
+		t_end_hour0
+		t_end_hour1
+		t_end_hour10
+		t_end_hour11
+		t_end_hour12
+		t_end_hour13
+		t_end_hour14
+		t_end_hour15
+		t_end_hour16
+		t_end_hour17
+		t_end_hour18
+		t_end_hour19
+		t_end_hour2
+		t_end_hour20
+		t_end_hour21
+		t_end_hour22
+		t_end_hour23
+		t_end_hour3
+		t_end_hour4
+		t_end_hour5
+		t_end_hour6
+		t_end_hour7
+		t_end_hour8
+		t_end_hour9
+		t_end_month0
+		t_end_month1
+		t_end_month10
+		t_end_month11
+		t_end_month2
+		t_end_month3
+		t_end_month4
+		t_end_month5
+		t_end_month6
+		t_end_month7
+		t_end_month8
+		t_end_month9
+		t_end_week0
+		t_end_week1
+		t_end_week2
+		t_end_week3
+		t_end_week4
+		t_end_week5
+		t_end_week6
+		t_hhmmss
+		t_mmddyy
+		t_ntp_srv_prior_i
+		t_ntp_srv_prior_ii
+		t_opt1
+		t_opt2
+		t_start
+		t_start_count0
+		t_start_count1
+		t_start_count2
+		t_start_count3
+		t_start_count4
+		t_start_hour0
+		t_start_hour1
+		t_start_hour10
+		t_start_hour11
+		t_start_hour12
+		t_start_hour13
+		t_start_hour14
+		t_start_hour15
+		t_start_hour16
+		t_start_hour17
+		t_start_hour18
+		t_start_hour19
+		t_start_hour2
+		t_start_hour20
+		t_start_hour21
+		t_start_hour22
+		t_start_hour23
+		t_start_hour3
+		t_start_hour4
+		t_start_hour5
+		t_start_hour6
+		t_start_hour7
+		t_start_hour8
+		t_start_hour9
+		t_start_month0
+		t_start_month1
+		t_start_month10
+		t_start_month11
+		t_start_month2
+		t_start_month3
+		t_start_month4
+		t_start_month5
+		t_start_month6
+		t_start_month7
+		t_start_month8
+		t_start_month9
+		t_start_week0
+		t_start_week1
+		t_start_week2
+		t_start_week3
+		t_start_week4
+		t_start_week5
+		t_start_week6
+		t_timezone0
+		t_timezone1020
+		t_timezone1050
+		t_timezone1065
+		t_timezone1080
+		t_timezone1110
+		t_timezone1140
+		t_timezone120
+		t_timezone1200
+		t_timezone1260
+		t_timezone1290
+		t_timezone1320
+		t_timezone1380
+		t_timezone1440
+		t_timezone1500
+		t_timezone180
+		t_timezone240
+		t_timezone300
+		t_timezone360
+		t_timezone420
+		t_timezone450
+		t_timezone480
+		t_timezone510
+		t_timezone540
+		t_timezone60
+		t_timezone600
+		t_timezone660
+		t_timezone720
+		t_timezone780
+		t_timezone840
+		t_timezone900
+		t_timezone930
+		t_timezone960
+		t_timezone990
+		timezone
+		year
+
+FileName: HttpError.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/HttpError.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: AccessCtrlAccessTargetsAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlAccessTargetsRpm.htm
+Para: 
+	count: 41
+	name:
+		Back
+		Changed
+		Commonport
+		Page
+		Save
+		SelIndex
+		autoWidth
+		commonportlist
+		dst_ip_end
+		dst_ip_start
+		dst_port_end
+		dst_port_start
+		fromAdd
+		ip_dst
+		port
+		proto
+		proto_area
+		spaceline
+		t_all
+		t_com_ser_port
+		t_domain_name
+		t_icmp
+		t_ip_addr
+		t_mod_domain_name
+		t_mod_ip_addr
+		t_mode
+		t_protocal
+		t_target_list
+		t_target_port
+		t_tcp
+		t_udp
+		target_type
+		targets_lists_name
+		url0
+		url1
+		url2
+		url3
+		url_0
+		url_1
+		url_2
+		url_3
+
+FileName: StaticRouteTableRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+API: 
+	count: 1
+	name:
+		StaticRouteTableRpm.htm
+Para: 
+	count: 15
+	name:
+		Addnew
+		Delall
+		Disall
+		Enall
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		t_dest_ip_addr
+		t_gateway
+		t_id
+		t_modify
+		t_status
+		t_submask
+		t_title
+
+FileName: PPPoEv6CfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoEv6CfgRpm.htm
+API: 
+	count: 1
+	name:
+		PPPoEv6CfgRpm.htm
+Para: 
+	count: 81
+	name:
+		Connect
+		Disconnect
+		Save
+		autoWidth
+		autoip
+		confirm_psw
+		connectMode
+		defaultGateway
+		dhcps1
+		dhcps2
+		dhcps3
+		dns1
+		dns2
+		dns3
+		dns4
+		dnsType
+		dnsserver1
+		dnsserver2
+		fixedIp
+		getipv6way
+		ipEnd
+		ipStart
+		ipaddr
+		ipaddrprefix
+		ipv6Enable
+		ispIPv6Address
+		lanIpAdress
+		linkStat
+		password
+		pppoeSession
+		pri_dns
+		sec_dns
+		staticPrefix
+		staticPrefixLength
+		static_prefix
+		static_prefix_length
+		t_always_on
+		t_confirm
+		t_connect_manual
+		t_connect_mode
+		t_create_session
+		t_default
+		t_default_gateway
+		t_delegate
+		t_dhcp_server
+		t_enable_tunnel
+		t_get_ipv6_dns_server
+		t_ipaddr
+		t_ipaddr_prefix
+		t_ipv6_addr_by_isp
+		t_ipv6_addr_end
+		t_ipv6_addr_start
+		t_ipv6_addr_type
+		t_ipv6_dlgt
+		t_ipv6_pri_dns
+		t_ipv6_prmnnt_addr
+		t_ipv6_sec_dns
+		t_ipv6way
+		t_isp_ip
+		t_lan_ip
+		t_mtu
+		t_mtu_size
+		t_opt
+		t_passwd
+		t_pppoe_session
+		t_pri_dns
+		t_rl_tm
+		t_rl_tm_desc
+		t_sec_dns
+		t_share_pppoev4
+		t_site_prefix_type
+		t_static
+		t_static_prefix
+		t_static_prefix_length
+		t_title
+		t_use_ipv6_dns_server
+		t_usr_name
+		t_wan_conn_tp
+		time
+		username
+		wantype
+
+FileName: ChangeLoginPwdRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ChangeLoginPwdRpm.htm
+API: 
+	count: 1
+	name:
+		ChangeLoginPwdRpm.htm
+Para: 
+	count: 9
+	name:
+		Clear
+		Save
+		autoWidth
+		newname
+		newpassword
+		newpassword2
+		oldname
+		oldpassword
+		t_username_tips
+
+FileName: RestoreDefaultCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/RestoreDefaultCfgRpm.htm
+API: 
+	count: 1
+	name:
+		RestoreDefaultCfgRpm.htm
+Para: 
+	count: 2
+	name:
+		Restorefactory
+		autoWidth
+
+FileName: AccessDenied.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessDenied.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		errorbody
+
+FileName: WanDynamicIpCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpCfgRpm.htm
+API: 
+	count: 1
+	name:
+		WanDynamicIpCfgRpm.htm
+Para: 
+	count: 24
+	name:
+		Discover
+		Intranet
+		Invalid host name.
+		ReleaseIp
+		RenewIp
+		Save
+		autoWidth
+		dis_3gonly
+		dnsserver
+		dnsserver2
+		flagMode
+		gateway
+		hostName
+		manual
+		mask
+		netRange
+		showIntranet
+		t_det
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_unplugged
+		wantype
+
+FileName: LanDhcpServerRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanDhcpServerRpm.htm
+API: 
+	count: 1
+	name:
+		LanDhcpServerRpm.htm
+Para: 
+	count: 12
+	name:
+		Lease
+		Save
+		autoWidth
+		dhcpserver
+		dnsserver
+		dnsserver2
+		domain
+		gateway
+		t_chng
+		t_click
+		t_optional
+		t_to_reboot
+
+FileName: WzdWanDisconnRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanDisconnRpm.htm
+API: 
+	count: 1
+	name:
+		WzdWanTypeRpm.htm
+Para: 
+	count: 7
+	name:
+		ClientId
+		Retry
+		Return
+		autoWidth
+		submit
+		t_cable_unplgged
+		t_pl_plug
+
+FileName: WlanNetworkRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanNetworkRpm.htm
+API: 
+	count: 1
+	name:
+		WlanNetworkRpm.htm
+Para: 
+	count: 105
+	name:
+		Please input Bridged SSID!
+		Please input SSID!
+		SSID cannot exceed 32 characters. Please input correctly!
+		Save
+		The SSID contains illegal characters, please input another one!
+		The SSID(to be bridged) contains illegal characters, please input another one!
+		The bridged BSSID is invalid, please input again!
+		addrType
+		authtype
+		autoWidth
+		band
+		brlbssid
+		brlssid
+		broadcast
+		chanWidth
+		channel
+		display_wds
+		enssid2
+		enssid3
+		enssid4
+		hide_ssid2
+		hide_ssid3
+		hide_ssid4
+		keytext
+		keytype
+		keytype_selected
+		keytype_unselected
+		line_band
+		line_wlMode
+		mode
+		rate
+		region
+		ssid1
+		ssid2
+		ssid3
+		ssid4
+		survey
+		t_11bgn
+		t_11bgn_mixed
+		t_11g
+		t_11gn_mixed
+		t_11n_only
+		t_2_4G
+		t_5G
+		t_addrType
+		t_authtype
+		t_auto
+		t_band
+		t_bridge_cannot_auto
+		t_bridge_not_same_1
+		t_bridge_not_same_2
+		t_bridge_not_same_3
+		t_bridge_not_same_4_1
+		t_bridge_not_same_4_2
+		t_bridge_not_same_4_3
+		t_bridge_not_same_5_1
+		t_bridge_not_same_5_2
+		t_brlbssid
+		t_brlssid
+		t_cause_if
+		t_chn
+		t_chn_width
+		t_chng
+		t_click
+		t_enWdsbrl
+		t_enable_ssid2
+		t_enable_ssid3
+		t_enable_ssid4
+		t_enssid
+		t_ensure_country
+		t_enwi
+		t_exceed_ssid1
+		t_exceed_ssid2
+		t_exceed_ssid3
+		t_exple
+		t_four
+		t_illegal_ssid1
+		t_illegal_ssid2
+		t_input_ssid1
+		t_input_ssid2
+		t_keytext
+		t_keytype
+		t_keytype_selected
+		t_keytype_unselected
+		t_keytype_unselected1
+		t_mode
+		t_none
+		t_open
+		t_rate
+		t_region
+		t_same_wep_index
+		t_shared
+		t_ssid
+		t_ssid_tips
+		t_three
+		t_title
+		t_to_reboot
+		t_warn
+		t_wep_asc
+		t_wep_hex
+		t_wepindex
+		t_wpa
+		wdsbrl
+		wdsshow
+		wepindex
+
+FileName: AccessCtrlAccessRulesAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlAccessRulesRpm.htm
+Para: 
+	count: 22
+	name:
+		Back
+		Changed
+		Page
+		Please input name of the control rule (Length < 25)!
+		Save
+		SelIndex
+		autoWidth
+		enable
+		hosts_lists
+		rule_name
+		scheds_lists
+		t_any_target
+		t_anytime
+		t_disble
+		t_enable
+		t_host_list
+		t_rule_name
+		t_schedule
+		t_set_list
+		t_status
+		t_target_list
+		targets_lists
+
+FileName: WanDynamicIpV6CfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+API: 
+	count: 1
+	name:
+		WanDynamicIpV6CfgRpm.htm
+Para: 
+	count: 61
+	name:
+		ReleaseIp
+		RenewIp
+		Save
+		autoWidth
+		dhcps1
+		dhcps2
+		dhcps3
+		dns1
+		dns2
+		dns3
+		dns4
+		dnsType
+		dnsserver1
+		dnsserver2
+		gateway
+		ipEnd
+		ipStart
+		ipType
+		ipv6Enable
+		lanIpAdress
+		linkStat
+		prefix
+		prefixLength
+		pri_dns
+		sec_dns
+		show_prefix
+		staticPrefix
+		staticPrefixLength
+		static_prefix
+		static_prefix_length
+		t_def_gw
+		t_default
+		t_delegate
+		t_enable_tunnel
+		t_get_ipv6_dns_server
+		t_ip_addr
+		t_ipv6_addr_end
+		t_ipv6_addr_prefix
+		t_ipv6_addr_start
+		t_ipv6_addr_type
+		t_ipv6_dlgt
+		t_ipv6_prefix_len
+		t_ipv6_pri_dns
+		t_ipv6_prmnnt_addr
+		t_ipv6_sec_dns
+		t_ipv6_tmp_addr
+		t_lan_ip
+		t_mtu_size
+		t_opt
+		t_pri_dns
+		t_rl_tm
+		t_rl_tm_desc
+		t_sec_dns
+		t_site_prefix_type
+		t_static
+		t_static_prefix
+		t_static_prefix_length
+		t_title
+		t_use_ipv6_dns_server
+		time
+		wantype
+
+FileName: SysRebootRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SysRebootRpm.htm
+API: 
+	count: 1
+	name:
+		SysRebootRpm.htm
+Para: 
+	count: 3
+	name:
+		Reboot
+		autoWidth
+		t_title
+
+FileName: SoftwareUpgradeRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SoftwareUpgradeRpm.htm
+API: 
+	count: 1
+	name:
+		../incoming/Firmware.htm
+Para: 
+	count: 12
+	name:
+		Filename
+		Submit
+		Upgrade
+		autoWidth
+		fversion
+		hversion
+		t_file
+		t_hardversion
+		t_note_wan_deny
+		t_softversion
+		t_title
+		wan_deny
+
+FileName: AutoEmailRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AutoEmailRpm.htm
+API: 
+	count: 1
+	name:
+		AutoEmailRpm.htm
+Para: 
+	count: 30
+	name:
+		AutoMail
+		FromAddr
+		Hour
+		Minute
+		Password
+		PasswordRow
+		Return
+		SMTPAddr
+		Save
+		TimeLen
+		TimeType
+		ToAddr
+		User
+		UserRow
+		VeriPass
+		VeriPassRow
+		Verify
+		autoWidth
+		t_auth
+		t_comfirm_passwd
+		t_en_auto_mail
+		t_from
+		t_hhmm
+		t_hours
+		t_mail_freq
+		t_mail_time
+		t_passwd
+		t_smtp_srv
+		t_to
+		t_username
+
+FileName: VirtualServerAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+API: 
+	count: 1
+	name:
+		VirtualServerRpm.htm
+Para: 
+	count: 18
+	name:
+		Back
+		Changed
+		Commonport
+		ExPort
+		InPort
+		Page
+		Protocol
+		Save
+		SelIndex
+		State
+		autoWidth
+		t_common
+		t_internal_port
+		t_ip_addr
+		t_proto
+		t_srv_port
+		t_status
+		t_title
+
+FileName: WaitForWdsScanResult.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WaitForWdsScanResult.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		percent
+		t_wds_scan_complete
+		t_wds_scanning
+
+FileName: AssignedIpAddrListRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AssignedIpAddrListRpm.htm
+API: 
+	count: 1
+	name:
+		AssignedIpAddrListRpm.htm
+Para: 
+	count: 3
+	name:
+		Refresh
+		autoWidth
+		t_permanent
+
+FileName: PPPoECfgAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgAdvRpm.htm
+API: 
+	count: 1
+	name:
+		PPPoECfgAdvRpm.htm
+Para: 
+	count: 14
+	name:
+		AcName
+		Advanced
+		Back
+		EchoReq
+		Save
+		ServiceName
+		autoWidth
+		dnsserver
+		dnsserver2
+		fixedIp
+		fixedIpEn
+		lcpMru
+		manual
+		t_sec
+
+FileName: WzdAccessCtrlHostAddRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlHostAddRpm.htm
+API: 
+	count: 1
+	name:
+		WzdAccessCtrlHostAddRpm.htm
+Para: 
+	count: 17
+	name:
+		Next
+		Please input a valid host description (Length < 25)!
+		Return
+		addr_type
+		autoWidth
+		hosts_lists_name
+		ip_area
+		mac_addr
+		mac_area
+		src_ip_end
+		src_ip_start
+		t_host_desc
+		t_ip_addr
+		t_lan_ip_addr
+		t_mac_addr
+		t_mac_address
+		t_mode
+
+FileName: LanArpBindingRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+API: 
+	count: 1
+	name:
+		LanArpBindingRpm.htm
+Para: 
+	count: 17
+	name:
+		Addnew
+		Delall
+		Disall
+		Enall
+		Find
+		NextPage
+		Page
+		PrevPage
+		Save
+		autoWidth
+		selPage
+		t_but_modi
+		t_delete
+		t_no_entry
+		t_page1
+		t_page2
+		tr'+idStart+'
+
+FileName: WzdWlanRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWlanRpm.htm
+API: 
+	count: 1
+	name:
+		WzdWlanRpm.htm
+Para: 
+	count: 62
+	name:
+		ClientId
+		Next
+		Please input SSID!
+		Return
+		Submit
+		advancedShow
+		ap_status
+		autoWidth
+		band
+		broadcast
+		chanWidth
+		channel
+		display_advanced
+		line_band
+		mode
+		pskSecret
+		rate
+		secType
+		ssid1
+		t_11bgn
+		t_11bgn_mixed
+		t_11g
+		t_11gn_mixed
+		t_11n_only
+		t_2_4G
+		t_5G
+		t_auto
+		t_band
+		t_cause_if
+		t_channel
+		t_channel_wd
+		t_ctrled_wifiswitch
+		t_disSec
+		t_disable
+		t_disable_disp
+		t_enAdvanced
+		t_enable
+		t_enable_disp
+		t_enb_ssid_bc
+		t_ensure_country
+		t_message
+		t_mode
+		t_no_change
+		t_psk_note
+		t_psk_note1
+		t_psk_pwd
+		t_rate
+		t_region
+		t_title
+		t_warn
+		t_wireless_sec
+		t_wirless_ssid
+		t_wl_radio
+		t_wl_radio_disp
+		t_wzdssid_tips
+		wAdvanced
+		wifi_display_status
+		wifi_switch
+		wifiswitch_tip
+		wlMode
+		wlancfg
+		wlanpage
+
+FileName: DiagnosticRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DiagnosticRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 28
+	name:
+		autoWidth
+		doType
+		doType1
+		doType2
+		frame1
+		hops
+		isNew
+		number
+		overTime
+		pSize
+		pingAddr
+		result
+		sendNum
+		size
+		t_cho_mode
+		t_diag_conf
+		t_diag_hops
+		t_ip_domain
+		t_mill_sec
+		t_num_pings
+		t_ping
+		t_ping_size
+		t_ping_timeout
+		t_title
+		t_tracert
+		t_tracert_hops
+		timeout
+		trHops
+
+FileName: LanIPv6CfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanIPv6CfgRpm.htm
+API: 
+	count: 1
+	name:
+		LanIPv6CfgRpm.htm
+Para: 
+	count: 30
+	name:
+		IPv6 address is invalid
+		Save
+		autoWidth
+		dhcps1
+		dhcps2
+		dhcps3
+		dhcps4
+		dhcps5
+		dhcps6
+		ipAssignType
+		ipDhcp6sPrefix
+		ipDhcp6sPrefixLength
+		ipEnd
+		ipRadvdPrefix
+		ipStart
+		lanip
+		message
+		t_dhcps
+		t_end
+		t_lan_ip
+		t_message
+		t_prefix
+		t_prefix2
+		t_prefix_length
+		t_ra
+		t_rl_tm
+		t_route_advert
+		t_start
+		t_wan_type
+		time
+
+FileName: PPTPCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPTPCfgRpm.htm
+API: 
+	count: 1
+	name:
+		PPTPCfgRpm.htm
+Para: 
+	count: 54
+	name:
+		Connect
+		Disconnect
+		IpType
+		PPTPName
+		PPTPPwd
+		PPTPPwd_cfm
+		PPTPServerName
+		Save
+		autoWidth
+		connect
+		curmode
+		dis_3gonly
+		dis_linktype
+		disconnect
+		dyn_dns_d
+		dyn_gw_d
+		dyn_ip_d
+		dyn_mask_d
+		idletime
+		linktype
+		sta_dns
+		sta_dns_d
+		sta_gw
+		sta_gw_d
+		sta_ip
+		sta_ip_d
+		sta_mask
+		sta_mask_d
+		t_conn_auto
+		t_conn_demand
+		t_conn_manu
+		t_desc1
+		t_desc2
+		t_dns
+		t_gateway
+		t_inter_dns
+		t_inter_ip_addr
+		t_ip_addr
+		t_maxidletime
+		t_mtu_sizes
+		t_note_auto2
+		t_note_auto3
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_password
+		t_psw_confirm
+		t_sub_mask
+		t_svr_ip_addr
+		t_username
+		t_wan_conn_mode
+		t_wan_conn_tp
+		wantype
+
+FileName: LoginRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LoginRpm.htm
+API: 
+	count: 1
+	name:
+		/userRpm/LoginRpm.htm
+Para: 
+	count: 9
+	name:
+		Save
+		copyright
+		loginBtn
+		loginForm
+		note
+		pcPassword
+		pwLi
+		unLi
+		userName
+
+FileName: L2TPCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/L2TPCfgRpm.htm
+API: 
+	count: 1
+	name:
+		L2TPCfgRpm.htm
+Para: 
+	count: 36
+	name:
+		Connect
+		Disconnect
+		IpType
+		L2TPName
+		L2TPPwd
+		L2TPPwd_cfm
+		L2TPServerName
+		Save
+		autoWidth
+		connect
+		curmode
+		dis_3gonly
+		dis_linktype
+		disconnect
+		dyn_dns_d
+		dyn_gw_d
+		dyn_ip_d
+		dyn_mask_d
+		idletime
+		linktype
+		sta_dns
+		sta_dns_d
+		sta_gw
+		sta_gw_d
+		sta_ip
+		sta_ip_d
+		sta_mask
+		sta_mask_d
+		t_note_auto2
+		t_note_auto3
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_psw_confirm
+		wantype
+
+FileName: NoipDdnsRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NoipDdnsRpm.htm
+API: 
+	count: 1
+	name:
+		NoipDdnsRpm.htm
+Para: 
+	count: 10
+	name:
+		EnDdns
+		Login
+		Logout
+		Save
+		autoWidth
+		cliUrl
+		connectStatus
+		provider
+		t_go_register
+		username
+
+FileName: WzdDynaIpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdDynaIpRpm.htm
+API: 
+	count: 1
+	name:
+		WzdDynaIpRpm.htm
+Para: 
+	count: 12
+	name:
+		CloneMAC
+		Next
+		RestoreMAC
+		Return
+		autoWidth
+		clone
+		is_need_clone
+		restore
+		t_mac_info1
+		t_pc_mac_addr
+		t_title
+		t_wan_mac_addr
+
+FileName: WzdWanMacRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanMacRpm.htm
+API: 
+	count: 1
+	name:
+		WzdWanMacRpm.htm
+Para: 
+	count: 16
+	name:
+		CloneMAC
+		Next
+		RestoreMAC
+		Return
+		autoWidth
+		clone
+		is_need_clone
+		restore
+		t_item
+		t_mac_info1
+		t_mac_info2
+		t_need_clone
+		t_not_need_clone
+		t_pc_mac_addr
+		t_title
+		t_wan_mac_addr
+
+FileName: BasicSecurityRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BasicSecurityRpm.htm
+API: 
+	count: 1
+	name:
+		BasicSecurityRpm.htm
+Para: 
+	count: 58
+	name:
+		Save
+		disable_ftp_alg
+		disable_h323_alg
+		disable_ipsec_passthrough
+		disable_l2tp_passthrough
+		disable_pptp_passthrough
+		disable_rtsp_alg
+		disable_sip_alg
+		disable_spi
+		disable_tftp_alg
+		enable_ftp_alg
+		enable_h323_alg
+		enable_ipsec_passthrough
+		enable_l2tp_passthrough
+		enable_pptp_passthrough
+		enable_rtsp_alg
+		enable_sip_alg
+		enable_spi
+		enable_tftp_alg
+		ftp_alg
+		h323_alg
+		ipsec_passthrough
+		l2tp_passthrough
+		pptp_passthrough
+		rtsp_alg
+		sip_alg
+		t_disable_ftp_alg
+		t_disable_h323_alg
+		t_disable_ipsec_passthrough
+		t_disable_l2tp_passthrough
+		t_disable_pptp_passthrough
+		t_disable_rtsp_alg
+		t_disable_sip_alg
+		t_disable_spi
+		t_disable_tftp_alg
+		t_enable_ftp_alg
+		t_enable_h323_alg
+		t_enable_ipsec_passthrough
+		t_enable_l2tp_passthrough
+		t_enable_pptp_passthrough
+		t_enable_rtsp_alg
+		t_enable_sip_alg
+		t_enable_spi
+		t_enable_tftp_alg
+		t_ftp_alg
+		t_fw
+		t_h323_alg
+		t_ipsec_passthrough
+		t_l2tp_passthrough
+		t_nat
+		t_pptp_passthrough
+		t_rtsp_alg
+		t_sip_alg
+		t_spi_fw
+		t_tftp_alg
+		t_title
+		t_vpn
+		tftp_alg
+
+FileName: SpecialAppAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+API: 
+	count: 1
+	name:
+		SpecialAppRpm.htm
+Para: 
+	count: 19
+	name:
+		Back
+		Changed
+		Commonapp
+		Page
+		Save
+		SelIndex
+		State
+		autoWidth
+		inPort
+		inProtocol
+		t_common_app
+		t_incom_port
+		t_incom_proto
+		t_status
+		t_title
+		t_trig_port
+		t_trig_proto
+		trPort
+		trProtocol
+
+FileName: LanArpBindingFindRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingFindRpm.htm
+API: 
+	count: 1
+	name:
+		LanArpBindingFindRpm.htm
+Para: 
+	count: 7
+	name:
+		Back
+		Find
+		autoWidth
+		t_empty
+		t_ip_addr
+		t_mac_add
+		t_to_page
+
+FileName: MiscShowRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MiscShowRpm.htm
+API: 
+	count: 1
+	name:
+		MiscShowRpm.htm
+Para: 
+	count: 9
+	name:
+		Clear
+		Refresh
+		Return
+		autoWidth
+		t_host_ip
+		t_host_mac
+		t_id
+		t_no_host
+		t_title
+
+FileName: DynDdnsRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DynDdnsRpm.htm
+API: 
+	count: 1
+	name:
+		DynDdnsRpm.htm
+Para: 
+	count: 17
+	name:
+		EnDdns
+		Login
+		Logout
+		Save
+		autoWidth
+		cliUrl
+		connectStatus
+		provider
+		t_cntstatus
+		t_domainname
+		t_enbddns
+		t_psw
+		t_register
+		t_srv_provider
+		t_title
+		t_usrname
+		username
+
+FileName: UpdateTemp.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/UpdateTemp.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		percent
+		t_please_wait
+		t_processing
+
+FileName: SpecialAppRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+API: 
+	count: 1
+	name:
+		SpecialAppRpm.htm
+Para: 
+	count: 18
+	name:
+		Addnew
+		Delall
+		Disall
+		Enall
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		t_but_modi
+		t_delete
+		t_id
+		t_incom_port
+		t_incom_proto
+		t_modify
+		t_status
+		t_title
+		t_trig_port
+		t_trig_proto
+
+FileName: QoSRuleListRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+API: 
+	count: 1
+	name:
+		QoSRuleListRpm.htm
+Para: 
+	count: 11
+	name:
+		DelAll
+		NextPage
+		Page
+		PrevPage
+		enable' + modifyId + '
+		t_current_list_empty
+		t_delete
+		t_max
+		t_min
+		t_modify
+		t_title
+
+FileName: PingIframeRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PingIframeRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WzdEndRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdEndRpm.htm
+API: 
+	count: 1
+	name:
+		WzdEndRpm.htm
+Para: 
+	count: 12
+	name:
+		Finish
+		Reboot
+		Return
+		SecWzd
+		Submit
+		t_chg_warn
+		t_wzdEndT
+		t_wzdend_context1
+		t_wzdend_context2
+		t_wzdend_context3
+		t_wzdend_context4
+		t_wzdend_finish
+
+FileName: errorPage.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/errorPage.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		Back
+		autoWidth
+		t_title
+
+FileName: QoSCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSCfgRpm.htm
+API: 
+	count: 1
+	name:
+		QoSCfgRpm.htm
+Para: 
+	count: 7
+	name:
+		QoSCtrl
+		Save
+		down_bandWidth
+		t_bandwith_type
+		t_kbps
+		up_bandWidth
+		userWanType
+
+FileName: WzdAccessCtrlSchedAddRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlSchedAddRpm.htm
+API: 
+	count: 1
+	name:
+		WzdAccessCtrlSchedAddRpm.htm
+Para: 
+	count: 34
+	name:
+		Fri_select
+		Mon_select
+		Next
+		Please input the schedule name (Length < 25)!
+		Return
+		Sat_select
+		Sun_select
+		Thu_select
+		Tue_select
+		Wed_select
+		all_hours
+		autoWidth
+		day_type
+		day_type_all
+		day_type_choose
+		t_all
+		t_day
+		t_everyday
+		t_fri
+		t_mon
+		t_note_sch
+		t_sat
+		t_sch
+		t_sel_day
+		t_start_time
+		t_stop_time
+		t_sun
+		t_thu
+		t_time
+		t_tue
+		t_wen
+		time_sched_end_time
+		time_sched_name
+		time_sched_start_time
+
+FileName: AccessCtrlTimeSchedAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlTimeSchedRpm.htm
+Para: 
+	count: 38
+	name:
+		Back
+		Changed
+		Fri_select
+		Mon_select
+		Page
+		Please input the schedule name (Length < 25)!
+		Sat_select
+		Save
+		SelIndex
+		Sun_select
+		Thu_select
+		Tue_select
+		Wed_select
+		all_hours
+		autoWidth
+		day_type
+		day_type_all
+		day_type_choose
+		fromAdd
+		t_all
+		t_day
+		t_everyday
+		t_fri
+		t_mon
+		t_note_sch
+		t_sat
+		t_sch
+		t_sel_day
+		t_start_time
+		t_stop_time
+		t_sun
+		t_thu
+		t_time
+		t_tue
+		t_wen
+		time_sched_end_time
+		time_sched_name
+		time_sched_start_time
+
+FileName: WzdWanTroubleShootingRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTroubleShootingRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 15
+	name:
+		Next
+		Return
+		shooting_option1
+		shooting_option2
+		t_item
+		t_shooting_choose
+		t_shooting_clone_mac
+		t_shooting_clone_mac1
+		t_shooting_connection
+		t_shooting_dynamic
+		t_shooting_next
+		t_shooting_pro
+		t_shooting_reboot_modern
+		t_shooting_static
+		t_title
+
+FileName: ParentCtrlRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+API: 
+	count: 1
+	name:
+		ParentCtrlRpm.htm
+Para: 
+	count: 34
+	name:
+		DelAll
+		DisAll
+		EnAll
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		ctrl_enable
+		manPc_mac
+		man_mac
+		parent_mac_addr
+		save
+		selPage
+		set_pmac
+		t_del
+		t_disable
+		t_edit
+		t_enable
+		t_except
+		t_id
+		t_mac_addr
+		t_mac_addr_parent
+		t_modify
+		t_non_parental
+		t_page1
+		t_page2
+		t_parent_ctl
+		t_pc_mac_addr
+		t_permanent
+		t_schedule
+		t_status
+		t_website_list
+		tr'+idStart+'
+		writeMac
+
+FileName: MenuRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MenuRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: popupSiteSurveyRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/popupSiteSurveyRpm.htm
+API: 
+	count: 1
+	name:
+		SiteSurveyRpm.htm
+Para: 
+	count: 10
+	name:
+		Back
+		Reflesh
+		autoWidth
+		t_ap_num
+		t_channel
+		t_choose
+		t_conn
+		t_security
+		t_signal
+		t_title
+
+FileName: UpnpCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/UpnpCfgRpm.htm
+API: 
+	count: 1
+	name:
+		UpnpCfgRpm.htm
+Para: 
+	count: 17
+	name:
+		Refresh
+		Upnpdisable
+		autoWidth
+		t_app
+		t_curlist
+		t_ex_port
+		t_id
+		t_inter_port
+		t_ip
+		t_proto
+		t_status
+		t_titlt
+		t_tol_dis
+		t_tol_en
+		t_tol_status
+		upnpdisable
+		upnpenable
+
+FileName: LanArpBindingAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+API: 
+	count: 1
+	name:
+		LanArpBindingRpm.htm
+Para: 
+	count: 7
+	name:
+		Changed
+		Page
+		Return
+		Save
+		SelIndex
+		State
+		autoWidth
+
+FileName: WzdStaticIpRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStaticIpRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 9
+	name:
+		Next
+		Return
+		t_def_gt
+		t_ip
+		t_option
+		t_prima_dns
+		t_second_dns
+		t_submask
+		t_title
+
+FileName: QoSRuleCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleCfgRpm.htm
+API: 
+	count: 1
+	name:
+		QoSRuleListRpm.htm
+Para: 
+	count: 15
+	name:
+		Back
+		Page
+		Save
+		curEditId
+		enable
+		end_ip_addr
+		end_port
+		max_down_band_width
+		max_up_band_width
+		min_down_band_width
+		min_up_band_width
+		mode
+		protocol
+		start_ip_addr
+		start_port
+
+FileName: LocalManageControlRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LocalManageControlRpm.htm
+API: 
+	count: 1
+	name:
+		LocalManageControlRpm.htm
+Para: 
+	count: 14
+	name:
+		Save
+		addMac
+		addmac
+		autoWidth
+		mac' + i + '
+		pcmac
+		set_mac' + i + '
+		t_all
+		t_all_note
+		t_flt_rules
+		t_mac_addr
+		t_only
+		t_only_note
+		your_pc_mac
+
+FileName: ManageControlRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ManageControlRpm.htm
+API: 
+	count: 1
+	name:
+		ManageControlRpm.htm
+Para: 
+	count: 3
+	name:
+		Save
+		autoWidth
+		port
+
+FileName: WlanMacFilterRpmAdv.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+API: 
+	count: 1
+	name:
+		WlanMacFilterRpm.htm
+Para: 
+	count: 10
+	name:
+		Back
+		Changed
+		Desc
+		Page
+		Save
+		SelIndex
+		Type
+		autoWidth
+		entryEnabled
+		vapIdx
+
+FileName: SystemLogRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemLogRpm.htm
+API: 
+	count: 1
+	name:
+		SystemLogRpm.htm
+Para: 
+	count: 30
+	name:
+		AutoMail
+		ClearLog
+		GetFile
+		MailLog
+		NextPage
+		Page
+		PrevPage
+		Refresh
+		SaveLog
+		autoWidth
+		logLevel
+		logType
+		selPage
+		t_all
+		t_auto_mail
+		t_err
+		t_idx
+		t_info
+		t_level
+		t_log_content
+		t_log_empty
+		t_log_level
+		t_log_type
+		t_note
+		t_null
+		t_page1
+		t_page2
+		t_time
+		t_type
+		t_warn
+
+FileName: WlanStationRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanStationRpm.htm
+API: 
+	count: 1
+	name:
+		WlanStationRpm.htm
+Para: 
+	count: 9
+	name:
+		Allow
+		Deny
+		NextPage
+		PrevPage
+		Refresh
+		autoWidth
+		line_OperMode
+		t_transmit_power
+		vapIdx
+
+FileName: Wan6to4TunnelCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Wan6to4TunnelCfgRpm.htm
+API: 
+	count: 1
+	name:
+		Wan6to4TunnelCfgRpm.htm
+Para: 
+	count: 43
+	name:
+		Save
+		autoWidth
+		dhcps1
+		dhcps2
+		dhcps3
+		dnsserver1
+		dnsserver2
+		enableTunnel
+		gateway
+		ipEnd
+		ipStart
+		ipv6Enable
+		lanIpAdress
+		manual
+		mask
+		staticPrefix
+		staticPrefixLength
+		static_prefix
+		static_prefix_length
+		t_def_gw
+		t_default
+		t_delegate
+		t_dhcp_server
+		t_enable_tunnel
+		t_ip_addr
+		t_ipv6_addr_end
+		t_ipv6_addr_start
+		t_ipv6_addr_type
+		t_lan_ip
+		t_mtu_size
+		t_rl_tm
+		t_rl_tm_desc
+		t_site_prefix_type
+		t_static
+		t_static_prefix
+		t_static_prefix_length
+		t_sub_mask
+		t_tunnel_addr
+		t_use_dns_ser
+		t_wan_conn_tp
+		time
+		tunnelAddr
+		wantype
+
+FileName: AccessCtrlHostsListsAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlHostsListsRpm.htm
+Para: 
+	count: 21
+	name:
+		Changed
+		Page
+		Please input a valid host description (Length < 25)!
+		Return
+		Save
+		SelIndex
+		addr_type
+		autoWidth
+		fromAdd
+		hosts_lists_name
+		ip_area
+		mac_addr
+		mac_area
+		src_ip_end
+		src_ip_start
+		t_host_desc
+		t_ip_addr
+		t_lan_ip_addr
+		t_mac_addr
+		t_mac_address
+		t_mode
+
+FileName: WzdStartRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStartRpm.htm
+API: 
+	count: 1
+	name:
+		WzdStartRpm.htm
+Para: 
+	count: 13
+	name:
+		ClientId
+		Exit
+		Next
+		Submit
+		autoWidth
+		t_button
+		t_button_nbsp
+		t_exit
+		t_guide
+		t_next
+		t_title
+		t_to_continue
+		t_to_exit
+
+FileName: confUploadErrorRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/confUploadErrorRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 6
+	name:
+		Back
+		autoWidth
+		t_command
+		t_err_type
+		t_file_err
+		t_title
+
+FileName: VirtualServerRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+API: 
+	count: 1
+	name:
+		VirtualServerRpm.htm
+Para: 
+	count: 18
+	name:
+		Addnew
+		Delall
+		Disall
+		Enall
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		t_but_modi
+		t_delete
+		t_id
+		t_internal_port
+		t_ip_addr
+		t_modify
+		t_proto
+		t_srv_port
+		t_status
+		t_title
+
+FileName: WanIpv6EnableRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanIpv6EnableRpm.htm
+API: 
+	count: 1
+	name:
+		WanIpv6EnableRpm.htm
+Para: 
+	count: 6
+	name:
+		Save
+		autoWidth
+		ipv6Enable
+		t_title
+		t_wan_conn_tp
+		wantype
+
+FileName: WzdWanAutoTypeRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanAutoTypeRpm.htm
+API: 
+	count: 1
+	name:
+		WzdWanAutoTypeRpm.htm
+Para: 
+	count: 3
+	name:
+		Back
+		autoWidth
+		t_detecting_network
+
+FileName: AccessCtrlAccessTargetsRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlAccessTargetsRpm.htm
+Para: 
+	count: 17
+	name:
+		DelAll
+		EnAll
+		Find
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		selPage
+		t_del
+		t_edit
+		t_id
+		t_info
+		t_modify
+		t_page1
+		t_page2
+		t_target_desc
+		tr'+idStart+'
+
+FileName: PPPoECfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgRpm.htm
+API: 
+	count: 1
+	name:
+		PPPoECfgRpm.htm
+Para: 
+	count: 51
+	name:
+		Advanced
+		Connect
+		Disconnect
+		Discover
+		ReleaseIp
+		RenewIp
+		Save
+		SecType
+		autoWidth
+		confirm
+		connect
+		curmode
+		dis_3gonly
+		dis_linktype
+		disconnect
+		discover
+		dyn_but_row
+		dyn_ip
+		dyn_mask
+		dyn_mask_row
+		hour1
+		hour2
+		linktype
+		minute1
+		minute2
+		releaseip
+		renewip
+		sta_ip
+		sta_ip_row
+		sta_mask
+		sta_mask_row
+		t_det
+		t_info
+		t_mins
+		t_note_auto2
+		t_note_auto3
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_per_end
+		t_per_from
+		t_per_to
+		t_pppoe_conn
+		t_sec_conn
+		t_sec_ip_addr
+		t_sub_mask
+		t_unplugged
+		waittime
+		waittime2
+		wantype
+
+FileName: WanSlaacCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+API: 
+	count: 1
+	name:
+		WanSlaacCfgRpm.htm
+Para: 
+	count: 62
+	name:
+		Connect
+		Disconnect
+		Save
+		autoWidth
+		dhcps1
+		dhcps2
+		dhcps3
+		dns1
+		dns2
+		dns3
+		dns4
+		dnsType
+		dnsserver1
+		dnsserver2
+		gateway
+		ipEnd
+		ipStart
+		ipType
+		ipv6Enable
+		lanIpAdress
+		linkStat
+		prefix
+		prefixLength
+		pri_dns
+		sec_dns
+		show_prefix
+		staticPrefix
+		staticPrefixLength
+		static_prefix
+		static_prefix_length
+		t_def_gw
+		t_default
+		t_delegate
+		t_dhcp_server
+		t_enable_tunnel
+		t_get_ipv6_dns_server
+		t_ip_addr
+		t_ipv6_addr_end
+		t_ipv6_addr_prefix
+		t_ipv6_addr_start
+		t_ipv6_addr_type
+		t_ipv6_dlgt
+		t_ipv6_prefix_len
+		t_ipv6_pri_dns
+		t_ipv6_prmnnt_addr
+		t_ipv6_sec_dns
+		t_ipv6_tmp_addr
+		t_lan_ip
+		t_mtu_size
+		t_opt
+		t_pri_dns
+		t_rl_tm
+		t_rl_tm_desc
+		t_sec_dns
+		t_site_prefix_type
+		t_static
+		t_static_prefix
+		t_static_prefix_length
+		t_title
+		t_use_ipv6_dns_server
+		time
+		wantype
+
+FileName: restart.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/restart.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		percent
+		t_complete
+		t_restart
+
+FileName: WzdPPTPRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPTPRpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 22
+	name:
+		IpType
+		Next
+		PPTPServerName
+		Return
+		sta_dns
+		sta_dns_d
+		sta_dns_row
+		sta_gateway
+		sta_gateway_row
+		sta_gw
+		sta_gw_d
+		sta_ip
+		sta_ip_row
+		sta_mask
+		sta_mask_row
+		svr_id
+		t_name
+		t_psw_confirm
+		t_pwd
+		t_sec_ip_addr
+		t_sub_mask
+		t_title
+
+FileName: WlanWpsChkModeRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanWpsChkModeRpm.htm
+API: 
+	count: 1
+	name:
+		WpsCfgRpm.htm
+Para: 
+	count: 17
+	name:
+		Back
+		DevPin
+		NewDevCfg
+		WpsAddDevMode
+		WpsStatus
+		WpsStatusVis
+		autoWidth
+		errMsg
+		showErrMsg
+		statNewLine
+		t_configured1
+		t_configured2
+		t_dev_pin
+		t_new_dev_pin
+		t_pin
+		t_title
+		vapIdx
+
+FileName: WpsCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WpsCfgRpm.htm
+API: 
+	count: 1
+	name:
+		WpsCfgRpm.htm
+Para: 
+	count: 20
+	name:
+		DefPin
+		NewDev
+		NewPin
+		autoWidth
+		enBrocastSsid
+		enWlan
+		enWlanBr
+		line_OperMode
+		pin_lock
+		t_add_dev
+		t_allow
+		t_chng
+		t_click
+		t_click_here
+		t_cur_pin
+		t_enb_radio
+		t_ssid1
+		t_to_reboot
+		t_transmit_power
+		t_withpsw
+
+FileName: FixMapCfgAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+API: 
+	count: 1
+	name:
+		FixMapCfgRpm.htm
+Para: 
+	count: 13
+	name:
+		Back
+		Changed
+		Page
+		Save
+		SelIndex
+		State
+		autoWidth
+		t_disabled
+		t_enabled
+		t_ip_addr
+		t_mac_addr
+		t_status
+		t_title
+
+FileName: StaticRouteTableAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+API: 
+	count: 1
+	name:
+		StaticRouteTableRpm.htm
+Para: 
+	count: 16
+	name:
+		Back
+		Changed
+		Gateway
+		Mask
+		Page
+		Save
+		SelIndex
+		State
+		autoWidth
+		t_dest_ip_addr
+		t_disabled
+		t_enabled
+		t_gateway
+		t_status
+		t_submask
+		t_title
+
+FileName: WzdAccessCtrlTargetAddRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+API: 
+	count: 1
+	name:
+		WzdAccessCtrlTargetAddRpm.htm
+Para: 
+	count: 36
+	name:
+		Commonport
+		Next
+		Return
+		autoWidth
+		commonportlist
+		dst_ip_end
+		dst_ip_start
+		dst_port_end
+		dst_port_start
+		ip_dst
+		port
+		proto
+		proto_area
+		spaceline
+		t_all
+		t_com_ser_port
+		t_domain_name
+		t_domain_name1
+		t_icmp
+		t_ip_addr
+		t_ip_addr1
+		t_protocal
+		t_target_list
+		t_target_port
+		t_tcp
+		t_udp
+		target_type
+		targets_lists_name
+		url0
+		url1
+		url2
+		url3
+		url_0
+		url_1
+		url_2
+		url_3
+
+FileName: WanStaticIpCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpCfgRpm.htm
+API: 
+	count: 1
+	name:
+		WanStaticIpCfgRpm.htm
+Para: 
+	count: 20
+	name:
+		Discover
+		Intranet
+		Save
+		autoWidth
+		dis_3gonly
+		discover
+		dnsserver
+		dnsserver2
+		gateway
+		mask
+		netRange
+		showIntranet
+		t_det
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_opt2
+		t_unplugged
+		wantype
+
+FileName: CmxDdnsRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/CmxDdnsRpm.htm
+API: 
+	count: 1
+	name:
+		DdnsAddRpm.htm
+Para: 
+	count: 24
+	name:
+		EnDdns
+		Login
+		Logout
+		Save
+		autoWidth
+		cliUrl0
+		cliUrl1
+		cliUrl2
+		cliUrl3
+		cliUrl4
+		provider
+		t_con_status
+		t_domainname0
+		t_domainname1
+		t_domainname2
+		t_domainname3
+		t_domainname4
+		t_en_ddns
+		t_provider
+		t_pwd
+		t_register
+		t_title
+		t_usrname
+		username
+
+FileName: WlanSecurityRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanSecurityRpm.htm
+API: 
+	count: 1
+	name:
+		WlanSecurityRpm.htm
+Para: 
+	count: 59
+	name:
+		Save
+		aaaa
+		autoWidth
+		interval
+		intervalWpa
+		line_OperMode
+		pskCipher
+		pskSecOpt
+		pskSecret
+		radiusIp
+		radiusPort
+		radiusSecret
+		secType
+		t_128
+		t_152
+		t_64
+		t_ascii
+		t_auto
+		t_chng
+		t_click
+		t_disSec
+		t_disable
+		t_encrypt
+		t_hex
+		t_key
+		t_key_sel
+		t_key_type
+		t_key_update_prd
+		t_key_update_prd_note
+		t_key_update_prd_note2
+		t_notice2
+		t_open_sys
+		t_psk_note
+		t_psk_pwd
+		t_rad_ser_ip
+		t_radius_port
+		t_radius_pwd
+		t_rd_port_note
+		t_shared_key
+		t_title
+		t_tkip_warn
+		t_to_reboot
+		t_transmit_power
+		t_type
+		t_ver
+		t_wep
+		t_wep_key
+		t_wep_key_fmt
+		t_wep_warn
+		t_wpa_psk
+		t_wpa_wpa2
+		table_notice2
+		table_notice3
+		tnotice1
+		vapIdx
+		weptable
+		wpaCipher
+		wpapsktable
+		wpatable
+
+FileName: WlanAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanAdvRpm.htm
+API: 
+	count: 1
+	name:
+		WlanAdvRpm.htm
+Para: 
+	count: 27
+	name:
+		Save
+		autoWidth
+		beaconPeriod
+		dtimInterval
+		fragThreshold
+		line_OperMode
+		line_t_bcn_prd
+		line_t_dtm_inter
+		line_t_enable_ap
+		rtsThreshold
+		shortGI
+		t_beacon_interval
+		t_chng
+		t_click
+		t_dtim
+		t_enable_ap
+		t_enable_short_gi
+		t_enable_wmm
+		t_frag
+		t_high
+		t_low
+		t_middle
+		t_rts_threshold
+		t_title
+		t_to_reboot
+		t_transmit_power
+		txPower
+
+FileName: WanStaticIpV6CfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpV6CfgRpm.htm
+API: 
+	count: 1
+	name:
+		WanStaticIpV6CfgRpm.htm
+Para: 
+	count: 38
+	name:
+		Save
+		autoWidth
+		dhcps1
+		dhcps2
+		dhcps3
+		dnsserver1
+		dnsserver2
+		gateway
+		ipEnd
+		ipStart
+		ipv6Enable
+		lanIpAdress
+		staticPrefix
+		staticPrefixLength
+		static_prefix
+		static_prefix_length
+		t_def_gw
+		t_default
+		t_delegate
+		t_dhcp_server
+		t_enable_tunnel
+		t_ipv6_addr
+		t_ipv6_addr_end
+		t_ipv6_addr_start
+		t_ipv6_addr_type
+		t_lan_ip
+		t_mtu_size
+		t_opt
+		t_pri_dns
+		t_rl_tm
+		t_rl_tm_desc
+		t_sec_dns
+		t_site_prefix_type
+		t_static_input
+		t_static_prefix
+		t_static_prefix_length
+		time
+		wantype
+
+FileName: NetworkCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NetworkCfgRpm.htm
+API: 
+	count: 1
+	name:
+		NetworkCfgRpm.htm
+Para: 
+	count: 27
+	name:
+		Save
+		autoWidth
+		dynaip_warning
+		igmpChanged
+		igmpEn
+		inputMask
+		langw
+		lanip
+		lanmask
+		lantype
+		line_Gateway
+		line_type
+		otherMask
+		t_chng
+		t_disable
+		t_dynaipwarning
+		t_enable
+		t_igmp_proxy
+		t_ip
+		t_lan_dynamic
+		t_lan_gw
+		t_lan_static
+		t_lantype
+		t_mac
+		t_mask
+		t_other_mask
+		t_title
+
+FileName: MacCloneCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MacCloneCfgRpm.htm
+API: 
+	count: 1
+	name:
+		MacCloneCfgRpm.htm
+Para: 
+	count: 6
+	name:
+		CloneMAC
+		Save
+		autoWidth
+		clone
+		pcmac
+		t_title
+
+FileName: BPACfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BPACfgRpm.htm
+API: 
+	count: 1
+	name:
+		BPACfgRpm.htm
+Para: 
+	count: 34
+	name:
+		AuthDomain
+		AuthSrv
+		Connect
+		Disconnect
+		Save
+		autoWidth
+		connect
+		curmode
+		dis_3gonly
+		dis_linktype
+		disconnect
+		linktype
+		t_auth_domain
+		t_auth_srv
+		t_con_auto
+		t_con_manually
+		t_con_on_demand
+		t_max_idle_time0
+		t_max_idle_time1
+		t_mtu_size
+		t_note_auto2
+		t_note_auto3
+		t_note_wanonly1
+		t_note_wanonly2
+		t_note_wanonly3
+		t_note_wanonly4
+		t_pwd
+		t_title
+		t_usrname
+		t_wan_con_type
+		t_wan_conn_mod
+		waittime
+		waittime2
+		wantype
+
+FileName: IPv6StatusRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/IPv6StatusRpm.htm
+API: 
+	count: 1
+	name:
+		StatusRpm.htm
+Para: 
+	count: 19
+	name:
+		assginType
+		autoWidth
+		lanaddr
+		linklocaladdr
+		primdns
+		secdns
+		t_ipv6_assgin_type
+		t_ipv6_lan_addr
+		t_ipv6_link_local_addr
+		t_ipv6_prim_dns
+		t_ipv6_sec_dns
+		t_ipv6_wan_addr
+		t_ipv6_wan_ctype
+		t_ipv6_wan_gw
+		t_lan
+		t_title
+		t_wan
+		wanaddr
+		wanctype
+
+FileName: BakNRestoreRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BakNRestoreRpm.htm
+API: 
+	count: 1
+	name:
+		../incoming/RouterBakCfgUpload.cfg
+Para: 
+	count: 7
+	name:
+		Backup
+		Restore
+		Submit
+		autoWidth
+		filename
+		t_note_wan_deny
+		wan_deny
+
+FileName: SystemStatisticRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemStatisticRpm.htm
+API: 
+	count: 1
+	name:
+		SystemStatisticRpm.htm
+Para: 
+	count: 21
+	name:
+		DeleteAll
+		Goto_page
+		NextPage
+		Num_per_page
+		PrevPage
+		Refresh
+		ResetAll
+		Statoff
+		Staton
+		autoRefresh
+		autoWidth
+		interval
+		sortType
+		statisticStatus
+		sysStatic
+		t_ip_addr
+		t_sort_by_curr_bytes
+		t_sort_by_curr_pkg
+		t_sort_by_ip
+		t_sort_by_total_bytes
+		t_sort_by_total_pkg
+
+FileName: WzdAccessCtrlRuleAddRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlRuleAddRpm.htm
+API: 
+	count: 1
+	name:
+		WzdAccessCtrlRuleAddRpm.htm
+Para: 
+	count: 19
+	name:
+		Complete
+		Please input name of the control rule (Length < 25)!
+		Return
+		autoWidth
+		enable
+		hosts_lists
+		rule_name
+		scheds_lists
+		t_any_target
+		t_anytime
+		t_disble
+		t_enable
+		t_host_list
+		t_rule_name
+		t_schedule
+		t_set_list
+		t_status
+		t_target_list
+		targets_lists
+
+FileName: FixMapCfgRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+API: 
+	count: 1
+	name:
+		FixMapCfgRpm.htm
+Para: 
+	count: 19
+	name:
+		Addnew
+		Delall
+		Disall
+		Enall
+		NextPage
+		Page
+		PrevPage
+		autoWidth
+		t_but_modi
+		t_chng
+		t_click
+		t_delete
+		t_id
+		t_ip_addr
+		t_mac_addr
+		t_modify
+		t_status
+		t_title
+		t_to_reboot
+
+FileName: WzdPPPoERpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPPoERpm.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 14
+	name:
+		Next
+		Return
+		SecType
+		sta_ip
+		sta_ip_row
+		sta_mask
+		sta_mask_row
+		t_name
+		t_psw_confirm
+		t_pwd
+		t_sec_conn
+		t_sec_ip_addr
+		t_sub_mask
+		t_title
+
+FileName: AdvScrRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AdvScrRpm.htm
+API: 
+	count: 1
+	name:
+		AdvScrRpm.htm
+Para: 
+	count: 25
+	name:
+		Save
+		autoWidth
+		bIcmpFlood
+		bTcpSynFlood
+		bUdpFlood
+		dosAttack
+		ping
+		t_disable
+		t_dos_prot
+		t_en_icmp
+		t_en_tcp
+		t_en_udp
+		t_enable
+		t_forbid_ping
+		t_icmp_thrd
+		t_ingore_ping
+		t_interval
+		t_pkts
+		t_seconds
+		t_tcp_thrd
+		t_title
+		t_udp_thrd
+		usIcmpFlood
+		usTcpSynFlood
+		usUdpFlood
+
+FileName: Index.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Index.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		t_noFrame
+
+FileName: ParentCtrlAdvRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+API: 
+	count: 1
+	name:
+		ParentCtrlRpm.htm
+Para: 
+	count: 37
+	name:
+		Back
+		Changed
+		Page
+		Save
+		SelIndex
+		autoWidth
+		child_mac
+		cmac
+		enable
+		lan_lists
+		rule_mode
+		scheds_lists
+		t_all_domain_name
+		t_all_mac_addr
+		t_anytime
+		t_based_on_time1
+		t_based_on_time2
+		t_based_on_time3
+		t_disabled
+		t_effect_time
+		t_enabled
+		t_mac_addr_child
+		t_pl_sel
+		t_status
+		t_time_acc1
+		t_time_acc2
+		t_time_acc3
+		t_website
+		url_0
+		url_1
+		url_2
+		url_3
+		url_4
+		url_5
+		url_6
+		url_7
+		url_comment
+
+FileName: AccessCtrlAccessRuleModifyRpm.htm
+FilePath: /home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+API: 
+	count: 1
+	name:
+		AccessCtrlAccessRulesRpm.htm
+Para: 
+	count: 95
+	name:
+		Back
+		Changed
+		Commonport
+		Fri_select
+		Host_Changed
+		Host_Index
+		Mon_select
+		Page
+		Please input a valid host description (Length < 25)!
+		Please input name of the control rule (Length < 25)!
+		Please input the schedule name (Length < 25)!
+		Sat_select
+		Save
+		Schedule_Changed
+		Schedule_Index
+		SelIndex
+		Sun_select
+		Target_Changed
+		Target_Index
+		Thu_select
+		Tue_select
+		Wed_select
+		address_type
+		all_hours
+		autoWidth
+		commonportlist
+		day_type
+		day_type_all
+		day_type_choose
+		dst_ip_end
+		dst_ip_start
+		dst_port_end
+		dst_port_start
+		enable
+		hosts_lists_name
+		ip_area
+		ip_dst
+		mac_addr
+		mac_area
+		port
+		proto
+		proto_area
+		rule_name
+		src_ip_end
+		src_ip_start
+		t_address_type
+		t_all
+		t_all_day
+		t_com_ser_port
+		t_day
+		t_disble
+		t_domain_name
+		t_enable
+		t_everyday
+		t_fri
+		t_hosts_lists_name
+		t_hour_min
+		t_icmp
+		t_ip_addr
+		t_lan_ip_addr
+		t_mac_addr
+		t_mod_domain_name
+		t_mod_ip_addr
+		t_mon
+		t_protocal
+		t_rule_name
+		t_sat
+		t_sch
+		t_sel_day
+		t_start_time
+		t_status
+		t_stop_time
+		t_sun
+		t_target_port
+		t_target_type
+		t_targets_lists_name
+		t_tcp
+		t_thu
+		t_time
+		t_tue
+		t_udp
+		t_wen
+		target_type
+		targets_lists_name
+		time_sched_end_time
+		time_sched_name
+		time_sched_start_time
+		url0
+		url1
+		url2
+		url3
+		url_0
+		url_1
+		url_2
+		url_3
+

@@ -1,0 +1,42 @@
+
+Scan Time:     2025-08-22 12:28:49
+Target File:   /firmware/wr940nv4_us_3_16_9_up_boot_160617.bin
+MD5 Checksum:  3c81fc3681847f53d3a6198a76b35241
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             TP-Link firmware header, firmware version: 0.-6309.3, image version: "", product ID: 0x0, product version: 155189252, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 4063744, kernel length: 512, rootfs offset: 865629, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0
+15552         0x3CC0          U-Boot version string, "U-Boot 1.1.4 (Jun 17 2016 - 16:14:48)"
+15600         0x3CF0          CRC32 polynomial table, big endian
+16900         0x4204          uImage header, header size: 64 bytes, header CRC: 0xDC5CE357, created: 2016-06-17 08:14:49, image size: 42775 bytes, Data Address: 0x80010000, Entry Point: 0x80010000, data CRC: 0x5C656922, OS: Linux, CPU: MIPS, image type: Firmware Image, compression type: lzma, image name: "u-boot image"
+16964         0x4244          LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 113496 bytes
+131584        0x20200         TP-Link firmware header, firmware version: 0.0.3, image version: "", product ID: 0x0, product version: 155189252, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 3932160, kernel length: 512, rootfs offset: 865629, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0
+132096        0x20400         LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 2496188 bytes
+1180160       0x120200        Squashfs filesystem, little endian, version 4.0, compression:lzma, size: 2691712 bytes, 584 inodes, blocksize: 131072 bytes, created: 2016-06-17 08:23:55
+
+
+Scan Time:     2025-08-22 12:28:50
+Target File:   /output/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/4244
+MD5 Checksum:  28e65a155366469094aa17358fef3edc
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+95776         0x17620         U-Boot version string, "U-Boot 1.1.4 (Jun 17 2016 - 16:14:46)"
+95920         0x176B0         CRC32 polynomial table, big endian
+
+
+Scan Time:     2025-08-22 12:28:50
+Target File:   /output/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/20400
+MD5 Checksum:  16f143875833d4595c642545c27831d6
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+78604         0x1330C         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+78944         0x13460         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+79360         0x13600         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+1925152       0x1D6020        Linux kernel version 2.6.31
+1971136       0x1E13C0        CRC32 polynomial table, little endian
+2207324       0x21AE5C        Neighborly text, "NeighborSolicits/ipv6/inet6_hashtables.c"
+2207344       0x21AE70        Neighborly text, "NeighborAdvertisementses.c"
+2208327       0x21B247        Neighborly text, "neighbor %.2x%.2x.%.2x:%.2x:%.2x:%.2x:%.2x:%.2x lost on port %d(%s)(%s)"
+

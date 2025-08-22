@@ -1,0 +1,140 @@
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/bin/httpd
+Strings count : 8807
+Para + API count : 371
+Para: 
+	Hits Para count: 305
+	Hits Para : 
+		restore src_ip_start Upnpdisable IpType scheds_lists SecType down_bandWidth keytype Host_Changed doType Target_Index month t_name ReleaseIp inProtocol ssid2 ssid3 end_count ssid1 t_mac_addr lanMac bTcpSynFlood dhcpserver sendNum start_month time_sched_end_time t_mon Finish disconnect src_ip_end dnsserver DefPin WpsAddDevMode t_button pSize Minute addmac oldname Verify address_type addr_type t_key ctrl_enable Schedule_Index ssid4 sortType brlssid sta_gw t_udp end_month Setup start_hour Refresh Reboot parent_mac_addr RenewIp trHops timeout QoSCtrl minute linktype Mon_select PPTPPwd Password Protocol Logout sta_mask entryEnabled manual target_type InPort keytext TimeType ToAddr mode Num_per_page Mask usUdpFlood Find day_type Capture domain dst_port_end defRule Fri_select isNew start_week flagMode discover t_type waittime AutoMail hour1 pin_lock year ntpB ntpA Type fixedIpEn usIcmpFlood pskCipher EnDdns inputMask end_hour fixedIp filename lanip bUdpFlood start_ip_addr url1 wantype url3 url2 Sun_select Clear Advanced t_ver DelAll NewDevCfg t_rule Sat_select chanWidth Hour Wed_select dtimInterval userWanType targets_lists_name ServiceName t_ssid MailLog langw t_end EchoReq State shortGI secType idletime Disfilter rule_mode t_null lcpMru L2TPServerName isTimeChanged pskSecret trProtocol Host_Index t_mac_add t_mac hosts_lists cliUrl end_ip_addr all_hours size SMTPAddr rtsThreshold Upgrade Thu_select trPort logLevel FromAddr hostName wlancfg url_comment t_auto child_mac Exit AuthSrv t_pptp t_to gateway Lease sta_dns rule_name Schedule_Changed second curEditId TimeLen L2TPPwd submit time_sched_start_time intervalWpa User radiusPort dosAttack protocol min_down_band_width minute2 minute1 Tue_select targets_lists addrType Deny enable start_port radiusIp ClearLog ipAddr hour2 t_start broadcast netmask ClientId number L2TPName wepindex provider radiusSecret url0 save usTcpSynFlood hour logType GetGmtTime min_up_band_width AcName Target_Changed rate PPTPName t_region Connect Disconnect t_ip lanmask t_err username result oldpassword autoRefresh t_time isDaylightSavingChanged newname end_port DevPin dst_port_start Submit t_pin up_bandWidth WpsStatus ExPort dst_ip_start timezone GetFile time_sched_name dst_ip_end AuthDomain pskSecOpt enableCtrl txPower t_mode Complete t_register proto dnsserver2 ping port NewPin DeleteAll EnAll t_tcp survey brlbssid sta_ip bIcmpFlood channel Desc NewDev authtype start_count connect wdsbrl fragThreshold Goto_page clone beaconPeriod t_dns lantype overTime max_down_band_width DisAll inPort Allow hosts_lists_name Login t_proto Restore newpassword band Backup wpaCipher interval mask Discover max_up_band_width PPTPServerName waittime2 fromAdd mac_addr ResetAll Enfilter vapIdx DaylightSaving writeMac t_level Gateway end_week 
+	Number of Para source files: 78
+API: 
+	Hits API count: 66
+	Hits API : 
+		AutoEmailRpm.htm AssignedIpAddrListRpm.htm Firmware.htm LanArpBindingRpm.htm SpecialAppRpm.htm NetworkCfgRpm.htm AccessCtrlTimeSchedRpm.htm WzdAccessCtrlHostAddRpm.htm NoipDdnsRpm.htm WzdDynaIpRpm.htm WanDynamicIpCfgRpm.htm BPACfgRpm.htm SystemLogRpm.htm FixMapCfgRpm.htm WlanSecurityRpm.htm PPPoECfgRpm.htm SysRouteTableRpm.htm UpnpCfgRpm.htm .. WzdAccessCtrlTargetAddRpm.htm WzdWanAutoTypeRpm.htm QoSRuleListRpm.htm WpsCfgRpm.htm QoSCfgRpm.htm MiscShowRpm.htm ParentCtrlRpm.htm SiteSurveyRpm.htm WlanStationRpm.htm WzdEndRpm.htm SysRebootRpm.htm LanArpBindingFindRpm.htm AccessCtrlAccessTargetsRpm.htm WzdWanMacRpm.htm DdnsAddRpm.htm L2TPCfgRpm.htm SystemStatisticRpm.htm DynDdnsRpm.htm WlanAdvRpm.htm PPTPCfgRpm.htm DateTimeCfgRpm.htm AdvScrRpm.htm WzdAccessCtrlRuleAddRpm.htm DMZRpm.htm StatusRpm.htm incoming LanDhcpServerRpm.htm AccessCtrlHostsListsRpm.htm PPPoECfgAdvRpm.htm WzdAccessCtrlSchedAddRpm.htm LocalManageControlRpm.htm GetGMTRpm.htm AccessCtrlAccessRulesRpm.htm StaticRouteTableRpm.htm WlanNetworkRpm.htm WlanMacFilterRpm.htm WzdWanTypeRpm.htm RestoreDefaultCfgRpm.htm WanStaticIpCfgRpm.htm ManageControlRpm.htm BasicSecurityRpm.htm RouterBakCfgUpload.cfg VirtualServerRpm.htm WzdStartRpm.htm MacCloneCfgRpm.htm WzdWlanRpm.htm ChangeLoginPwdRpm.htm 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/hostapd
+Strings count : 2723
+Para + API count : 56
+Para: 
+	Hits Para count: 52
+	Hits Para : 
+		size t_mac protocol t_time t_ident Reboot t_app State Exit connect t_auth t_message filename Type port t_enable second disconnect Complete t_register proto ping t_enabled t_ver User t_wpa save Setup channel mode NewDev enable t_type Clear number broadcast band t_pin Allow t_ssid Password Protocol Desc t_next interval rate t_key Connect timeout discover t_level Gateway 
+	Number of Para source files: 48
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/pppd
+Strings count : 2169
+Para + API count : 49
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		restore domain Disconnect t_time manual discover t_del rate Exit result protocol Type port size t_done disconnect second proto ping gateway User Password channel mode username enable t_sec Clear Mask number t_option netmask Allow Login Backup minute EchoReq Protocol hour interval mask Discover Connect timeout connect 
+	Number of Para source files: 48
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/wpa_supplicant
+Strings count : 1896
+Para + API count : 41
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		Disconnect t_time manual number mode t_name State t_ip connect t_auth t_message Type port size result Complete rate proto ping protocol t_key t_wpa save mac_addr enable Setup broadcast band t_pin t_ssid Password mask t_type Connect timeout t_ver t_err 
+	Number of Para source files: 43
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/xl2tpd
+Strings count : 865
+Para + API count : 32
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		Disconnect number t_del second t_ip connect protocol Type port size result disconnect proto ping filename channel mode t_sec t_sch band t_schedule Protocol State mask rate Connect timeout t_err 
+	Number of Para source files: 37
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/tc
+Strings count : 1188
+Para + API count : 27
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		protocol t_udp t_time percent number second t_ip t_err t_icmp filename port size proto ping t_rate t_tcp band t_end t_next interval mask rate result 
+	Number of Para source files: 26
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/bin/lld2d
+Strings count : 474
+Para + API count : 22
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		timeout number Complete State proto ping mask discover Discover broadcast band rate t_ip mode t_time t_ssid protocol Lease 
+	Number of Para source files: 25
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/iptables-multi
+Strings count : 482
+Para + API count : 18
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		restore t_rule protocol Complete second proto mask number mode rate t_all save port t_err 
+	Number of Para source files: 20
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/iwlist
+Strings count : 314
+Para + API count : 16
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		Protocol mode addr_type t_key rate t_ver mac_addr timeout size port channel result 
+	Number of Para source files: 12
+API: 
+	Hits API count: 4
+	Hits API : 
+		Firmware.htm incoming .. RouterBakCfgUpload.cfg 
+	Number of API source files: 40
+
+Program name : /home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/bpalogin
+Strings count : 214
+Para + API count : 10
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		username domain protocol proto band User Login Password port connect 
+	Number of Para source files: 16
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+

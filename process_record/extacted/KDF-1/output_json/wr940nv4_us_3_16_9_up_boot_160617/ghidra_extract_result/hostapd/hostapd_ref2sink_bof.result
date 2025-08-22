@@ -1,0 +1,7 @@
+[Param "timeout"(0x0044f1bc), Referenced at FUN_00411078 : 0x00412028] >> 0x00412a64 -> wps_set_ssid_configuration >> 0x00435ad8 >> wps_config_temp_filepath_make >> 0x0043b71c -> strcpy
+[Param "timeout"(0x0044f1bc), Referenced at FUN_00411078 : 0x00412408] >> 0x00412a64 -> wps_set_ssid_configuration >> 0x00435ad8 >> wps_config_temp_filepath_make >> 0x0043b71c -> strcpy
+Time Elapsed: 6.66300010681
+3 of 334 parameters are referenced
+1 of 334 parameters have way to sink function
+Find 0 new params heuristicly:
+

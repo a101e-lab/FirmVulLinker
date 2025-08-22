@@ -1,0 +1,40 @@
+
+Scan Time:     2025-08-22 12:38:10
+Target File:   /firmware/wr841nv8_en_3_15_9_up_boot(140724).bin
+MD5 Checksum:  94ff0a77cdcb34b2286cec7f8f45c348
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             TP-Link firmware header, firmware version: 0.-15770.3, image version: "", product ID: 0x0, product version: 138477576, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 4063744, kernel length: 512, rootfs offset: 815186, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0
+13392         0x3450          U-Boot version string, "U-Boot 1.1.4 (Jul 24 2014 - 17:19:59)"
+13440         0x3480          CRC32 polynomial table, big endian
+14728         0x3988          uImage header, header size: 64 bytes, header CRC: 0x4BA4360E, created: 2014-07-24 09:20:00, image size: 35486 bytes, Data Address: 0x80010000, Entry Point: 0x80010000, data CRC: 0x73883014, OS: Linux, CPU: MIPS, image type: Firmware Image, compression type: lzma, image name: "u-boot image"
+14792         0x39C8          LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 101164 bytes
+131584        0x20200         TP-Link firmware header, firmware version: 0.0.3, image version: "", product ID: 0x0, product version: 138477576, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 3932160, kernel length: 512, rootfs offset: 815186, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0
+132096        0x20400         LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 2325620 bytes
+1180160       0x120200        Squashfs filesystem, little endian, version 4.0, compression:lzma, size: 2513544 bytes, 534 inodes, blocksize: 131072 bytes, created: 2014-07-24 09:35:46
+
+
+Scan Time:     2025-08-22 12:38:10
+Target File:   /output/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/39C8
+MD5 Checksum:  4c3dda5b6dabdce67b96bf62939cd6d8
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+86928         0x15390         U-Boot version string, "U-Boot 1.1.4 (Jul 24 2014 - 17:19:52)"
+87072         0x15420         CRC32 polynomial table, big endian
+
+
+Scan Time:     2025-08-22 12:38:10
+Target File:   /output/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/20400
+MD5 Checksum:  0e09146b73f576bcf1a7df247e48d03a
+Signatures:    411
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+78968         0x13478         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+79320         0x135D8         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+79764         0x13794         Certificate in DER format (x509 v3), header length: 4, sequence length: 30
+1777696       0x1B2020        Linux kernel version 2.6.31
+1823632       0x1BD390        CRC32 polynomial table, little endian
+2055583       0x1F5D9F        Neighborly text, "neighbor %.2x%.2x.%.2x:%.2x:%.2x:%.2x:%.2x:%.2x lost on port %d(%s)(%s)"
+

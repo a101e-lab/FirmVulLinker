@@ -1,0 +1,134 @@
+{
+    "1": {
+        "Target File": "/firmware/wr841nv8_en_3_15_9_up_boot(140724).bin",
+        "MD5": "94ff0a77cdcb34b2286cec7f8f45c348",
+        "0": {
+            "signature_id": 70,
+            "offset_DECIMAL": 0,
+            "offset_HEXADECIMAL": "0x0",
+            "DESCRIPTION": "TP-Link firmware header, firmware version: 0.-15770.3, image version: \"\", product ID: 0x0, product version: 138477576, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 4063744, kernel length: 512, rootfs offset: 815186, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0"
+        },
+        "1": {
+            "signature_id": 95,
+            "offset_DECIMAL": 13392,
+            "offset_HEXADECIMAL": "0x3450",
+            "DESCRIPTION": "U-Boot version string, \"U-Boot 1.1.4 (Jul 24 2014 - 17:19:59)\""
+        },
+        "2": {
+            "signature_id": 43,
+            "offset_DECIMAL": 13440,
+            "offset_HEXADECIMAL": "0x3480",
+            "DESCRIPTION": "CRC32 polynomial table, big endian"
+        },
+        "3": {
+            "signature_id": 115,
+            "offset_DECIMAL": 14728,
+            "offset_HEXADECIMAL": "0x3988",
+            "DESCRIPTION": "uImage header, header size: 64 bytes, header CRC: 0x4BA4360E, created: 2014-07-24 09:20:00, image size: 35486 bytes, Data Address: 0x80010000, Entry Point: 0x80010000, data CRC: 0x73883014, OS: Linux, CPU: MIPS, image type: Firmware Image, compression type: lzma, image name: \"u-boot image\""
+        },
+        "4": {
+            "signature_id": 85,
+            "offset_DECIMAL": 14792,
+            "offset_HEXADECIMAL": "0x39c8",
+            "DESCRIPTION": "LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 101164 bytes"
+        },
+        "5": {
+            "signature_id": 70,
+            "offset_DECIMAL": 131584,
+            "offset_HEXADECIMAL": "0x20200",
+            "DESCRIPTION": "TP-Link firmware header, firmware version: 0.0.3, image version: \"\", product ID: 0x0, product version: 138477576, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 3932160, kernel length: 512, rootfs offset: 815186, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0"
+        },
+        "6": {
+            "signature_id": 85,
+            "offset_DECIMAL": 132096,
+            "offset_HEXADECIMAL": "0x20400",
+            "DESCRIPTION": "LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 2325620 bytes"
+        },
+        "7": {
+            "signature_id": 34,
+            "offset_DECIMAL": 1180160,
+            "offset_HEXADECIMAL": "0x120200",
+            "DESCRIPTION": "Squashfs filesystem, little endian, version 4.0, compression:lzma, size: 2513544 bytes, 534 inodes, blocksize: 131072 bytes, created: 2014-07-24 09:35:46"
+        }
+    },
+    "2": {
+        "Target File": "/output/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/39C8",
+        "MD5": "4c3dda5b6dabdce67b96bf62939cd6d8",
+        "0": {
+            "signature_id": 95,
+            "offset_DECIMAL": 86928,
+            "offset_HEXADECIMAL": "0x15390",
+            "DESCRIPTION": "U-Boot version string, \"U-Boot 1.1.4 (Jul 24 2014 - 17:19:52)\""
+        },
+        "1": {
+            "signature_id": 43,
+            "offset_DECIMAL": 87072,
+            "offset_HEXADECIMAL": "0x15420",
+            "DESCRIPTION": "CRC32 polynomial table, big endian"
+        }
+    },
+    "3": {
+        "Target File": "/output/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/20400",
+        "MD5": "0e09146b73f576bcf1a7df247e48d03a",
+        "0": {
+            "signature_id": 21,
+            "offset_DECIMAL": 78968,
+            "offset_HEXADECIMAL": "0x13478",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "1": {
+            "signature_id": 21,
+            "offset_DECIMAL": 79320,
+            "offset_HEXADECIMAL": "0x135d8",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "2": {
+            "signature_id": 21,
+            "offset_DECIMAL": 79764,
+            "offset_HEXADECIMAL": "0x13794",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "3": {
+            "signature_id": 42,
+            "offset_DECIMAL": 1777696,
+            "offset_HEXADECIMAL": "0x1b2020",
+            "DESCRIPTION": "Linux kernel version 2.6.31"
+        },
+        "4": {
+            "signature_id": 43,
+            "offset_DECIMAL": 1823632,
+            "offset_HEXADECIMAL": "0x1bd390",
+            "DESCRIPTION": "CRC32 polynomial table, little endian"
+        },
+        "5": {
+            "signature_id": 155,
+            "offset_DECIMAL": 2055583,
+            "offset_HEXADECIMAL": "0x1f5d9f",
+            "DESCRIPTION": "Neighborly text, \"neighbor %.2x%.2x.%.2x:%.2x:%.2x:%.2x:%.2x:%.2x lost on port %d(%s)(%s)\""
+        }
+    },
+    "VECTOR": [
+        [
+            70,
+            95,
+            43,
+            115,
+            85,
+            70,
+            85,
+            34
+        ],
+        [
+            95,
+            43
+        ],
+        [
+            21,
+            21,
+            21,
+            42,
+            43,
+            155
+        ]
+    ]
+}

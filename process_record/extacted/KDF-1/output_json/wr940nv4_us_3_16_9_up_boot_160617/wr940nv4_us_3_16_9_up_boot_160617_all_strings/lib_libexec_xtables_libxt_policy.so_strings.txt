@@ -1,0 +1,97 @@
+%sreqid%u
+policymatch:double--reqidoption
+[!]--tunnel-srcaddr/mask	matchtunnelsource
+policymatch:neither--innor--outspecified
+_edata
+policymatch:double--tunnel-dstoption
+xtables_register_matches
+policymatch:double--strictoption
+xtables_ipmask_to_numeric
+policymatch:emptypolicyelement
+%sspi0x%x
+policytobeappliedduringencapsulation
+strict
+policymatch:can'tinvert--diroption
+policymatch:nameresolvestomultipleips
+policymatch
+reqid
+--polnone|ipsec		matchpolicy
+__deregister_frame_info
+%stunnel-dst%s%s
+policy
+optind
+%smode
+%sdirout
+policymatch:invalidmode"%s"
+ipsec
+_fbss
+tunnel-dst
+[!]--modemode		matchmode(transport/tunnel)
+strcmp
+[!]--spispi			matchspi
+%stunnel-src%s%s
+xtables_strtoui
+xtables_ip6addr_to_numeric
+[!]--protoproto		matchprotocol(ah/esp/ipcomp)
+xtables_ipparse_any
+_fdata
+xtables_check_inverse
+xtables_ipaddr_to_numeric
+policymatch:double--protooption
+optarg
+_ftext
+getprotobynumber
+%sdirin
+policymatch:invalidpolicy"%s"
+--strict			matchentirepolicyinsteadofsingleelement
+[!]--tunnel-dstaddr/mask	matchtunneldestination
+xt_params
+__bss_start
+__register_frame_info
+policymatch:policynonebut--strictgiven
+xtables_ip6parse_any
+libxtables.so.2
+tunnel
+policymatch:double--diroption
+policymatch:maximumpolicydepthreached
+glibc_2.0
+libc.so.0
+printf
+xtables_param_act
+%spolnone
+policy_match:invaliddir"%s"
+atanyposition
+policymatch:can'tinvert--policyoption
+tunnel-src
+--next
+transport
+proto
+libgcc_s.so.1
+_gp_disp
+xtables_ip6mask_to_numeric
+%sproto
+_fini
+policymatch:multipleelementsbutno--strict
+policymatch:policynonebutpolicygiven
+transport
+policymatch:can'tinvert--strictoption
+__cxa_finalize
+tunnel
+policymatch:double--modeoption
+--dirin|out			matchpolicyappliedduringdecapsulation/
+%spolipsec
+_jv_registerclasses
+_global_offset_table_
+--next			beginnextelementinpolicy
+[!]--reqidreqid		matchreqid
+%sstrict
+libxt_policy_init
+policymatchoptions:
+--spi
+policymatch:double--spioption
+policymatch:noparametersgiven
+policymatch:can'tinvert--nextoption
+policymatch:protocolmustah/esp/ipcomp
+policymatch:--tunnel-src/--tunnel-dstisonlyvalidintunnelmode
+policymatch:double--tunnel-srcoption
+xtables_parse_protocol

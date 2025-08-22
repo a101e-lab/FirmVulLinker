@@ -1,0 +1,11 @@
+_global_offset_table_
+_ftext
+_fdata
+libc.so.0
+libresolv.so.0
+_edata
+__bss_start
+__dl_ldso__
+__stub1
+/lib/ld-uclibc.so.0
+_fbss

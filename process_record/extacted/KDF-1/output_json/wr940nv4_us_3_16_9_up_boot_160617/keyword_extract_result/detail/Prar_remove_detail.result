@@ -1,0 +1,457 @@
+Prar name : Back
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/popupSiteSurveyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MailResultRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/confUploadErrorRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanWpsChkModeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/errorPage.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingFindRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/GetGMTRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanAutoTypeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+	Bin File: 
+
+Prar name : Changed
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+	Bin File: 
+
+Prar name : Next
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdL2TPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlHostAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStaticIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdDynaIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPTPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPPoERpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWlanRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanMacRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStartRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTroubleShootingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTypeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlSchedAddRpm.htm
+	Bin File: 
+
+Prar name : NextPage
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemLogRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemStatisticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanStationRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+	Bin File: 
+
+Prar name : Page
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemLogRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+	Bin File: 
+
+Prar name : PrevPage
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemLogRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemStatisticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanStationRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+	Bin File: 
+
+Prar name : Return
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdL2TPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlHostAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStaticIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdDynaIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPTPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlRuleAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWlanRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdEndRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanMacRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MiscShowRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTroubleShootingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPPoERpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTypeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanDisconnRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AutoEmailRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlSchedAddRpm.htm
+	Bin File: 
+
+Prar name : Save
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ChangeLoginPwdRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/CmxDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanIpv6EnableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LoginRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPTPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanDhcpServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LocalManageControlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MacCloneCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DynDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Wan6to4TunnelCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BasicSecurityRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DMZRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NoipDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanIPv6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanSecurityRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/L2TPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NetworkCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AutoEmailRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AdvScrRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DateTimeCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanNetworkRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoEv6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ManageControlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BPACfgRpm.htm
+	Bin File: 
+
+Prar name : SelIndex
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+	Bin File: 
+
+Prar name : autoWidth
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/IPv6StatusRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanDhcpServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemLogRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdDynaIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SysRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanMacRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BakNRestoreRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/L2TPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWlanRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DiagnosticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpmAdv.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MailResultRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AdvScrRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StatusRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AssignedIpAddrListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ChangeLoginPwdRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/CmxDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SoftwareUpgradeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ManageControlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStartRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/popupSiteSurveyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DMZRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NoipDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SysRebootRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanSecurityRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/errorPage.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanAutoTypeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanNetworkRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BPACfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanIpv6EnableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanWpsChkModeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlSchedAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanIPv6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/UpnpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/help/DdnsAddComexeHelpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/RestoreDefaultCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NetworkCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AutoEmailRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DateTimeCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingFindRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemStatisticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanStationRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPTPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/confUploadErrorRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DynDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Wan6to4TunnelCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LocalManageControlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MiscShowRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanDisconnRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WpsCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlRuleAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlHostAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MacCloneCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoEv6CfgRpm.htm
+	Bin File: 
+
+Prar name : t_id
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MiscShowRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/UpnpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+	Bin File: 
+
+Prar name : t_ip_addr
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlHostAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/LanArpBindingFindRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPTPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StatusRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Wan6to4TunnelCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SystemStatisticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+	Bin File: 
+
+Prar name : t_modify
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlTimeSchedRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlHostsListsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessTargetsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+	Bin File: 
+
+Prar name : t_status
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DMZRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/ParentCtrlRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanMacFilterRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdAccessCtrlRuleAddRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/UpnpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesAdvRpm.htm
+	Bin File: 
+
+Prar name : t_title
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/CmxDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanIpv6EnableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SoftwareUpgradeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanWpsChkModeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/confUploadErrorRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStartRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTroubleShootingRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AccessCtrlAccessRulesRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MacCloneCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/IPv6StatusRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DynDdnsRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/popupSiteSurveyRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdDynaIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BasicSecurityRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DMZRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SysRebootRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanMacRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/MiscShowRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/GetGMTRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanSecurityRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/StaticRouteTableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdL2TPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdStaticIpRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/errorPage.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPTPRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWlanRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/DiagnosticRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/FixMapCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdWanTypeRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/NetworkCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/AdvScrRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/QoSRuleListRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/VirtualServerAdvRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WlanNetworkRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/SpecialAppRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WzdPPPoERpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoEv6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BPACfgRpm.htm
+	Bin File: 
+
+Prar name : wantype
+Source File : 
+	Text File: 
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanIpv6EnableRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/L2TPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/Wan6to4TunnelCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/BPACfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPTPCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpV6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoECfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanStaticIpCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/PPPoEv6CfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanSlaacCfgRpm.htm
+		/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/web/userRpm/WanDynamicIpCfgRpm.htm
+	Bin File: 
+

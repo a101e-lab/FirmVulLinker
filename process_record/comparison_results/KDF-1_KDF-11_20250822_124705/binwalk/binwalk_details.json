@@ -1,0 +1,16 @@
+{
+    "binwalk_file1": "../process_record/extacted/KDF-1/binwalk_docker_result/binwalk_log/wr940nv4_us_3_16_9_up_boot_160617.json",
+    "binwalk_file2": "../process_record/extacted/KDF-11/binwalk_docker_result/binwalk_log/wr841nv8_en_3_15_9_up_boot(140724).json",
+    "ngram_size": [
+        3
+    ],
+    "set_similarity": 0.875,
+    "frequency_similarity": 0.9354143466934853,
+    "combined_similarity": 0.9052071733467426,
+    "vector1_length": 18,
+    "vector2_length": 16,
+    "ngrams1_count": 16,
+    "ngrams2_count": 14,
+    "common_ngrams_count": 14,
+    "common_ngrams_sample": "[(43, 115, 85), (70, 95, 43), (43, 21, 21), (42, 43, 155), (85, 70, 85), (95, 43, 115), (34, 95, 43), (85, 34, 95), (21, 21, 21), (70, 85, 34)]"
+}

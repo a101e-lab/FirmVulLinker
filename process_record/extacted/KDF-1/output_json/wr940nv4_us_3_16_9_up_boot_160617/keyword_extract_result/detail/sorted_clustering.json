@@ -1,0 +1,291 @@
+[
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/bin/httpd",
+        "strings_count": 10516,
+        "para_api_count": 407,
+        "para_count": 334,
+        "numof_para_source_files": 88,
+        "api_count": 73,
+        "numof_api_source_files": 37,
+        "httpd": [
+            10516,
+            407,
+            334,
+            88,
+            73,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/hostapd",
+        "strings_count": 2716,
+        "para_api_count": 60,
+        "para_count": 56,
+        "numof_para_source_files": 54,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "hostapd": [
+            2716,
+            60,
+            56,
+            54,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/pppd",
+        "strings_count": 2229,
+        "para_api_count": 56,
+        "para_count": 52,
+        "numof_para_source_files": 55,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "pppd": [
+            2229,
+            56,
+            52,
+            55,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/wpa_supplicant",
+        "strings_count": 1896,
+        "para_api_count": 46,
+        "para_count": 42,
+        "numof_para_source_files": 50,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "wpa_supplicant": [
+            1896,
+            46,
+            42,
+            50,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/xl2tpd",
+        "strings_count": 865,
+        "para_api_count": 36,
+        "para_count": 32,
+        "numof_para_source_files": 43,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "xl2tpd": [
+            865,
+            36,
+            32,
+            43,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/dropbearmulti",
+        "strings_count": 1612,
+        "para_api_count": 36,
+        "para_count": 32,
+        "numof_para_source_files": 37,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "dropbearmulti": [
+            1612,
+            36,
+            32,
+            37,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/tc",
+        "strings_count": 1188,
+        "para_api_count": 33,
+        "para_count": 29,
+        "numof_para_source_files": 32,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "tc": [
+            1188,
+            33,
+            29,
+            32,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/dhcp6c",
+        "strings_count": 1131,
+        "para_api_count": 31,
+        "para_count": 27,
+        "numof_para_source_files": 33,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "dhcp6c": [
+            1131,
+            31,
+            27,
+            33,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/dhcp6s",
+        "strings_count": 1076,
+        "para_api_count": 31,
+        "para_count": 27,
+        "numof_para_source_files": 33,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "dhcp6s": [
+            1076,
+            31,
+            27,
+            33,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/bin/lld2d",
+        "strings_count": 474,
+        "para_api_count": 24,
+        "para_count": 20,
+        "numof_para_source_files": 31,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "lld2d": [
+            474,
+            24,
+            20,
+            31,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/iptables-multi",
+        "strings_count": 482,
+        "para_api_count": 20,
+        "para_count": 16,
+        "numof_para_source_files": 26,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "iptables-multi": [
+            482,
+            20,
+            16,
+            26,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/iwlist",
+        "strings_count": 314,
+        "para_api_count": 18,
+        "para_count": 14,
+        "numof_para_source_files": 18,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "iwlist": [
+            314,
+            18,
+            14,
+            18,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/wifitool",
+        "strings_count": 274,
+        "para_api_count": 18,
+        "para_count": 14,
+        "numof_para_source_files": 23,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "wifitool": [
+            274,
+            18,
+            14,
+            23,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/radvd",
+        "strings_count": 686,
+        "para_api_count": 17,
+        "para_count": 13,
+        "numof_para_source_files": 32,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "radvd": [
+            686,
+            17,
+            13,
+            32,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/iwconfig",
+        "strings_count": 211,
+        "para_api_count": 14,
+        "para_count": 10,
+        "numof_para_source_files": 12,
+        "api_count": 4,
+        "numof_api_source_files": 37,
+        "iwconfig": [
+            211,
+            14,
+            10,
+            12,
+            4,
+            37
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/usr/sbin/bpalogin",
+        "strings_count": 214,
+        "para_api_count": 13,
+        "para_count": 13,
+        "numof_para_source_files": 22,
+        "api_count": 0,
+        "numof_api_source_files": 0,
+        "bpalogin": [
+            214,
+            13,
+            13,
+            22,
+            0,
+            0
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/squashfs-root/sbin/wlanconfig",
+        "strings_count": 285,
+        "para_api_count": 11,
+        "para_count": 11,
+        "numof_para_source_files": 21,
+        "api_count": 0,
+        "numof_api_source_files": 0,
+        "wlanconfig": [
+            285,
+            11,
+            11,
+            21,
+            0,
+            0
+        ]
+    }
+]

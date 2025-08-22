@@ -1,0 +1,50 @@
+%s--physdev-is-out
+xtables_register_match
+_fini
+%s--physdev-in%s
+physdev-is-in
+physdev-is-bridged
+_edata
+[!]--physdev-ininputname[+]		bridgeportname([+]forwildcard)
+libxtables.so.2
+physdev:nophysdevoptionspecified
+%s--physdev-is-in
+[!]--physdev-is-in			arrivedonabridgedevice
+__cxa_finalize
+[!]--physdev-is-bridged		it'sabridgedpacket
+%s--physdev-in%s
+%s--physdev-is-out
+physdev
+glibc_2.0
+putchar
+physdev-in
+libc.so.0
+xtables_parse_interface
+printf
+%s--physdev-is-in
+%s--physdev-is-bridged
+_jv_registerclasses
+_global_offset_table_
+%s--physdev-out%s
+physdev-out
+physdevmatchoptions:
+_fdata
+xtables_check_inverse
+physdevmatch
+optarg
+libxt_physdev_init
+%s--physdev-is-bridged
+_ftext
+__deregister_frame_info
+libgcc_s.so.1
+[!]--physdev-is-out			willleaveonabridgedevice
+[!]--physdev-outoutputname[+]	bridgeportname([+]forwildcard)
+%s--physdev-out%s
+_gp_disp
+optind
+xt_params
+physdev-is-out
+__bss_start
+multipleuseofthesamephysdevoptionisnotallowed
+__register_frame_info
+_fbss

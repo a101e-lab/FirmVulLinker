@@ -1,0 +1,1 @@
+proto Lease discover t_ssid broadcast rate Discover Complete number State protocol mask ping t_ip mode band t_time timeout 

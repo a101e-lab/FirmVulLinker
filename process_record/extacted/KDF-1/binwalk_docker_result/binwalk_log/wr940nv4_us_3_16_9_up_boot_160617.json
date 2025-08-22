@@ -1,0 +1,148 @@
+{
+    "1": {
+        "Target File": "/firmware/wr940nv4_us_3_16_9_up_boot_160617.bin",
+        "MD5": "3c81fc3681847f53d3a6198a76b35241",
+        "0": {
+            "signature_id": 70,
+            "offset_DECIMAL": 0,
+            "offset_HEXADECIMAL": "0x0",
+            "DESCRIPTION": "TP-Link firmware header, firmware version: 0.-6309.3, image version: \"\", product ID: 0x0, product version: 155189252, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 4063744, kernel length: 512, rootfs offset: 865629, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0"
+        },
+        "1": {
+            "signature_id": 95,
+            "offset_DECIMAL": 15552,
+            "offset_HEXADECIMAL": "0x3cc0",
+            "DESCRIPTION": "U-Boot version string, \"U-Boot 1.1.4 (Jun 17 2016 - 16:14:48)\""
+        },
+        "2": {
+            "signature_id": 43,
+            "offset_DECIMAL": 15600,
+            "offset_HEXADECIMAL": "0x3cf0",
+            "DESCRIPTION": "CRC32 polynomial table, big endian"
+        },
+        "3": {
+            "signature_id": 115,
+            "offset_DECIMAL": 16900,
+            "offset_HEXADECIMAL": "0x4204",
+            "DESCRIPTION": "uImage header, header size: 64 bytes, header CRC: 0xDC5CE357, created: 2016-06-17 08:14:49, image size: 42775 bytes, Data Address: 0x80010000, Entry Point: 0x80010000, data CRC: 0x5C656922, OS: Linux, CPU: MIPS, image type: Firmware Image, compression type: lzma, image name: \"u-boot image\""
+        },
+        "4": {
+            "signature_id": 85,
+            "offset_DECIMAL": 16964,
+            "offset_HEXADECIMAL": "0x4244",
+            "DESCRIPTION": "LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 113496 bytes"
+        },
+        "5": {
+            "signature_id": 70,
+            "offset_DECIMAL": 131584,
+            "offset_HEXADECIMAL": "0x20200",
+            "DESCRIPTION": "TP-Link firmware header, firmware version: 0.0.3, image version: \"\", product ID: 0x0, product version: 155189252, kernel load address: 0x0, kernel entry point: 0x80002000, kernel offset: 3932160, kernel length: 512, rootfs offset: 865629, rootfs length: 1048576, bootloader offset: 2883584, bootloader length: 0"
+        },
+        "6": {
+            "signature_id": 85,
+            "offset_DECIMAL": 132096,
+            "offset_HEXADECIMAL": "0x20400",
+            "DESCRIPTION": "LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 2496188 bytes"
+        },
+        "7": {
+            "signature_id": 34,
+            "offset_DECIMAL": 1180160,
+            "offset_HEXADECIMAL": "0x120200",
+            "DESCRIPTION": "Squashfs filesystem, little endian, version 4.0, compression:lzma, size: 2691712 bytes, 584 inodes, blocksize: 131072 bytes, created: 2016-06-17 08:23:55"
+        }
+    },
+    "2": {
+        "Target File": "/output/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/4244",
+        "MD5": "28e65a155366469094aa17358fef3edc",
+        "0": {
+            "signature_id": 95,
+            "offset_DECIMAL": 95776,
+            "offset_HEXADECIMAL": "0x17620",
+            "DESCRIPTION": "U-Boot version string, \"U-Boot 1.1.4 (Jun 17 2016 - 16:14:46)\""
+        },
+        "1": {
+            "signature_id": 43,
+            "offset_DECIMAL": 95920,
+            "offset_HEXADECIMAL": "0x176b0",
+            "DESCRIPTION": "CRC32 polynomial table, big endian"
+        }
+    },
+    "3": {
+        "Target File": "/output/_wr940nv4_us_3_16_9_up_boot_160617.bin.extracted/20400",
+        "MD5": "16f143875833d4595c642545c27831d6",
+        "0": {
+            "signature_id": 21,
+            "offset_DECIMAL": 78604,
+            "offset_HEXADECIMAL": "0x1330c",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "1": {
+            "signature_id": 21,
+            "offset_DECIMAL": 78944,
+            "offset_HEXADECIMAL": "0x13460",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "2": {
+            "signature_id": 21,
+            "offset_DECIMAL": 79360,
+            "offset_HEXADECIMAL": "0x13600",
+            "DESCRIPTION": "Certificate in DER format (x509 v3), header length: 4, sequence length: 30"
+        },
+        "3": {
+            "signature_id": 42,
+            "offset_DECIMAL": 1925152,
+            "offset_HEXADECIMAL": "0x1d6020",
+            "DESCRIPTION": "Linux kernel version 2.6.31"
+        },
+        "4": {
+            "signature_id": 43,
+            "offset_DECIMAL": 1971136,
+            "offset_HEXADECIMAL": "0x1e13c0",
+            "DESCRIPTION": "CRC32 polynomial table, little endian"
+        },
+        "5": {
+            "signature_id": 155,
+            "offset_DECIMAL": 2207324,
+            "offset_HEXADECIMAL": "0x21ae5c",
+            "DESCRIPTION": "Neighborly text, \"NeighborSolicits/ipv6/inet6_hashtables.c\""
+        },
+        "6": {
+            "signature_id": 155,
+            "offset_DECIMAL": 2207344,
+            "offset_HEXADECIMAL": "0x21ae70",
+            "DESCRIPTION": "Neighborly text, \"NeighborAdvertisementses.c\""
+        },
+        "7": {
+            "signature_id": 155,
+            "offset_DECIMAL": 2208327,
+            "offset_HEXADECIMAL": "0x21b247",
+            "DESCRIPTION": "Neighborly text, \"neighbor %.2x%.2x.%.2x:%.2x:%.2x:%.2x:%.2x:%.2x lost on port %d(%s)(%s)\""
+        }
+    },
+    "VECTOR": [
+        [
+            70,
+            95,
+            43,
+            115,
+            85,
+            70,
+            85,
+            34
+        ],
+        [
+            95,
+            43
+        ],
+        [
+            21,
+            21,
+            21,
+            42,
+            43,
+            155,
+            155,
+            155
+        ]
+    ]
+}

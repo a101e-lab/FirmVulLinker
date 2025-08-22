@@ -1,0 +1,1551 @@
+klogctl
+create
+couldnotloadseedfrom/dev/urandom:%m
+tuntil
+gethostname
+buserror
+kill_init
+sendingselectfor%s...
+o:rt:wafnv
+%s:dupproblem:%m
+noexec
+sendingrelease...
+?pc?d?b?-?l?s???rwxstst
+permissiondenied.(areyouroot?)
+txqueuelen
+getgroups
+-mmin		minutesbetweenmarklines(default=20,0=off)
+/var/run/udhcpd.pid
+%s%saddr=%s
+parameterproblem
+memory:%lx-%lx
+from%svia%s
+bb_path_securetty_file
+[unknown]
+[-fqbdua][-ccount][-wtimeout][-idevice][-ssender]target
+dhcpcenteringreleasedstate
+dhcpcdhcpserviceunavailable,recvnooffer
+tcsetattr
+strchr
+showsthemessagesfromsyslogd(usingcircularbuffer).
+bridge%sdoesn'texist;can'tdeleteit
+/dev/%s:cannotopenasstandardinput:%m
+notrailers
+statfs64
+-ttimeout	terminateaftertimeoutifnousernameisread.
+[option]{hostname|-ffile}
+built-incommands:
+showstp		<bridge>		showbridgestpinfo
+bindresvport
+you'llhavetoseethewrittendocumentationforthosefilesystems.
+herefile
+bb_get_last_path_component
+rebootthesystem.
+-ror-r	removethecontentsofdirectoriesrecursively
+devicenotfound
+dhcps:%x%x
+designatedport	%.4x
+logger
+(orfilewiththe-fparameter),thehostnamewillbeset.
+%4i.%.2i
+atime/noatime:	enable/disableupdatestoinodeaccesstimes.
+lprsvr
+%d.%d.%d-%d:%d:%d
+getprotobyname
+get_raw_packet
+openlog
+bb_vfprintf
+[-a]<interface>[<address>]
+-host
+reboot
+busyboxv1.01(2014.07.24-09:31+0000)built-inshell(msh)
+unicastrenew
+udhcp_sp_setup
+[[-]broadcast[<address>]][[-]pointopoint[<address>]]
+or[expression]
+-%02x
+find_real_root_device_name
+cannotrun%s
+print_login_issue
+writeerror
+local1
+bsearch
+10baset
+unabletoopen`%s'
+sendnak
+reject
+state			%s
+broadcast
+undefinederror
+dhcpcrecvackfromserver%xwithip%xleasetime%ld
+rootport		%4i
+darpainternet
+options:
+-r	changesfilesanddirectoriesrecursively.
+process'%s'(pid%d)exited.schedulingitforrestart.
+br_init
+can'tfindport%sinbridge%s
+%02x-
+getcwd()
+bb_xgetularg_bnd
+__fgetc_unlocked
+[add<address>[/<prefixlen>]]
+showstp
+sethello
+indicatethatallfollowingargumentsarenon-options.
+compressed
+bb_xgetularg_bnd_sfx
+5serverid
+youmayuse'--'toindicatethatallfollowingargumentsarenon-options.
+[{add|del|delete}]
+-q		bequiet
+leases_shm
+device%sisalreadyamemberofabridge;can'tenslaveittobridge%s.
+[option]...host[port]
+-a:		mountallfilesystemsinfstab.
+unloadsthespecifiedkernelmodulesfromthekernel.
+sigsegv
+bb_path_mtab_file
+cannotcreatesocket
+%s:badnumber
+/sbin/swapoff-a
+on`%.100s'from`%.200s'
+_dynamic_linking
+bb_xfflush_stdout
+bb_xferror
+thereareevenmoreflagsthatarespecifictoeachfilesystem.
+%9lld
+invert_runtime_dhcp_flags
+%c%d%*s%*s%*s%*s%*s%*s%*s%*s%*s%*s%*s%*s%*s%*s%ld%*s%*s%*s%*s%ld
+%sbusy-remountedread-only
+isread-only
+pathcost		%4i
+create,deleteandconfigueethernetbridge.
+bb_default_error_retval
+[option]...module[symbol=value]...
+retrans
+xdr_string
+opensatty,promptsforaloginname,theninvokes/bin/login
+<emptysyslog>
+getnetbyname
+path=/usr/bin:/bin:/usr/sbin:/sbin
+dhcpc:get%dstaticroutefrommicrosoftclasslessstaticrouteoption(249)
+kernellogdaemonexiting.
+lsmod
+cannotuse${...=...}with$n
+bb_parse_mode
+checksum
+siocgifaddrfailed,istheinterfaceupandconfigured?:%m
+%4lld
+unixsocketerror
+-ccount	stopaftersendingcountarprequestpackets
+,	/-
+e$cl,
+reloading/etc/inittab
+if_nameindex
+:cannot
+bb_printf
+accessviolation
+%02x
+device%sisabridgedeviceitself;can'tenslaveabridgedevicetoabridgedevice.
+unknownnfsmountparameter:%s=%d
+mktime
+/etc/profile
+execve
+dhcps:sendofferwithip%s
+returnanexitcodeoffalse(1).
+designatedroot
+-x	listentriesbylinesinsteadofbycolumns
+__stdin
+%s:can'texec%s:%m
+siocsifaddr
+socketorioctlerrorfor%s
+addressmaskrequest
+shell=/bin/sh
+__environ
+bb_xgetularg10
+/dev/
+usage:%s%s
+namlen
+setfd
+flags:
+msglogd
+-s		makeloggingoutputsmaller.
+leaseof%sobtained,leasetime%ld
+%sfrom
+rs:ud:r:
+procps_scan
+br_set_bridge_max_age
+-c	listentriesbycolumns
+[-r]mode[,mode]...file...
+gethostbyaddr
+-b		keepbroadcasting,don'tgounicast
+__register_frame_info
+editthekernel'sroutingtables.
+show					showalistofbridges
+bb_opt_complementaly
+gethostbyname2
+kernel
+forcedumountof%sfailed!
+getaddrinfo
+bb_wfopen_input
+unabletodeterminettyname,got%s
+8maxsize
+xdr_u_int
+pointopoint
+-u		printsorsetscoordinateduniversaltime
+%s.%s
+%5.5s
+conflict_time
+%4s%4s%4s%4s%4s%4s%4s%4s%02x%02x%02x%02x%20s
+resolving%s
+/bin/umount-a-r
+vlan_plus_vid
+interrupt:%d
+run_script
+notice
+informationreply
+sendingrenew...
+displaysthecurrenttimeinthegivenformat,orsetsthesystemdate.
+%-43s%-39s%-5s%-6d%-2d%7d%-8s
+linuxsystemandkernelloggingutility.
+%s%dbroadcast(s)
+option
+#host
+siocsifmetric
+select
+chdir
+cannotremount%sread-only
+setsid
+xdr_int
+__fpcmp_parts_d
+send_renew
+:baddirectory
+inet_rresolve
+swapsvr
+192.168.1.100
+txqueuelen:%d
+endgrent
+-e		displayother/moreinformation.
+vconfigletsyoucreateandremovevirtualethernetdevices.
+getenv
+fstat64
+unabletoopenpidfile%s:%m
+-v	sortthelistingbyversion
+rootpath
+dhcpc:offeredaddressisinuse(gotarpreply),senddecline
+-i	listthei-nodeforeachfile
+inputlinetoolong
+concat_subpath_file
+deconfig
+outofstringspace
+rsize
+umask
+bb_skip_whitespace
+dynamic
+dhcps:noipaddressestogive,offerabandoned
+setgid
+bb_herror_msg_and_die
+br_set_bridge_hello_time
+/proc/net/if_inet6
+0.9.9-pre
+destinationgatewaygenmaskflags%siface
+symlink
+udhcp_sp_ipc_inform
+clntudp_create
+%a,%d%b%y%h:%m:%sgmt
+set_name_type
+localtime
+/etc/fstab
+-f	removeexistingdestinationfiles
+mountprog
+abfnrtv\
+applets
+/dev/%s
+memcpy
+nfsovertcpisnotsupported.
+%n%lu%u%u%u%u%n%n%n%lu%u%u%u%u%u
+192.168.1.199
+set_name_type[name-type]
+fputc
+/dev/%s:notacharacterdevice
+fscanf
+%s:ioctl:%m
+[-u][file]...
+device%salreadyexists;can'tcreatebridgewiththesamename
+noprocesskilled
+%s:%sfailed,reasongivenbyserver:%s
+-rhost[:port]	logtoiporhostnameonport(defaultport=514/udp)
+fputs
+printsthespecifiedargstostdout
+timestamprequest
+router
+alert
+transfersafilefrom/toatftpserverusing"octet"mode.
+daemon
+bb_ask_confirmation
+unknownsymbolinmodule
+thisversionofpsacceptsnooptions.
+%-9.9slinkencap:%s
+br_get_state_name
+setageing
+config_pending
+herror
+warning
+stime
+__thenan_df
+%32s%x%*s%x%32s%x%x%x%x%s
+bb_perror_msg
+-l	listallsignalnamesandnumbers.
+dhcps:recvdiscoverfrom%02x:%02x:%02x:%02x:%02x:%02x
+password:
+bb_msg_invalid_date
+badpid'%s'
+/dev/tty%d
+%s:isadirectory
+:badnumber
+e$b2(
+authunix_create_default
+syntaxerror
+tbrace
+:nohomedirectory
+flags
+-hlogin_host	loglogin_hostintotheutmpfileasthehostname.
+-k	makemoduleautoclean-able.
+-f	donotauthenticate(useralreadyauthenticated)
+-h		enablehardware(rts/cts)flowcontrol.
+/procfilesystembealreadymounted.
+bridgeid
+msswindowirtt
+ttyname
+nfsv%dnotsupported!
+getsockname
+[del<address>[/<prefixlen>]]
+term=vt102
+bb_xfopen
+dhcpc:erroraftermacclone,can'treadwaninterfaceinformation
+bind:		usethelinux2.4.x"bind"feature.
+file'%s'notfound.
+shellinputnestedtoodeeply
+nfsprog
+if_nametoindex
+delif		<bridge><device>	deleteinterfacefrombridge
+/sbin/init
+-ooption:	oneofmanyfilesystemoptions,listedbelow.
+initistheparentofallprocesses.
+_global_offset_table_
+ld_library_path
+can'tfork!
+__ctype_tolower
+get_packet
+reply
+remove(unlink)thefile(s).youmayuse'--'to
+c:cfbh:h:i:np:qr:s:uv
+dhcps:requestip%xisnotintheaddresspool
+badtimeoutvalue:%s
+br_set_wlanwds
+netmask%.8xandhostrouteconflict
+klogd:errorreturnfromsys_sycall:%d-%m.
+broadcastrenew
+__lshrdi3
+[option]...host
+read_interface
+shell
+createalinknamedlink_nameordirectorytothespecifiedtarget
+async/sync:	writesareasynchronous/synchronous.
+siocsifbrdaddr
+messageagetimer
+symbols+-=andoneormoreofthelettersrwxst.
+-f	forceumount(i.e.,unreachablenfsserver)
+libmsglog.so
+/proc/net/ipv6_route
+setpgrp
+%ldpacketsreceived,
+set_ingress_map
+addif		<bridge><device>	addinterfacetobridge
+cadil1gnsxakcetusxrvlt:w:
+udhcpcd,version%s
+cookiesvr
+-a	removeallunusedmodules(recursively)
+warning:cannotchangetohomedirectory
+delete
+topologychangetimer
+learning
+usleep
+floatingpointexception
+tz=utc0
+%-21s%9ld%9ld%9ld%3ld%%%s
+[-ppidfile][-rip][-sscript]
+dhcpc:get%dstaticroutefromstaticrouteoption(33)
+destinationunreachable
+until
+neverheardofcommand[%s]
+bb_getopt_ulflags
+-w		waitforacrorlfbeforesending/etc/issue.
+ageingtime
+couldn'tumount%son%s:%s
+add_lease
+%h:%m:%s
+-dstring	displaystimedescribedbystring,not`now'
+addbr		<bridge>		addbridge
+libc.so.0
+3dhcptype
+codedeterminedbythevalueofexpression.
+remove_file
+dhcpcsendrequesttoserver%xwithrequestip%x
+trace/bpttrap
+%6.6s
+argumentlisttoolong
+msgq_ipc_send
+%s:outofrange
+currentlydefinedfunctions:
+piduidvmsizestatcommand
+__uclibc_main
+errno:%d
+%y.%m.%d-%h:%m:%s
+-f		outputdataastheloggrows
+configureanetworkinterface
+-a		arpanswermode,updateyourneighbours
+warning:interface%sisignored
+bb_xstrdup
+sethostname
+find_lease_by_yiaddr
+e$hl@
+vconfig
+:cannotredirectshellcommand
+fcntl64
+/etc/udhcpd.conf
+%lu%lu%u%u%u%u%u%u%lu%lu%u%u%u%u%u%u
+-s		setstimedescribedbystring
+/dev/%s:%m
+min_lease
+bootsize
+stringin${}toolong
+checksfiletypesandcomparesvaluesreturninganexit
+dhcpc_ipc_fork
+localfile
+showmacs	<bridge>		showalistofmacaddrs
+-l	listentriespointedtobysymboliclinks
+dhcpcunicastingareleaseof%sto%s
+can'tgetaccesstosemaphone(s)forcircularbufferfromsyslogd
+unabletoclose`%s'
+for%s
+[option]...[message]
+pidfile_acquire
+export
+/etc/issue
+unknownaddresstype;onlyaf_inetiscurrentlysupported.
+tpipe
+find_option
+start_log_and_pid
+/proc/mounts
+udhcp_logging
+-ssender	setspecificsenderipaddress
+br_set_path_cost
+umount
+setpathcost
+__tv_to_jiffies
+mmap64
+set_runtime_dhcp_flags
+rem[vlan-name]
+syslog
+break
+local6
+find_pid_by_name
+panic
+time=%lu.%lums
+%-44s%-40sflagsmetricrefuseiface
+tcgetpgrp
+bb_default_login_shell
+/etc/init.d/rcs
+-ccount	sendonlycountpings.
+-n	nodereferencesymlinks-treatlikenormalfile
+libgcc_s.so.1
+command[options]...
+multicast
+setpathcost	<bridge><port><cost>	setpathcost
+inet6
+globv
+2lease
+br_socket_fd
+trailers
+mtu:%dmetric:%d
+setbridgeprio	<bridge><prio>		setbridgepriority
+sethello	<bridge><time>		sethellotime
+is_directory
+term=linux
+bb_strlen
+delbr
+forwarddelaytimer
+setuid
+sigusr1
+toolongremote-filename
+allmulti
+[option]...[username][env=var...]
+an6deg
+/dev/console
+mountafilesystem.autodetectionoffilesystemtyperequiresthe
+bytes
+-r	sortthelistinginreverseorder
+rootfs
+portid		%.4x
+times
+thesystemishalted.pressresetorturnoffpower
+receivedbogusmessage,ignoring
+standardoutput
+klogd
+diskfullorallocationerror
+shutdown
+willactlikewhateveritwasinvokedas!
+br_device_ioctl
+br_set_bridge_priority
+!	hostname
+hwaddr%s
+acdirmax
+ping%s(%s):%ddatabytes
+warning:optionnamlenisnotsupported.
+vfork
+5ymscsrouter5
+logsvr
+1,nbnt
+setportprio	<bridge><port><prio>	setportpriority
+unicast
+on`%.100s'
+strtok
+prioritynames
+inet6_rresolve
+timeout
+interface%sisdown
+%5d%-8s%6ld%s
+random_xid
+-ppriority	enterthemessagewiththespecifiedpriority.
+klogdstarted:busyboxv1.01(2014.07.24-09:31+0000)
+f-i:i-f
+xdr_opaque
+invalidsourceaddress%s
+addstaticlease
+invalidorunknowntarget%s
+%drequest(s)
+msgget
+shmget
+retry
+bb_vperror_msg
+x'92p
+strstr
+readonly
+waitpid
+multicast
+sourcequench
+allocatedsharememory
+-c,	--clientid-none	suppressdefaultclientidentifier
+compat
+sleep
+getcell(0)
+addif
+siocsifmtu
+semop[smwup]
+/proc/%d/stat
+last_char_is
+-tfs-type:	specifythefilesystemtype.
+noleasetimewithack,using1hourlease
+dhcpcrecvnakfromserver%xwithip%x
+closelog
+/bin:/usr/bin
+-e	listbothfulldateandfulltime
+-fissue_file	displayissue_fileinsteadof/etc/issue.
+ghrdmdac
+dhcpc:parsemicrosoftclasslessstaticrouteoptionerror
+/dev/tty0
+warning:goticmp%d(%s)
+cannotremove`.'or`..'
+msgrcv
+modulehaswrongsymbolversion
+decline_time
+-s	short
+argumentexpected
+login:
+stderr
+strrchr
+hostname
+interface
+badsignalname'%s'
+[flags]devicenode[-ooptions,more-options]
+bb_msg_can_not_create_raw_socket
+ifconfig
+5/requestip
+bb_perror_msg_and_die
+cannotgetsysteminformation
+%s:read:%m
+metricrefuse
+getopt_long
+100basetx
+chown
+/dev/ttys%d
+-m		getbaudratefrommodem'sconnectstatusmessage.
+/dev/tty4
+5!ntpsrv
+getorsetthehostnameordnsdomainname.ifahostnameisgiven
+notethatthisversionofsyslogdignores/etc/syslog.conf.
+dhcps:recvdeclinefrom%02x:%02x:%02x:%02x:%02x:%02x
+bb_xstrndup
+getuid
+logintimedoutafter%dseconds.
+-p,	--pidfile=file	storeprocessidofdaemoninfile
+execv
+cannotsetgroupid
+running
+xdr_array
+.profile
+bridgename	bridgeid		stpenabled	interfaces
+strcmp
+interface%sisnotarpable
+e$b(0
+foreground
+nousableaddressfamiliesfound.
+modulesizeusedby
+[option]target...link_name|directory
+topology_change_detected
+bb_xferror_stdout
+clnttcp_create
+cannotcdtohomedirectoryor/
+[noflags]
+listdirectorycontents
+lease_file
+device
+-r	trytoremountdevicesasread-onlyifmountisbusy
+maxage
+dhcps:wrongserveridorrequestaninvalidip
+umount2
+timestampreply
+fread
+nfsbindresvport
+gpl:r:
+missing]
+telif
+semop[smrdn]
+reportprocessstatus
+warning:setsockopt(so_dontroute)
+weird!can'tfindtheterminatortokenfromthebeginning???
+send_selecting
+sendofferfailed
+destination
+display_interfaces
+execof'%s'failed:%m
+dhcp_options
+defaults
+loopback
+%a,%d%b%y%h:%m:%s%z
+sendto
+run_shell
+__rld_map
+[-1aaccdeilnlrssttuvwxxk][filenames...]
+lockf64
+-n		donotprompttheuserforaloginname.
+bb_applet_name
+_ftext
+-llogin_app	invokelogin_appinsteadof/bin/login.
+siogifindex
+vtalrm
+pidfile_write_release
+:cannotopen
+disabled
+showmacs
+_setjmp
+5+wins
+lseek64
+-v	verboseoutput
+receivedbogusmessage(badmagic)--ignoring
+__fixdfsi
+__pack_d
+logread
+bb_full_read
+br_del_interface
+can'topen/proc
+%sbelongstosomeone,reservingitfor%ldseconds
+enter'help'foralistofbuilt-incommands.
+dhcps:recvinformfrom%02x:%02x:%02x:%02x:%02x:%02x
+glibc_2.0
+compressed:%lu
+fflush
+strerror
+read_config
+%-8d%-8d
+-h,		aliasfor-h
+illegalinstruction
+bb_askpass
+signal0
+optind
+safe_strtol
+-rfile	remotefile.
+br_set_stp_state
+badinittabentry:%s
+end_option
+10base2
+mount
+linktobusyboxforeachfunctiontheywishtouseandbusybox
+nfsconnect
+[noneset]
+busybox_main
+local7
+0123456789
+dhcpc:parsestaticrouteoptionerror
+__ltdf2
+ethernet
+dhcps:requestip%xalreadyreservedby%02x:%02x:%02x:%02x:%02x:%02x
+dhcps:leasehostnamenotfound
+invalidpasswordfor`%s'%s
+strncmp
+cmdedit_read_input
+/dev/tty2
+getpagesize
+printthefilesystemspaceusedandspaceavailable.
+dhcps:sendackto%s
+[-signal]process-id[process-id...]
+msft5.0
+getaddrinfo:%s:%d
+socketpair
+local4
+/proc/modules
+readdir64
+sigemptyset
+unknownnfsmountoption:%s%s
+excessivelylongoptionargument
+delif
+isspace
+pmap_getport
+br_add_bridge
+__cxa_atexit
+round-tripmin/avg/max=%lu.%lu/%lu.%lu/%lu.%lums
+informationrequest
+holdtimer
+fgets
+proto
+rxpackets:%luerrors:%ludropped:%luoverruns:%luframe:%lu
+bb_msg_standard_output
+unspec
+-u	ignoredsinceunbufferedi/oisalwaysused
+option_lengths
+twhile
+cannotsetdate
+device%sisnotaslaveof%s
+allmulti
+acregmax
+%5d%-8s%s
+write
+unknownoperand
+[option]...
+/dev/null
+fclose
+-coredumped
+bridgeforwarddelay
+bb_vherror_msg
+(auto)
+:illegal>&argument
+%s(v%s)started
+busybox
+inet_ntoa
+setmaxage	<bridge><time>		setmaxmessageage
+h?bfduaqc:w:s:i:
+tparen
+-r:		mountthefilesystemread-only.
+pmap_getmaps
+msgq_ipc_rcv
+set_egress_map[vlan-name][skb_priority][vlan_qos]
+i:lh:f:hil:mt:wn
+octet
+usage:busybox[function][arguments]...
+static_lease
+appletnotfound
+-n	listnumericuidsandgidsinsteadofnames
+default
+bb_full_write
+bb_lookup_port
+create_icmp_socket
+interface"%s"isnotarpable(nolladdress)
+setageing	<bridge><time>		setageingtime
+memchr
+_fini
+socketfailed!:%m
+inet_pton
+signal
+%lu%lu%u%u%u%u%n%n%lu%lu%u%u%u%u%u
+topology_change
+-i,	--interface=interface	interfacetouse(default:eth0)
+loginincorrect
+atttachsharememarysucceed.addr:%d.
+[multicast][[-]promisc][txqueuelen<nn>][[-]dynamic]
+unknown
+siocgifhwaddrfailed!:%m
+warning:unrecognizedproto=option.
+clientid-none
+unknownicmptype
+critical!
+designatedcost	%4i
+while
+thismaybenumericalora``facility.level''pair.
+-d	listdirectoryentriesinsteadofcontents
+!*vsinfo
+%d.%d.%d-%d:%d
+/proc
+mountport
+__jiffies_to_tv
+getsharememorysuccess.
+setportprio
+__fputc_unlocked
+timezone
+[netmask<address>][dstaddr<address>]
+siocsifhwaddr
+bb_value_to_baud
+br_set_port_priority
+-n	runasaforegroundprocess.
+couldnotsetsocketoptonrawsocket
+background
+cannotsetgroups
+-d		delayintervalforrebooting.
+bb_msg_standard_input
+bb_fflush_stdout_and_exit
+local2
+-s	sortthelistingbyfilesize
+-l	locktopreventsimultaneousloadsofamodule
+bummer,can'tprint:
+vlan_plus_vid_no_pad
+strpbrk
+[-k][filesystem...]
+send_inform
+safe_read
+sscanf
+pointopoint
+dhcps:recvreleasefrom%02x:%02x:%02x:%02x:%02x:%02x
+-l		loglocallyandvianetworklogging(defaultisnetworkonly)
+get_kernel_revision
+remount:	re-mountamountedfilesystem,changingitsflags.
+can'tfindcircularbuffer
+semop[smrup]
+timesvr
+-q		quietmode,onlydisplaysoutputatstart
+filealreadyexists
+remaining
+bb_error_msg
+expression
+syslogd
+uname
+diratime
+dhcpcbroadcastrequestwithrequestip%x
+pleasepressentertoactivatethisconsole.
+getpid
+unsetvariable:
+shmctl
+putchar
+nosrcaddressinthenon-dadmode
+unabletoremove`%s'
+broadcast
+setwlanwds
+linux
+geteuid
+bbootfile
+__deregister_frame_info
+fopen64
+bb_msg_write_error
+inet_resolve
+getservbyname
+add_simple_option
+export
+-cn	setsthedefaultloglevelofconsolemessageston.
+unabletocdto%s'foruser%s'
+fgetc
+command[options]
+tcntimer
+-u	with-l:showaccesstime
+[options]...baud_rate,...line[termtype]
+hangup
+__muldf3
+send_release
+pauseforatimeequaltothetotaloftheargsgiven,whereeachargcan
+failureparsingline%dof%s
+strcspn
+twomanyclients
+toomanyalternatespeeds
+nothingtoshift
+%2d)%-16s
+putenv
+novalidshadowpassword
+sig:%d
+br_read_fdb
+notify_file
+server_config
+incorrectnumberofargumentsforcommand
+-p	putfile.
+bridgemaxage
+%son%stype%s(%s)
+cannotinsert`%s':%s(%li)
+hellotime
+gotbadhp->h_length
+or:[function][arguments]...
+designatedbridge
+invalidmoduleformat
+set_egress_map
+p:st:
+dstaddr
+setgcint
+rootlogin%s
+usage:readname...
+emergency!
+write_leases
+attach_option
+%ld.%03ldms
+%4d,%3d
+lasttimeout
+interface%snotfound
+xgetcwd
+9tftp
+initgroups
+semctl
+unknownnfsstatusreturnvalue:%d
+couldn'tgetfiledescriptorforsocket/var/log
+vdprintf
+/bin/login
+memmove
+nosuchuser
+sendingsigtermtoallprocesses.
+my_getpwuid
+echorequest
+endmntent
+bb_error_msg_and_die
+couldnotkillpid'%d'
+dhcpc:macclone,re-readwaninterfaceinformation
+-a	donothideentriesstartingwith.
+[arg...]
+/usr/share/udhcpc/default.script
+find_mount_point
+%s:descendintodirectory`%s'?
+_fdata
+kernel_packet
+reset_leases_sh
+100basefx
+-c,	--clientid=clientid	setclientidentifier
+%a,%d%b%y
+directorytomountnotinhost:dirformat
+sioc[add|del]rt
+terminated
+-f,	--foreground	donotforkaftergettinglease
+%4.4s
+%.2x:%.2x:%.2x:%.2x:%.2x:%.2x
+--help
+/proc/%d
+siocgifindexfailed!:%m
+set_flag[interface-name][flag-num][0|1]
+xrealloc
+mounting%son%sfailed
+bb_perror_nomsg_and_die
+longjmp
+interfacename`%s'mustbelessthan%d
+brctl
+br_ioctl
+%63s%lx%lx%x%d%d%d%lx%d%d%d
+pause
+creat64
+dev_plus_vid_no_pad
+vsnprintf
+/proc/net/route
+emerg
+setlinebuf
+%s:notopenforread/write
+tcgetattr
+addbr
+/etc/securetty
+illegaltftpoperation
+-rfile		displaysthelastmodificationtimeoffile
+readonly
+%d:%d:%d
+recursive_action
+busyboxv1.01(2014.07.24-09:31+0000)multi-callbinary
+bb_herror_msg
+optionsforusewiththe"-o"flag:
+bcast:%s
+%s:ioctl:tcseta:%m
+if_indextoname
+/etc/filesystems
+blocking
+%-6d%-2d%7d%s
+get_terminal_width_height
+echoreply
+bb_fclose_nonstdin
+unclosed${
+offer_time
+notcontig
+cannotremove`%s'
+logname
+receivedsigterm
+addressmaskreply
+cannotexecute
+fdopen
+chomp
+%-16s%-16s%-16s%-6s
+%s:%s:%s:%s:%s:%s:%s:%s
+unicast
+crypt
+cannotsetuserid
+[option]...[mmddhhmm[[cc]yy][.ss]][+format]
+port	macaddr		local	ageingtimer
+/proc/net/vlan/config
+weird!can'tfindtheterminatortoken???
+pinghostsbyarprequests/replies.
+can'tfind%sin/etc/fstab
+noclosing`
+request
+%s:can'tfindmountpoint.
+br_set_ageing_time
+siocsiftxqlen
+getipbymac
+sigusr2
+writemessagetothesystemlog.ifmessageisomitted,logstdin.
+_jv_registerclasses
+-g	getfile.
+bb_xgetularg10_bnd
+br_find_bridge
+dhcps:serveridnotfoundandrequestaninvalidip
+bb_wfopen
+listening
+[option]...[module]...
+xgethostbyname
+gctimer
+cannotread/etc/fstab
+selecterror
+br_add_interface
+dhcps:requestip%xisreservedasastaticip
+tasync
+nosuid
+strcpy
+%s:remove`%s'?
+%.2x%.2x.%.2x%.2x%.2x%.2x%.2x%.2x
+actimeo
+opendir
+siocsifnetmask
+namesvr
+semop[smwdn]
+redirect(changeroute)
+dhcpcsenddiscoverwithrequestip%xandunicastflag%d
+script
+__udivdi3
+-h	nameoftheremotehostforthislogin.
+placeholder
+/etc/inittab
+-1	listfilesinasinglecolumn
+-f		quitonfirstarpreply
+100baset
+fatal:couldn'tlistenonsocket,%m
+sysinit
+noauto
+-a	unmountallfilesystems
+sent%dprobes(%dbroadcast(s))
+%24.24s
+-s	logtostderraswellasthesystemlog.
+boot_file
+cannotopenmodule`%s'
+semop
+[hwether<address>][metric<nn>][mtu<nn>]
+optarg
+lstat64
+-c[size(kib)]	logtoacircularbuffer(readthebufferusinglogread)
+e$si8'
+max_leasesvalue(%lu)notsane,settingto%luinstead
+/sbin:/bin:/usr/sbin:/usr/bin
+wtf?inet_ptonerror!!!!
+[up|down]...
+-u		unsolicitedarpmode,updateyourneighbours
+newgrp
+closingparenexpected
+%ldduplicates,
+txpackets:%luerrors:%ludropped:%luoverruns:%lucarrier:%lu
+-oname	setinternalmodulenametoname
+nolease,failing.
+loadsthespecifiedkernelmodulesintothekernel.
+[option]...file...
+arpingto%s
+gettimeofday
+promisc
+unknownpriorityname:%s
+-x	sortthelistingbyextension
+stpisdisabledforthisinterface
+msft98
+if_name>=%dchars
+sysconf
+d~ds:s~ds
+pidfile
+bb_simplify_path
+-f	forcemoduletoloadintothewrongkernelversion.
+serversays:%s
+andwhenfinished.
+thesystemisgoingdownnow!!
+exec
+%dm%fs%dm%fs
+<invalidstate>
+br_set_gc_interval
+-i		donotdisplay/etc/issuebeforerunninglogin.
+can'tcreatepipe-tryagain
+[-d<delay>]
+authpriv
+-idevice	outgoinginterfacename,defaultiseth0
+inet6addr:%s/%d
+mask:%s
+-c	with-l:showctime
+dhcps:sendnak
+%s%s%s%s%3i
+-s,	--script=file	runfileatdhcpevents(default:/usr/share/udhcpc/default.script)
+client_config
+-b,	--background	forktobackgroundifleasecannotbeimmediatelynegotiated.
+unabletoopenconfigfile:%s
+.msh_xxxxxx
+bb_path_motd_file
+bb_inet_default
+/sbin/reboot
+bb_mode_string
+-h,	--hostname=hostname	clienthostname
+xmalloc
+dhcps:serveridandrequestedipnotfound
+freeaddrinfo
+hostent
+-ainet{6}	selectaddressfamily.
+mounthost
+bb_path_nologin_file
+couldnotopen'/dev'
+arping
+%4ld
+sname
+safe_strtoul
+sendasignal(defaultissigterm)tothespecifiedprocess(es).
+safe_write
+bufferalreadyallocatedjustgrabthesemaphore?
+arpping
+leasehostnamenotfound
+rmmod
+br_get_version
+commands:
+/var/lib/misc/udhcpd.leases
+safe_strncpy
+eachmodeisoneormoreofthelettersugoa,oneofthe
+utilitiesintoasingleexecutable.mostpeoplewillcreatea
+getty
+respawn
+nolease,forkingtobackground.
+[-cn][-n]
+-s	makesymboliclinksinsteadofhardlinks
+%siswrite-protected,mountingread-only
+-n		runasaforegroundprocess
+get_runtime_dhcp_flags
+%dbytesfrom%s:icmp_seq=%u
+shmat
+setsockopt
+couldnotstat'/'
+bb_msg_perm_denied_are_you_root
+exitingsyslogd!
+setgcint	<bridge><time>		setgarbagecollectioninterval
+-l	usealonglistingformat
+continue
+promisc
+collisions:%lu
+-i		alwayspromptbeforeremovingeachdestination
+_fbss
+pathcost		%4i
+slave
+trap:badsignalnumber
+getnameinfo
+%s/%d
+dhcps:requestip%x,staticip%x
+rmdir
+dmachan:%x
+forwarddelay
+remount
+concatenatesfile(s)andprintsthemtostdout.
+dhcps:recvrequestfrom%02x:%02x:%02x:%02x:%02x:%02x
+received%drepl%s
+receivemessage:%s.
+__subdf3
+acdirmin
+couldnotconnecttosocket/var/log
+metric
+srand
+__unpack_d
+sysinfo
+sendicmpecho_requestpacketstonetworkhosts.
+%s:errorfetchinginterfaceinformation:%s
+dhcpc:get%dstaticroutefromclasslessstaticrouteoption(121)
+shift
+__stdout
+sendingdiscover...
+-i	addressesforthehostname
+unknowntransferid
+getopt
+strftime
+pingwrote%dchars;%dexpected
+dev_plus_vid
+mkstemp64
+excessivelylonghost:dirargument
+timeo
+dev/nodev:	allowuseofspecialdevicefiles/disallowthem.
+---%spingstatistics---
+interface_opt_a
+bummer,couldnotrun'%s':%m
+udhcpc
+add[interface-name][vlan_id]
+linuxrc
+udhcp_sp_fd_set
+dhcps:requestip%xalreadyreservedbysomeone
+-k	printsizesinkilobytes(compatibility)
+been_there_done_that
+1k-blocks
+warning:optionnolockisnotsupported.
+-n		dontresolvenames.
+exec/noexec:	allowuseofexecutablefiles/disallowthem.
+domain
+/dev/root
+compressed:%lu
+noclosing
+baseaddress:0x%lx
+point-pointprotocol
+thisoptionrequiresabridgenameasargument
+systemclosedforroutinemaintenance.
+ctrlaltdel
+sendack
+home=/
+f:h:p
+master
+fileno
+forwarding
+release
+unspec
+%s:%s
+init_header
+warning:multiplehostnamesnotsupported
+!8f
+invalidhw-addr%s
+siocsifflags
+chmod
+leasefail
+realpath
+abort
+killed
+__ucmpdi2
+:badidentifier
+standardinput
+send_decline
+bogusnetmask%s
+__clzsi2
+heredocument`
+clnt_perror
+correct_password
+tcase
+bummer,can'topen%s
+unknown
+unknown
+p-t-p:%s
+suid/nosuid:	allowset-user-id-rootprograms/disallowthem.
+filesystem%11s%-15susedavailableuse%%mountedon
+cannotopen%s
+strspn
+/proc/net/dev
+[disconnectbypassed--rootloginallowed.]
+__divdf3
+%a%b%e%h:%m:%s%z%y
+#1t$b
+clearenv
+getspnam
+__floatsidf
+getdomainname
+[[-]trailers][[-]arp][[-]allmulti]
+__ctype_b
+__errno_location
+check_ip
+bb_xstrndupbug
+missingvaluefor
+sigaction
+subnet
+ether
+boguspacket,optionfieldstoolong.
+-r		outputsrfc-822compliantdatestring
+device'%s'doesnotexist.
+getgid
+-fpermissiondenied
+__h_errno_location
+dfisf:
+security
+ether_aton
+-ssize		sendsizedatabytesinpackets(default=56).
+inet_ntop
+-x	donotexportexterns
+-a	donotlistimplied.and..
+warning:cannotopen%s.limitedoutput.
+unknown%cid%ld
+kernelipv6routingtable
+xreadlink
+beginanewsessiononthesystem
+alarmclock
+/etc/motd
+bridge%sdoesn'texist!
+badbreak/continuelevel
+nfsvers
+bridge%sisstillup;can'tdeleteit
+startingpid%d,console%s:'%s'
+strncasecmp
+thisappletrequiresrootpriviledges!
+6deg$
+receivedasigusr2,nowdhcpserverrestart
+localloopback
+start
+route
+%d.%d-%d:%d
+/var/log/messages
+-f		removeexistingdestinations,neverprompt
+-tnum	assumetabstopeverynumcolumns
+-q	quietoutput
+-t	with-l:showmodificationtime
+semget
+can`tcreaterawsocket
+-/bin/sh
+change_identity
+badspeed:%s
+listthecurrentlyloadedkernelmodules.
+my_getug
+llist_add_to
+%2d%2d%2d%2d%d
+send_discover
+/dev/urandom
+set_flag
+run_applet_by_name
+bb_msg_full_version
+getnameinfofailed
+add_option_string
+getpwnam
+-v,	--version	displayversion
+leaselost,enteringinitstate
+systemlogdaemonexiting.
+delbr		<bridge>		deletebridge
+sigprocmask
+syscall
+open%s
+netmaskandrouteaddressconflict
+find_address
+-q,	--quit	quitafterobtaininglease
+'unclosed
+br_set_bridge_forward_delay
+-l		localline,sodonotdocarrierdetect.
+wordtoolong
+warning:noinetsocketavailable
+get_option
+e$r(0
+-d		duplicatedaddressdetectionmode
+!4b
+br_del_bridge
+alarm
+/dev/tty3
+local5
+siaddr
+hellotimer
+dhcpc:parseclasslessstaticrouteoptionerror
+bridge_list
+execl
+interface%sdoesnotexist!
+setfd		<bridge><time>		setbridgeforwarddelay
+%5d%-5d%6d%s
+siocgifconf
+#reinstate
+[configfile]
+stp		<bridge><state>	turnstpon/off
+nexthop
+getegid
+set_ingress_map[vlan-name][skb_priority][vlan_qos]
+srouter
+nodev
+lease_expired
+setmaxage
+user=root
+connect
+commandlinetoocomplicated
+rwxxst
+ipttl
+insmod
+nfsmountfailed
+wsize
+%saddr:%s
+reservedip
+unsupporteddhcpmessage(%02x)--ignoring
+console
+bb_show_usage
+noarp
+invaliddate`%s'
+-wtimeout	timetowaitforarpreply,inseconds
+%d.%d-%d:%d:%d
+target		targetipaddressofarprequest
+option0x%02xdidnotfitintothepacket!
+local0
+gcinterval
+gotbadhp->h_length?
+bb_xprint_file_by_name
+nohelpavailable.
+xdr_enum
+setbridgeprio
+strcat
+-w:		mountforreadingandwriting(default).
+buf=%08x,len=%d
+-ofile		useanalternatelogfile(default=/var/log/messages)
+bb_copyfd_eof
+device_open
+-ttag	logusingthespecifiedtag(defaultstousername).
+dhcpc:getip:%xmask:%xgateway:%xdns1:%xdns2:%xstaticroute:%x
+-iinitstring	setstheinitstringtosendbeforeanythingelse.
+invalidmode:%s
+ether_ntoa
+kernellogger.
+false
+-lfile	localfile.
+strsep
+memcmp
+abort
+if_freenameindex
+m:no:s:sb:r:l:r:lc
+qsort
+debug
+sendoffer
+setenv
+couldnotsetpermissionon/var/log
+-n,	--now	exitwithfailureifleasecannotbeimmediatelynegotiated.
+[flags]filesystem|directory
+/dev:chdir()failed:%m
+siocdifaddr
+filenotfound
+gateway
+/proc/%d/cmdline
+uptime
+local3
+clientid
+receivedasigterm
+__clz_tab
+libcrypt.so.0
+ctime
+inet_aton
+debug
+bb_msg_memory_exhausted
+xbytes:%lu(%lu.%u%sb)%s
+vprintf
+difftime
+unsolicited?
+acregmin
+siocgifflags
+-wnum	assumetheterminalisnumcolumnswide
+nodiratime
+bb_xasprintf
+broadcast
+fatal:couldn'tcreateserversocket,%m
+__ashldi3
+unknownfacilityname:%s
+media:%s
+closedir
+[n]...
+can'tgetaccesstocircularbufferfromsyslogd
+-s	listthesizeofeachfile,inblocks
+atime
+scope:
+br_find_port
+memoryexhausted
+u_signal_names
+bridgehellotime
+inet_addr
+/etc/nologin
+-p	preserveenvironment.
+console
+%ldpacketstransmitted,
+setup_environment
+unmountfilesystems
+alert!
+socket6
+login
+timeexceeded
+ccsrouter
+signal
+/proc/filesystems
+gateway%sisanetwork
+setmntent
+6message
+returnanexitcodeoftrue(0).
+tlist
+%7ld
+xdr_bytes
+haveanoptionalsuffixof(s)econds,(m)inutes,(h)ours,or(d)ays.
+invalidparameters
+listen_socket
+askfirst
+ttl=%d
+/usr/sbin:/bin:/usr/bin:/sbin
+udhcpd
+cannotmmap`%s'
+unabletoconnecttoremotehost(%s)
+bb_verror_msg
+%ld%%packetloss
+unlink
+memset
+recvfrom
+memoryallocationfailure
+getmntent
+global
+vasprintf
+single
+inet6_resolve
+isatty
+%s:removedirectory`%s'?
+find_lease_by_chaddr
+dhcpcrecvofferfromserver%xwithip%x
+bb_process_escape_sequence
+%s:inputoverrun
+noshell
+nfsmount
+facilitynames
+youmustberoottochangethehostname
+noatime
+ro/rw:		mountforread-only/read-write.
+safe_strtoi
+netmask
+initstarted:%s
+/lib/ld-uclibc.so.0
+udhcp_sp_ipc_informsend
+unabletostat`%s'
+[-cfbnqv][-cclientid][-hhostname][-iinterface]
+-d	dnsdomainname
+udhcp_sp_read
+_edata
+posix
+__bss_start
+toomanyfilesopeninshell
+sendingsigkilltoallprocesses.
+nfssocket
+print_login_prompt
+max_leases
+window
+busyboxisamulti-callbinarythatcombinesmanycommonunix
+kerneliproutingtable
+strcasecmp
+bound
+xcalloc
+dhcps:leasepoolisfull,offerabandoned
+%-10s
+:notfound
+receiveddhcpnak
+dhcpcperformadhcprenew
+topology_change_ack
+-r,	--request=ip	ipaddresstorequest(default:none)
+/proc/net
+-ffile	usethecontentsoffiletospecifythehostname
+access
+sigaddset
+async
+auto_time
+shmdt
+concat_path_file
+mountvers
+siocsifdstaddr
+pleasestandbywhilerebootingthesystem.
+receivedasigusr1
+msgsnd
+getnetbyaddr
+-f	fullyqualifieddomainname
+winch
+clnt_pcreateerror

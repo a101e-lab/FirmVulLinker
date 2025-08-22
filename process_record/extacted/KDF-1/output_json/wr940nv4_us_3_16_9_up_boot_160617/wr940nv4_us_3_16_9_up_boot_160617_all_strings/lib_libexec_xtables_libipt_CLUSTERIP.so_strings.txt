@@ -1,0 +1,64 @@
+unknown-error
+--clustermac<mac>		setclusteripmacaddress
+hashmode
+%02x:%02x:%02x:%02x:%02x:%02x
+_fini
+canonlyspecifyhashmodecombinedwith"--new"
+--local-node<num>		setthelocalnodenumber
+canonlyspecify"--new"once
+canonlyspecifynodenumbercombinedwith"--new"
+strcmp
+_edata
+libxtables.so.2
+unknownhashmode"%s"
+canonlyspecifymaccombinedwith"--new"
+unabletoparse"%s"
+strlen
+canonlyspecifymaconce
+sprintf
+badmacaddress`%s'
+__cxa_finalize
+total-nodes
+--hashmode<mode>		specifyhashingmode
+glibc_2.0
+xtables_strtoui
+libc.so.0
+badmacaddress"%s"
+canonlyspecifylocalnodenumberonce
+canonlyspecifyhashinitvaluecombinedwith"--new"
+sourceip
+clustermac
+sourceip
+clusterip
+canspecifyhashinitvalueonlyonce
+_jv_registerclasses
+_global_offset_table_
+canonlyspecifytotalnodenumberonce
+local-node
+sourceip-sourceport
+strtol
+_fdata
+sourceip-sourceport-destport
+--total-nodes<num>		setnumberoftotalnodesincluster
+optarg
+clusteriphashmode=%sclustermac=%stotal_nodes=%ulocal_node=%uhash_init=%u
+canonlyspecifyhashmodeonce
+sourceip-sourceport
+_ftext
+libipt_clusterip_init
+__deregister_frame_info
+libgcc_s.so.1
+sourceip-sourceport-destport
+_gp_disp
+machastobeamulticastethernetaddress
+xt_params
+clusteriptarget:invalidparametercombination
+hash-init
+--new--hashmode%s--clustermac%s--total-nodes%d--local-node%d--hash-init%u
+clusteriptargetoptions:
+__bss_start
+--new			createanewclusterip
+xtables_register_target
+__register_frame_info
+--hash-init<num>		setinitvalueofthejenkinshash
+_fbss

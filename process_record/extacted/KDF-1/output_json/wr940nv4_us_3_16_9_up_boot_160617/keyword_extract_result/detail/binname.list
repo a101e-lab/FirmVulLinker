@@ -1,0 +1,17 @@
+httpd
+hostapd
+pppd
+wpa_supplicant
+xl2tpd
+dropbearmulti
+tc
+dhcp6c
+dhcp6s
+lld2d
+iptables-multi
+iwlist
+wifitool
+radvd
+iwconfig
+bpalogin
+wlanconfig

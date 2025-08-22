@@ -1,0 +1,10 @@
+httpd
+hostapd
+pppd
+wpa_supplicant
+xl2tpd
+tc
+lld2d
+iptables-multi
+iwlist
+bpalogin

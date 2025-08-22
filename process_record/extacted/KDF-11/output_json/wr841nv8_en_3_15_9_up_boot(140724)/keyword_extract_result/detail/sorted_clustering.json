@@ -1,0 +1,172 @@
+[
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/bin/httpd",
+        "strings_count": 8807,
+        "para_api_count": 371,
+        "para_count": 305,
+        "numof_para_source_files": 78,
+        "api_count": 66,
+        "numof_api_source_files": 40,
+        "httpd": [
+            8807,
+            371,
+            305,
+            78,
+            66,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/hostapd",
+        "strings_count": 2723,
+        "para_api_count": 56,
+        "para_count": 52,
+        "numof_para_source_files": 48,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "hostapd": [
+            2723,
+            56,
+            52,
+            48,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/pppd",
+        "strings_count": 2169,
+        "para_api_count": 49,
+        "para_count": 45,
+        "numof_para_source_files": 48,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "pppd": [
+            2169,
+            49,
+            45,
+            48,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/wpa_supplicant",
+        "strings_count": 1896,
+        "para_api_count": 41,
+        "para_count": 37,
+        "numof_para_source_files": 43,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "wpa_supplicant": [
+            1896,
+            41,
+            37,
+            43,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/xl2tpd",
+        "strings_count": 865,
+        "para_api_count": 32,
+        "para_count": 28,
+        "numof_para_source_files": 37,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "xl2tpd": [
+            865,
+            32,
+            28,
+            37,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/tc",
+        "strings_count": 1188,
+        "para_api_count": 27,
+        "para_count": 23,
+        "numof_para_source_files": 26,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "tc": [
+            1188,
+            27,
+            23,
+            26,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/bin/lld2d",
+        "strings_count": 474,
+        "para_api_count": 22,
+        "para_count": 18,
+        "numof_para_source_files": 25,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "lld2d": [
+            474,
+            22,
+            18,
+            25,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/iptables-multi",
+        "strings_count": 482,
+        "para_api_count": 18,
+        "para_count": 14,
+        "numof_para_source_files": 20,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "iptables-multi": [
+            482,
+            18,
+            14,
+            20,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/sbin/iwlist",
+        "strings_count": 314,
+        "para_api_count": 16,
+        "para_count": 12,
+        "numof_para_source_files": 12,
+        "api_count": 4,
+        "numof_api_source_files": 40,
+        "iwlist": [
+            314,
+            16,
+            12,
+            12,
+            4,
+            40
+        ]
+    },
+    {
+        "program_name": "/home/satc/SaTC/firmware_extracted/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root/usr/sbin/bpalogin",
+        "strings_count": 214,
+        "para_api_count": 10,
+        "para_count": 10,
+        "numof_para_source_files": 16,
+        "api_count": 0,
+        "numof_api_source_files": 0,
+        "bpalogin": [
+            214,
+            10,
+            10,
+            16,
+            0,
+            0
+        ]
+    }
+]

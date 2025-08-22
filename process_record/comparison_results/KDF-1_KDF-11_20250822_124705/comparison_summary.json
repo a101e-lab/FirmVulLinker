@@ -1,0 +1,37 @@
+{
+    "firmware1": "/root/workspace/FirmVulLinker/process_record/extacted/KDF-1",
+    "firmware2": "/root/workspace/FirmVulLinker/process_record/extacted/KDF-11",
+    "firmware1_dir": "wr940nv4_us_3_16_9_up_boot_160617",
+    "firmware2_dir": "wr841nv8_en_3_15_9_up_boot(140724)",
+    "timestamp": "20250822_124705",
+    "modules": [
+        "binwalk",
+        "interface_exposure",
+        "param",
+        "ghidra",
+        "filesystem_profile"
+    ],
+    "module_results": {
+        "binwalk": {
+            "similarity": 0.9052071733467426,
+            "details_file": "comparison_results/KDF-1_KDF-11_20250822_124705/binwalk/binwalk_details.json"
+        },
+        "interface_exposure": {
+            "similarity": 0.9576293798714239,
+            "details_file": "comparison_results/KDF-1_KDF-11_20250822_124705/interface_exposure/interface_exposure_details.json"
+        },
+        "param": {
+            "similarity": 0.8992507483881151,
+            "details_file": "comparison_results/KDF-1_KDF-11_20250822_124705/param/param_details.json"
+        },
+        "ghidra": {
+            "similarity": 0.595446455074332,
+            "details_file": "comparison_results/KDF-1_KDF-11_20250822_124705/ghidra/ghidra_details.json"
+        },
+        "filesystem_profile": {
+            "similarity": 0.6791072556293412,
+            "details_file": "comparison_results/KDF-1_KDF-11_20250822_124705/filesystem_profile/filesystem_profile_details.json"
+        }
+    },
+    "total_similarity": 0.8429508524458376
+}

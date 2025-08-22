@@ -1,0 +1,41 @@
+tproxyredirect%s:%umark0x%x/0x%x
+--on-portport		redirectconnectiontoport,ortheoriginalportif0
+_fini
+_edata
+libxtables.so.2
+libxt_tproxy_init
+__cxa_finalize
+tproxytargetoptions:
+--tproxy-mark0x%x/0x%x
+glibc_2.0
+xtables_strtoui
+xtables_numeric_to_ipaddr
+tproxy
+libc.so.0
+--on-ipip			optionallyredirecttothegivenip
+printf
+xtables_param_act
+--on-ip
+--on-ip%s
+_jv_registerclasses
+_global_offset_table_
+tproxy-mark
+on-ip
+on-port
+_fdata
+xtables_ipaddr_to_numeric
+optarg
+--on-port%u
+--tproxy-markvalue[/mask]	markpacketswiththegivenvalue/mask
+_ftext
+tproxytarget:parameter--on-portisrequired
+__deregister_frame_info
+libgcc_s.so.1
+--on-port
+--tproxy-mark
+_gp_disp
+xt_params
+__bss_start
+xtables_register_target
+__register_frame_info
+_fbss

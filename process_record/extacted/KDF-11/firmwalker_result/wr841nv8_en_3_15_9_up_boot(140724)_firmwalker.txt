@@ -1,0 +1,564 @@
+***Firmware Directory***
+/root/workspace/FirmVulLinker/firmware_analysis_tool/results/binwalk_docker_result/extract_result/_wr841nv8_en_3_15_9_up_boot(140724).bin.extracted/squashfs-root
+***Search for password files***
+##################################### passwd
+t/etc/passwd
+
+##################################### shadow
+t/etc/shadow
+
+##################################### *.psk
+
+***Search for Unix-MD5 hashes***
+
+
+***Search for SSL related files***
+##################################### *.crt
+
+##################################### *.pem
+
+##################################### *.cer
+
+##################################### *.p7b
+
+##################################### *.p12
+
+##################################### *.key
+
+
+***Search for SSH related files***
+##################################### authorized_keys
+
+##################################### *authorized_keys*
+
+##################################### host_key
+
+##################################### *host_key*
+
+##################################### id_rsa
+
+##################################### *id_rsa*
+
+##################################### id_dsa
+
+##################################### *id_dsa*
+
+##################################### *.pub
+
+
+***Search for files***
+##################################### *.conf
+t/web/oem/model.conf
+t/etc/resolv.conf
+t/etc/nsswitch.conf
+t/etc/host.conf
+t/etc/lld2d.conf
+
+##################################### *.cfg
+
+##################################### *.ini
+
+
+***Search for database related files***
+##################################### *.db
+t/web/images/Thumbs.db
+
+##################################### *.sqlite
+
+##################################### *.sqlite3
+
+##################################### *.mdb
+
+##################################### *.mdf
+
+##################################### *.myd
+
+##################################### *.dbf
+
+##################################### *.wdb
+
+
+***Search for shell scripts***
+##################################### shell scripts
+
+***Search for other .bin files***
+##################################### bin files
+
+***Search for patterns in files***
+-------------------- upgrade --------------------
+t/usr/bin/httpd
+t/web/localiztion/str_err.js
+t/web/localiztion/str_menu.js
+t/web/help/SoftwareUpgradeHelpRpm.htm
+t/web/help/SysRebootHelpRpm.htm
+t/web/userRpm/SoftwareUpgradeRpm.htm
+t/web/userRpm/UpdateTemp.htm
+t/web/userRpm/Index.htm
+
+-------------------- admin --------------------
+t/usr/bin/httpd
+t/lib/libexec/xtables/libipt_REJECT.so
+t/web/dynaform/custom.js
+t/web/userRpm/AccessDenied.htm
+t/etc/services
+
+-------------------- root --------------------
+t/sbin/tc
+t/sbin/hostapd
+t/usr/sbin/pppd
+t/usr/bin/httpd
+t/lib/libip4tc.so.0.0.0
+t/lib/libwpa_common.so
+t/lib/libip6tc.so.0.0.0
+t/web/help/WlanNetworkHelpRpm.htm
+t/bin/busybox
+t/etc/group
+t/etc/passwd
+t/etc/shadow
+
+-------------------- password --------------------
+t/sbin/wpa_supplicant
+t/sbin/hostapd
+t/usr/sbin/bpalogin
+t/usr/sbin/xl2tpd
+t/usr/sbin/pppd
+t/usr/bin/httpd
+t/lib/libuClibc-0.9.30.so
+t/web/localiztion/str_err.js
+t/web/localiztion/str_menu.js
+t/web/help/L2tpCfgHelpRpm.htm
+t/web/help/ChangeLoginPwdHelpRpm.htm
+t/web/help/WzdWlanHelpRpm.htm
+t/web/help/WzdL2TPHelpRpm.htm
+t/web/help/WanStaticIpCfgHelpRpm.htm
+t/web/help/PptpCfgHelpRpm.htm
+t/web/help/WzdPPPoEHelpRpm.htm
+t/web/help/PPPoECfgHelpRpm.htm
+t/web/help/WzdPPTPHelpRpm.htm
+t/web/help/DynDdnsHelpRpm.htm
+t/web/help/WanDynamicIpCfgHelpRpm.htm
+t/web/help/LocalManageControlHelpRpm.htm
+t/web/help/BpaCfgHelpRpm.htm
+t/web/help/WzdWanTypeHelpRpm.htm
+t/web/help/DdnsAddComexeHelpRpm.htm
+t/web/help/AutoEmailHelpRpm.htm
+t/web/help/RestoreDefaultCfgHelpRpm.htm
+t/web/help/NoipDdnsHelpRpm.htm
+t/web/help/WlanSecurityHelpRpm.htm
+t/web/help/WlanNetworkHelpRpm.htm
+t/web/help/ManageControlHelpRpm.htm
+t/web/userRpm/MailResultRpm.htm
+t/web/userRpm/WzdWanTypeRpm.htm
+t/web/userRpm/WzdL2TPRpm.htm
+t/web/userRpm/ChangeLoginPwdRpm.htm
+t/web/userRpm/AccessDenied.htm
+t/web/userRpm/WlanNetworkRpm.htm
+t/web/userRpm/AutoEmailRpm.htm
+t/web/userRpm/WzdWlanRpm.htm
+t/web/userRpm/PPTPCfgRpm.htm
+t/web/userRpm/L2TPCfgRpm.htm
+t/web/userRpm/NoipDdnsRpm.htm
+t/web/userRpm/DynDdnsRpm.htm
+t/web/userRpm/PPPoECfgRpm.htm
+t/web/userRpm/WzdPPTPRpm.htm
+t/web/userRpm/CmxDdnsRpm.htm
+t/web/userRpm/WlanSecurityRpm.htm
+t/web/userRpm/BPACfgRpm.htm
+t/web/userRpm/WzdPPPoERpm.htm
+t/bin/busybox
+t/etc/wpa2/hostapd.eap_user
+
+-------------------- passwd --------------------
+t/usr/sbin/pppd
+t/lib/libuClibc-0.9.30.so
+t/etc/nsswitch.conf
+t/etc/services
+
+-------------------- pwd --------------------
+t/sbin/wpa_supplicant
+t/sbin/hostapd
+t/usr/bin/httpd
+t/lib/libuClibc-0.9.30.so
+t/web/userRpm/WzdL2TPRpm.htm
+t/web/userRpm/WzdWlanRpm.htm
+t/web/userRpm/PPTPCfgRpm.htm
+t/web/userRpm/L2TPCfgRpm.htm
+t/web/userRpm/NoipDdnsRpm.htm
+t/web/userRpm/DynDdnsRpm.htm
+t/web/userRpm/WzdPPTPRpm.htm
+t/web/userRpm/CmxDdnsRpm.htm
+t/web/userRpm/WlanSecurityRpm.htm
+t/web/userRpm/BPACfgRpm.htm
+
+-------------------- dropbear --------------------
+
+-------------------- ssl --------------------
+t/sbin/wpa_supplicant
+t/sbin/hostapd
+
+-------------------- private key --------------------
+t/sbin/wpa_supplicant
+t/lib/libwpa_common.so
+
+-------------------- telnet --------------------
+t/web/userRpm/AccessCtrlAccessTargetsAdvRpm.htm
+t/web/userRpm/VirtualServerAdvRpm.htm
+t/web/userRpm/WzdAccessCtrlTargetAddRpm.htm
+t/web/userRpm/AccessCtrlAccessRuleModifyRpm.htm
+t/etc/services
+
+-------------------- secret --------------------
+t/sbin/hostapd
+t/usr/sbin/xl2tpd
+t/usr/sbin/pppd
+t/lib/libwpa_common.so
+
+-------------------- pgp --------------------
+
+-------------------- gpg --------------------
+
+-------------------- token --------------------
+t/sbin/iwlist
+t/sbin/tc
+t/sbin/hostapd
+t/usr/sbin/pppd
+t/bin/busybox
+
+-------------------- api key --------------------
+
+-------------------- oauth --------------------
+
+-------------------- cmd= --------------------
+t/lib/modules/2.6.31/kernel/pppol2tp.ko
+
+-------------------- exec= --------------------
+
+-------------------- command= --------------------
+t/sbin/hostapd
+
+-------------------- execute= --------------------
+
+-------------------- AccessKey --------------------
+
+-------------------- accesskey --------------------
+
+-------------------- AccessKeySecret --------------------
+
+-------------------- access_key --------------------
+
+-------------------- access_token --------------------
+
+-------------------- access_key --------------------
+
+-------------------- access_token --------------------
+
+-------------------- admin_pass --------------------
+
+-------------------- admin_user --------------------
+
+-------------------- algolia_admin_key --------------------
+
+-------------------- algolia_api_key --------------------
+
+-------------------- alias_pass --------------------
+
+-------------------- alicloud_access_key --------------------
+
+-------------------- amazon_secret_access_key --------------------
+
+-------------------- amazonaws --------------------
+
+-------------------- ansible_vault_password --------------------
+
+-------------------- aos_key --------------------
+
+-------------------- api_key --------------------
+
+-------------------- api_key_secret --------------------
+
+-------------------- api_key_sid --------------------
+
+-------------------- api_secret --------------------
+
+-------------------- api.googlemaps AIza --------------------
+
+-------------------- apikey --------------------
+
+-------------------- apiSecret --------------------
+
+-------------------- app_debug --------------------
+
+-------------------- app_id --------------------
+
+-------------------- app_key --------------------
+
+-------------------- app_log_level --------------------
+
+-------------------- app_secret --------------------
+
+-------------------- appkey --------------------
+
+-------------------- appkeysecret --------------------
+
+-------------------- application_key --------------------
+
+-------------------- appsecret --------------------
+
+-------------------- auth_token --------------------
+
+-------------------- authorizationToken --------------------
+
+-------------------- authsecret --------------------
+
+-------------------- aws_access --------------------
+
+-------------------- aws_access_key_id --------------------
+
+-------------------- aws_bucket --------------------
+
+-------------------- aws_key --------------------
+
+-------------------- aws_secret --------------------
+
+-------------------- aws_secret_key --------------------
+
+-------------------- aws_token --------------------
+
+-------------------- AWSSecretKey --------------------
+
+-------------------- b2_app_key --------------------
+
+-------------------- bashrc password --------------------
+
+-------------------- bintray_apikey --------------------
+
+-------------------- bintray_gpg_password --------------------
+
+-------------------- bintray_key --------------------
+
+-------------------- bintraykey --------------------
+
+-------------------- bluemix_api_key --------------------
+
+-------------------- bluemix_pass --------------------
+
+-------------------- browserstack_access_key --------------------
+
+-------------------- bucket_password --------------------
+
+-------------------- bucketeer_aws_access_key_id --------------------
+
+-------------------- bucketeer_aws_secret_access_key --------------------
+
+-------------------- built_branch_deploy_key --------------------
+
+-------------------- bx_password --------------------
+
+-------------------- cache_driver --------------------
+
+-------------------- cache_s3_secret_key --------------------
+
+-------------------- cattle_access_key --------------------
+
+-------------------- cattle_secret_key --------------------
+
+-------------------- certificate_password --------------------
+
+-------------------- ci_deploy_password --------------------
+
+-------------------- client_secret --------------------
+
+-------------------- client_zpk_secret_key --------------------
+
+-------------------- clojars_password --------------------
+
+-------------------- cloud_api_key --------------------
+
+-------------------- cloud_watch_aws_access_key --------------------
+
+-------------------- cloudant_password --------------------
+
+-------------------- cloudflare_api_key --------------------
+
+-------------------- cloudflare_auth_key --------------------
+
+-------------------- cloudinary_api_secret --------------------
+
+-------------------- cloudinary_name --------------------
+
+-------------------- codecov_token --------------------
+
+-------------------- config --------------------
+t/sbin/wpa_supplicant
+t/sbin/hostapd
+t/usr/sbin/xl2tpd
+t/usr/sbin/pppd
+t/usr/bin/httpd
+t/lib/modules/2.6.31/kernel/br_MultiSsidVlan_InputForward.ko
+t/lib/modules/2.6.31/net/ath_dev.ko
+t/lib/libuClibc-0.9.30.so
+t/lib/libiw.so.29
+t/web/userRpm/LanDhcpServerRpm.htm
+t/web/userRpm/UpdateTemp.htm
+t/web/userRpm/WzdEndRpm.htm
+t/web/userRpm/confUploadErrorRpm.htm
+t/web/userRpm/WpsCfgRpm.htm
+t/web/userRpm/WlanSecurityRpm.htm
+t/web/userRpm/WlanAdvRpm.htm
+t/web/userRpm/BakNRestoreRpm.htm
+t/bin/busybox
+t/etc/ath/default/default_wsc_cfg.txt
+t/etc/ath/wsc_config.txt
+
+-------------------- conn.login --------------------
+
+-------------------- connectionstring --------------------
+
+-------------------- consumer_key --------------------
+
+-------------------- consumer_secret --------------------
+
+-------------------- credentials --------------------
+t/sbin/hostapd
+
+-------------------- cypress_record_key --------------------
+
+-------------------- database_password --------------------
+
+-------------------- database_schema_test --------------------
+
+-------------------- datadog_api_key --------------------
+
+-------------------- datadog_app_key --------------------
+
+-------------------- db_password --------------------
+
+-------------------- db_server --------------------
+
+-------------------- db_username --------------------
+
+-------------------- dbpasswd --------------------
+
+-------------------- dbpassword --------------------
+
+-------------------- dbuser --------------------
+
+-------------------- deploy_password --------------------
+
+-------------------- digitalocean_ssh_key_body --------------------
+
+-------------------- digitalocean_ssh_key_ids --------------------
+
+-------------------- docker_hub_password --------------------
+
+-------------------- docker_key --------------------
+
+-------------------- docker_pass --------------------
+
+-------------------- docker_passwd --------------------
+
+-------------------- docker_password --------------------
+
+-------------------- dockerhub_password --------------------
+
+-------------------- dockerhubpassword --------------------
+
+-------------------- dot-files --------------------
+
+-------------------- dotfiles --------------------
+
+-------------------- droplet_travis_password --------------------
+
+-------------------- dynamoaccesskeyid --------------------
+
+-------------------- dynamosecretaccesskey --------------------
+
+-------------------- elastica_host --------------------
+
+-------------------- elastica_port --------------------
+
+-------------------- elasticsearch_password --------------------
+
+-------------------- encryption_key --------------------
+
+-------------------- encryption_password --------------------
+
+-------------------- env.heroku_api_key --------------------
+
+-------------------- env.sonatype_password --------------------
+
+-------------------- eureka.awssecretkey --------------------
+
+
+***Search for web servers***
+##################################### search for web servers
+##################################### apache
+
+##################################### lighttpd
+
+##################################### alphapd
+
+##################################### httpd
+t/usr/bin/httpd
+
+
+***Search for important binaries***
+##################################### important binaries
+##################################### ssh
+
+##################################### sshd
+
+##################################### scp
+
+##################################### sftp
+
+##################################### tftp
+t/usr/bin/tftp
+
+##################################### dropbear
+
+##################################### busybox
+t/bin/busybox
+
+##################################### telnet
+
+##################################### telnetd
+
+##################################### openssl
+
+
+***Search for ip addresses***
+##################################### ip addresses
+0.0.0.0
+127.0.0.1
+192.168.0.1
+192.168.0.100
+192.168.0.199
+192.168.0.23
+192.168.1.1
+192.168.1.23
+202.96.12.8
+202.96.134.188
+222.88.88.234
+255.0.0.0
+255.255.0.0
+255.255.255.0
+255.255.255.255
+61.145.238.5
+
+***Search for urls***
+##################################### urls
+http://' + address;	
+http://'+ waitWdsInf[3] + 
+http://202.96.12.8:8080
+http://dyn.com
+http://www.comexe.cn
+http://www.comexe.cn');
+http://www.iana.org
+http://www.noip.com
+http://www.noip.com');
+http://www.oray.net
+http://www.w3.org
+
+***Search for emails***
+##################################### emails
